@@ -21,7 +21,7 @@ Le login n'est pas modifiable par la suite. C'est ce login (ou nom_du_compte) qu
 
 <img207|center>
 
-{{{Un tour de la maison}}}
+## Un tour de la maison
 
 Lorsque nous arrivons dans notre espace de travail :
 
@@ -157,7 +157,7 @@ Mais comment lire directement les messages adressés à {bienvenue}@{bienvenue}.
 <img225|center>
 
 
-{{{Une première page.}}}
+## Une première page.
 
 Nous avons vu que le répertoire par défaut de notre site web www.{bienvenue}.lautre.net est vide. Comment faire un site ? 
 

@@ -16,7 +16,7 @@ _ http://forum.spip.org/fr_199695.html
 
 Et qui contient une solution possible données par denisb en bas de page :
 
-effectuer la correction en amont (encore plus haut dans lappel de fonction), à savoir dans {{{ecrire/inc/securiser_action.php}}}
+effectuer la correction en amont (encore plus haut dans lappel de fonction), à savoir dans ## ecrire/inc/securiser_action.php
 
 
 {{les lignes 24, 25 et 26 à remplacer par :}}

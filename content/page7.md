@@ -5,7 +5,7 @@ Tags: old
 Summary: Pour être actif, un compte doit être associé à un (ou plusieurs) nom(s) de domaine ou sous-domaines. . Pour être actif, un compte doit être associé à un (ou plusieurs) nom(s) de domaine ou sous-domaines.
 
 
-{{{Achat du nom de domaine}}}
+## Achat du nom de domaine
 Un nom de domaine se compose d'un nom suivi d'un point et d'une extension (fr, com, org, net ...). Chaque nom de domaine est unique au monde. 
 _ Il s'acquiert auprès d'un registrar (vendeur de noms de domaine).
 Exemples : alternc.org, octopuce.fr
@@ -24,7 +24,7 @@ Il faut acheter le nom de domaine avant de l'installer, sauf pour les noms de do
 _ Une vérification automatique est faite lorsqu'un domaine est installé. Si les DNS correctes ne sont pas enregistrées dans la base mondiale des noms de domaines, le serveur refusera l'installation, sauf si l'administrateur des comptes AlternC en a donné l'autorisation et vous l'a indiqué : voir chapitre « Administration des comptes ».  
 
 Mais, pour que le monde entier puisse consulter les pages web vers lesquelles pointe le nom de domaine il faut attendre que les fournisseurs d'accès internet aient bien enregistré l'information afin de diriger leurs usagers vers le bon serveur (compter entre 24 et 72 heures). 
-{{{Installation d'un nom de domaine sur un compte AlternC}}}
+## Installation d'un nom de domaine sur un compte AlternC
 L'accès au formulaire d'installation se fait par un clic sur le lien « Domaines » puis « Heberger un domaine » dans le menu.
 _ Dans la partie droite du bureau virtuel, le formulaire s'affiche.
 _ Inscrire le nom de domaine souhaité (sans les www).
@@ -53,7 +53,7 @@ Nous allons maintenant étudier plus spécifiquement les paramètres de ce nom d
 
 Pour cela il suffit de cliquer sur le lien « aide-alternc.org » dans la rubrique « Domaines » du menu.
 
-{{{Paramétrer le domaine installé sur le serveur}}}
+## Paramétrer le domaine installé sur le serveur
 
 La partie gauche du bureau virtuel affiche deux zones : Sous-domaines et paramètres DNS.  Dans ce premier temps, nous nous limiterons à les décrire.
 _ Pour une gestion des domaines st sous-domaines en fonction des répertoires et fichiers se repporter à l'article "Gestion de domaine et sous-domaine".
@@ -74,7 +74,7 @@ Les DNS de ce domaine sont gérés par votre serveur ainsi que les mails liés a
 _ Attention, le bouton [Effacer aide-alternc.org] supprime le domaine de ce compte.
 
 
-{{{Cas particulier des TLD suivants : .fr, .re, .de et .eu.org}}}
+## Cas particulier des TLD suivants : .fr, .re, .de et .eu.org
 
 Si vous souhaitez installer un domaine en .fr, .re, .de ou en .eu.org sur L'Autre Net, il faut absolument installer ce domaine sur lautre.net {{AVANT}} de demander la création du TLD auprès de votre registrar.
 
@@ -93,5 +93,5 @@ et entrez :
 Note pour les .eu.org : il semble que certains des root de l'autre net soient co-admin de eu.org, aussi si vous devez réserver un domaine en .eu.org, demandez la réservation sur eu.org, puis envoyez un petit mail à {root arobase lautre.net} pour qu'ils vous valident le nom de domaine dans l'élan ;)
 
 
-{{{Le dernier membre du domaine est incorrect ou non hébergeable sur ce serveur.}}}
+## Le dernier membre du domaine est incorrect ou non hébergeable sur ce serveur.
 Envoyez un p'tit mail à {root arobase lautre.net} pour qu'ils ajoutent votre TLD dans la liste des domaines supportés.

@@ -4,7 +4,7 @@ Category: 05. Gestion bases de données
 Tags: old
 Summary: Créer plusieurs utilisateurs MySQL permet de donner la main à un créateur de site web (par exemple) sans lui donner accès au bureau AlternC. . Un compte FTP et un compte Utilisateur AlternC, vous voici parés pour confier la réalisation d'un site web, par exemple, sans donner accès à votre comte AlternC (messagerie, statistiques, listes de diffusion... resteront confidentielles). 
 
-{{{Créer un utilisateur MySQL}}}
+## Créer un utilisateur MySQL
 
 Un clic sur le lien «{Utilisateur MySQL}» sans le menu de gauche du bureau vrituel, affichera un seul lien : «{Créer un nouvel utilisatguer MySQL}».
 _ Cliquez sur ce lien.
@@ -18,7 +18,7 @@ Validez en cliquant sur le bouton [Créer ce nouvel utilisateur]
 Il apparaît maintenant dans la liste des utilisateurs MySQL
 <img136|center>
 
-{{{Donner des droits à un utilisateur MySQL}}}
+## Donner des droits à un utilisateur MySQL
 
 Pour le moment, cet utilisateur n'a aucun droit sur aucune base, nous allons lui en donner, par exemple sur la base {demo_spip}. Pour cela cliquer sur le lien «{Droits}», à droite du nom d'utilisateur.
 <img137|center>

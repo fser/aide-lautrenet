@@ -4,7 +4,7 @@ Category: 07. Gestion listes de discussion
 Tags: old
 Summary: Comment configurer au mieux de vos besoins les options concernant les abonnements. . 
 
-{{{Gérer les abonnés}}}
+## Gérer les abonnés
 
 Dans le menu général cliquer sur le lien "{Options Générales}" (en haut 1ère colonne) et modifier les valeurs comme suit :
 
@@ -77,7 +77,7 @@ Pour tout changement dans votre abonnement contacter l'administrateur
 toto@alternc.org.}|
 
 
-{{{Inscrire les abonnés}}}
+## Inscrire les abonnés
 
 Afin de respecter la cohérence des choix (liste de diffusion, de discussion privée, de discussion publique) nous devons modifier tout d'abord les options d'abonnement.
 
@@ -106,7 +106,7 @@ Vous pouvez, indiquer un texte supplémentaire qui sera inclus dans le message d
 Valider vos enregistrements en cliquant, comme pour tout changement sur :
 <img101|center>
 
-{{{Tests}}}
+## Tests
 
 Tester la liste avec des envois provenant de différents abonnés et de l'administrateur.
 _Visualiser les messages depuis les différentes boites aux lettres.

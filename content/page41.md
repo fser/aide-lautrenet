@@ -17,7 +17,7 @@ En conséquence :
 {{IMPORTANT : l'obtention du reçu nécessite l'accès au compte AlternC et donc le login et mot de passe d'accès à ce compte.}}
 
 
-{{{Pour obtenir le reçu}}}
+## Pour obtenir le reçu
 
 1. Depuis le menu du bureau virtuel cliquer sur le lien "Comptabilité" dans la rubrique "Mon Compte"
 

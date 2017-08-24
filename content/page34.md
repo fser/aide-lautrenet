@@ -9,7 +9,7 @@ L'utilisation des liens en bleu est la même que pour tout compte AlternC.
 Nous nous intéresserons ici, exclusivement, aux liens de couleur rouge.
 
 
-{{{Le compte admin AlternC}}}
+## Le compte admin AlternC
 
 <img104|left> Après authentification, l'administrateur des comptes AlternC accède au bureau virtuel du compte « {admin} ».
  
@@ -27,7 +27,7 @@ Le menu du bureau virtuel est semblable à celui de l'utilisateur d'un compte à
 
 <img105>
 
-{{{Liste des comptes}}}
+## Liste des comptes
 
 Un clic sur le lien « {Gérer les membres} » affiche la liste des comptes hébergés sur le serveur dans la partie droite du bureau.
 
@@ -57,7 +57,7 @@ C'est également depuis ce tableau que l'on peut créer un nouveau compte.
 Lien bleu en haut du tableau : « {Créer un nouveau membre }»
 supprimer un compte :
 
-{{{Création d'un compte}}}
+## Création d'un compte
 
 La création d'un nouveau compte (nommé membre sur le serveur de démonstration)  est aussi aisée que la création d'un nouvel e-mail 
 -* Clic sur le lien « {Créer un nouveau membre} »
@@ -73,7 +73,7 @@ La création d'un nouveau compte (nommé membre sur le serveur de démonstration
 
 {Note : Le nom du propriétaire du compte n'est pas obligatoirement celui du gestionnaire du compte.}
 
-{{{Modification d'un compte}}}
+## Modification d'un compte
 
 Un clic sur le lien «Modifier» dans la liste des membres permet de changer chertaines informations du compte concerné.
 
@@ -91,7 +91,7 @@ La périodicité de facturation n'est pas activée sur ce serveur. Il ne s'agit 
 
 {Attention : le Lien « {Transformer ce compte en compte d'Administrateur }» donne, au gestionnaire du compte, le droit de créer lui-même des comptes. A manipuler donc avec précaution et après formation du gestionnaire.}
 
-{{{Gestion des quotas d'un compte}}}
+## Gestion des quotas d'un compte
 
 <img113|left> Par défaut, des quotas sont définis en matière de comptes mails, noms de domaines, comptes FTP, ...). Nous verrons par la suite comment définir ces quotas par défaut.
 
@@ -101,7 +101,7 @@ Les champs du formulaire permettent d'entrer les nouveaux quotas pour chaque él
 
 Cliquer sur le bouton [Modifier les quotas] pour enregistrer les modifications.
 
-{{{Connexion à un compte depuis le compte « admin »}}}
+## Connexion à un compte depuis le compte « admin »
 
 Avant de cliquer sur le lien « {Connecter} » associé à un compte, assurez-vous que le gestionnaire ou le propriétaire du compte vous en a donné le droit.
 
@@ -110,7 +110,7 @@ Avant de cliquer sur le lien « {Connecter} » associé à un compte, assurez-
 Le bureau virtuel du compte choisi s'affiche à la place de celui du compte « {admin} ».  Pour retourner au compte « {admin} » il sera nécessaire de se déconnecter du compte en cours puis de se reconnecter en s'identifiant ((raison de sécurité évidente).
 
 
-{{{Quotas utilisateurs}}}
+## Quotas utilisateurs
 
 Depuis le lien « {Quotas utilisateurs} », l'administrateur AlternC visualise l'utilisation de l'espace pour chaque compte, soit en Mo, soit en pourcentage d'occupation du serveur (chiffres ou graphiques).
 

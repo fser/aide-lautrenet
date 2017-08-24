@@ -9,14 +9,14 @@ C'est un logiciel très performant qui permet une gestion très fine des abonné
 
 Cest un logiciel très performant qui permet une gestion très fine des abonnés et des particularités des listes.
 
-{{{Limites}}}
+## Limites
 -# Un nom de liste utilisé sur un serveur ne peut pas être réutilisé pour une autre liste (même avec un nom de domaine différent) sur ce même serveur.
 -# L'administration des listes est compliquée du fait d'une interface de gestion peu conviviale et d'une traduction française qui laisse à désirer.
 
 Le point 1 n'est pas modifiable mais [on peut le contourner->42]
 _ Le point 2 peut être résolu : c'est l'objet de cette rubrique
 
-{{{Prérequis}}}
+## Prérequis
 Avant de créer une liste il faut définir les points suivants :
 -* {{objectif précis de la liste}}
 -* {{type de liste}}

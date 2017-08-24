@@ -9,7 +9,7 @@ Summary: L'accès à votre compte via SSH est une possibilité basée sur la lig
 La connexion en SSH nécessite d'avoir au préalable [activé la connexion sécurisée à votre compte->34]. Pensez, lors de cette étape, à bien noter le nom d'hôte indiqué par le bureau virtuel (quelque chose ressemblant à slave1.vds.lautre.net).
 
 
-{{{Connexion SSH sous Mac OS ou Linux}}}
+## Connexion SSH sous Mac OS ou Linux
 
 Sous Linux, un client SSH est habituellement installé par la plupart des distributions. Si ça n'est pas le cas (si la commande SSH n'est pas disponible), il vous suffit d'installer le paquet nommé openssh ou quelque chose d'équivalent. Sous Mac OS, un client SSH est disponible "en standard".
 
@@ -29,7 +29,7 @@ Il se peut que le système vous demande d'accepter la clé publique de la machin
 
 Une invite vous demande ensuite votre mot de passe : il s'agit du mot de passe que vous utilisez pour vous connecter au bureau virtuel. Saisissez-le, et si tout s'est bien passé vous devriez maintenant être connecté.
 
-{{{Connexion SSH sous Windows}}}
+## Connexion SSH sous Windows
 
 L'accès en SSH sous Windows nécessite l'installation d'un logiciel spécifique. Le plus couramment utilisé est sans doute PuTTY, qui est librement téléchargeable à l'adresse suivante :
 
@@ -47,7 +47,7 @@ Le seul champ à renseigner est {Host name} (en rouge sur la capture d'écran), 
 
 Une fenêtre de terminal devrait s'ouvrir avec la mention {Login as}. Saisissez alors votre identifiant de connexion au bureau virtuel (le nom de votre compte). PuTTY va alors vous demander votre mot de passe : il s'agit du mot de passe de connexion au bureau virtuel. Saisissez-le (ce que vous tapez ne s'affiche pas pendant la saisie) et validez : ça y'est, vous êtes connecté !
 
-{{{Et maintenant ?}}}
+## Et maintenant ?
 
 Une fois connecté, vous êtes dans une machine virtuelle, en mode console de Linux, positionné dans le répertoire /home où se trouve votre site. Vous pouvez taper la commande :
 

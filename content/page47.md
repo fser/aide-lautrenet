@@ -4,7 +4,7 @@ Category: 13. Diverses questions techniques
 Tags: old
 Summary:  . 
 
-{{{Architecture Logicielle de L'Autre Net }}}
+## Architecture Logicielle de L'Autre Net 
 
 
 https://aide.lautre.net/attachment/wiki/TrucsEtAstuces/Misc/Schema/SchemaArchiLautre.png?format=raw

@@ -4,7 +4,7 @@ Category: 07. Gestion listes de discussion
 Tags: old
 Summary: Comment choisir entre toutes les options proposées par mailman celles qui vous conviennent. . 
 
-{{{Abonner l'administrateur (ou gestionnaire) de la liste (2 étapes)}}}
+## Abonner l'administrateur (ou gestionnaire) de la liste (2 étapes)
 
 Attention, l'administrateur n'est pas automatiquement abonné à la liste qu'il gère. Nous allons donc l'abonner, ce n'est pas obligatoire mais préférable ici.
 
@@ -38,7 +38,7 @@ Il est possible de régler déjà un certain nombre d'options.
 Pour éviter de surcharger notre texte avec des copies d'écran de trop grande taille, nous vous proposons des tableaux reproduisant des lignes de l'interface administrateur. 
 _ Une ligne titre, ajoutée par nos soins sur ce document permet de différencier les réponses selon le type de liste choisi.
 
-{{{Rendre cette liste publique ou privée (deux étapes)}}}
+## Rendre cette liste publique ou privée (deux étapes)
 
 {{1 - Dans le menu général cliquer sur le lien "{Options de confidentialité ...}"}} (en haut 2ème colonne) et modifier les valeurs comme indiqué sur les tableaux ci-dessous.
 
@@ -67,7 +67,7 @@ _ (ici cela à peu d'importance puisque la liste des abonnés n'est accéssible 
 ATTENTION : Ne jamais oublier de valider les modifications en cliquant  sur 
 <img101|center>
 
-{{{Gérer l'envoi et la réception des messages}}}
+## Gérer l'envoi et la réception des messages
 
 Dans le menu général cliquer sur le lien "{Options de confidentialité ...}" (en haut 2ème colonne) puis sur le lien "{Filtres expéditeurs}" et modifier les valeurs comme suit :
 

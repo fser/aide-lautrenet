@@ -6,7 +6,7 @@ Summary: Il revient au gestionnaire d'un compte AlternC de créer les listes de 
   . Le nombre de listes pour un compte AlternC est déterminé par l'administrateur.
 
 
-{{{Mise en place de la liste}}}
+## Mise en place de la liste
 
 Cette étape est la même quelle que soit le type de liste à créer.
 
@@ -53,7 +53,7 @@ Toute liste doit être configurée avec soin en fonction d'objectifs bien défin
 Nous allons étudier plusieurs cas dans les chapitres suivants.
 Bien évidemment les possibilités offertes par Mailman étant très nombreuses, nous choisirons trois cas classiques : Liste de diffusion, Liste de discussion privée, Liste de discussion publique.
 
-{{{Les 3 types de listes}}}
+## Les 3 types de listes
 
 Nous proposons, dans ce document, la configuration de trois types de liste. 
 Il ne s'agit que de suggestions, l'objectif étant la prise en main des focntions de base de l'interface d'administration des listes Mailman.
@@ -90,7 +90,7 @@ _ Bien évidemment, ces options peuvent être adaptées à vos besoins propres.
 
 Nous allons, au préalable décrire les manipulations communes à tout type de liste.
 
-{{{Accéder à l'interface d'administration de la liste}}}
+## Accéder à l'interface d'administration de la liste
 
 Pour accéder à l'interface d'administration de la liste deux possibilités :
 -# utiliser le lien "Administration" dans le tableau (le mieux est de faire un clic droit avec la souris et d'ouvir la fenêtre dans un nouvel onglet sous Mozilla ou Firefox)
@@ -112,7 +112,7 @@ La fenêtre qui s'ouvre est trop grande pour être reproduite ici, ci-dessous no
 
 <img95|center>
 
-{{{Choix de la langue}}}
+## Choix de la langue
 
 La configuration du langage par défaut utilisé par la liste se fait en deux étapes.
 

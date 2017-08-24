@@ -5,7 +5,7 @@ Tags: old
 Summary: Contrairement à la création automatique d'un compte FTP à la création d'un compte Alternc, aucune base de données n'a été créée automatiquement, en effet, tous les outils web n'utilisent pas des bases de données. . Contrairement à la création automatique d'un compte FTP à la création d'un compte Alternc, aucune base de données n'a été créée automatiquemetn, en effet, tous les outils web n'utilisent pas des bases de données.
 _ Si le gestionnaire du compte AlternC a besoin de ces bases il peut facilement les créer. Leur nombre dépend du quota qui a été attribué à la création du compte AlternC.
 
-{{{Créer la base de données principale}}}
+## Créer la base de données principale
 
 <img127|left> Dans le menu de gauche du bureau virtuel, la rubrique MySQL vous indique qu'il n'existe, sur ce compte, aucune base de données. Le quota autorisé est de 10 (chiffres entre parenthèses).
 
@@ -17,7 +17,7 @@ _ Le même formulaire se serait affiché si vous aviez cliqué sur le second lie
 Toutefois, maintenant que cette base principale est créée, les informations affichées en cliquant sur le lien «{Bases de données}» sont les suivantes :
 <img130|center>
 
-{{{Créer une nouvelle base de données}}}
+## Créer une nouvelle base de données
 
 Si l'administrateur des comptes AlternC vous donne la possibilité de créer plusieurs bases de données sur votre compte, le mot de passe MySQL sera le même pour toute les bases. Ceci, sauf si vous avez la possibilité de créer des utilisateurs MySQL [voir Utilisateurs MySQL->art26].
 

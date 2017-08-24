@@ -4,7 +4,7 @@ Category: 02. Interface
 Tags: old
 Summary: Première étape : la connexion au bureau virtuel  . 
 
-{{{Connexion}}}
+## Connexion
 L'administration de compte hébergés sur le serveur, comme la gestion d'un compte, nécessite une authentification.
 
 Dans le navigateur indiquer l'adresse :
@@ -23,7 +23,7 @@ Le nom (login) et le mot de passe sont communiqués par l'administrateur des com
 Les fenêtres de gestion d'un compte et d'administration des comptes sont toutes  construites de la manière suivante : à gauche le menu, à droite un espace dans lequel s'afficheront les actions à accomplir ou accomplies.
 Ces fenêtres constituent le « bureau virtuel » que nous allons découvrir ci après.
 
-{{{Menu}}}
+## Menu
 
 Voici la copie d'écran d'un bureau virtuel.
 

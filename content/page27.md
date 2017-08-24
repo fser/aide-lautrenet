@@ -6,7 +6,7 @@ Summary: AWSTATS permet un affichage mois par mois, des statistiques concernant 
  . Il est nécessaire de créer un ou plusieurs couples « nom d'utilisateur/mot de passe » qui serviront à protéger la confidentialité des statistiques. Pour cette documentation nous utiliserons un compte de tests « {documentation} ».
 
 
-{{{Menu Statistiques Web}}}
+## Menu Statistiques Web
 
 Pour accéder à la création de jeux de statistiques, cliquer dans le menu du bureau virtuel sur 
 
@@ -17,7 +17,7 @@ Un clic sur le lien du menu « Statistiques Web » affiche, dans la partie dro
 
 Nous allons en créer
 
-{{{Créer des utilisateurs}}}
+## Créer des utilisateurs
 
 Pour ajouter un premier utilisateur sélectionner « {{Gérer les utilisateurs autorisés}} ».
 <img142|center>
@@ -32,7 +32,7 @@ Faire de même pour créer un second utilisateur
 
 <img143|center>
 
-{{{Créer un jeu de statistiques}}}
+## Créer un jeu de statistiques
 
 La création du jeu de statistiques se fait également depuis le lien du menu « {Statistiques web} » puis choisir le lien «{ Créer un jeu de statistiques} ».
 
@@ -53,7 +53,7 @@ _ En effet, AWSTATS parcourt chaque nuit les fichiers journaux du serveur web ap
 _ Nous utiliserons donc des tableaux fictifs pour la description des fonctionnalités de AWSTATS.
 
 
-{{{Visualiser les stats sans passer par le bureau}}}
+## Visualiser les stats sans passer par le bureau
 
 On crée un ou des utilisateurs avec nom d'utilisateur et mot de passe afin de leur permettre une consultation des statistiques sans avoir l'accès au bureau virtuel.
 

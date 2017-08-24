@@ -15,13 +15,13 @@ _ Cliquer sur ce lien.
 Dans la partie droite du bureau un tableau  s'affiche : 
 
 
-{{{le tableau}}}
+## le tableau
 
 <img173|center>
 
 
 
-{{{les différentes configurations}}}
+## les différentes configurations
 
 Les deux premières lignes du tableau permettent d'indiquer la taille de la fenêtre d'édition de fichiers par défaut  {(L'éditeur de fichier est la fenêtre qui permet d'afficher le code d'un fichier)}.
 

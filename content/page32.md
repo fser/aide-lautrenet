@@ -5,7 +5,7 @@ Tags: old
 Summary: L'origine d'une visite est définie comme la page de provenance du visiteur, juste avant d'arriver sur le site.
  . 
 
-{{{Connexion par origine}}}
+## Connexion par origine
 
 L'origine d'une visite est définie comme la page de provenance du visiteur, juste avant d'arriver sur le site.
 
@@ -18,7 +18,7 @@ AWSTATS classe celles-ci en plusieurs catégories:
 
 <img166|center>
 
-{{{Phrase clés  et mots clés}}}
+## Phrase clés  et mots clés
 
 Les phrases clés et mots clés indiquent, lorsque l'origine de la visite est le résultat d'un moteur de recherche, les phrases ou mots clés qui ont permis au visiteur de trouver notre site web.
 

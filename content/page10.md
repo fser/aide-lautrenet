@@ -5,7 +5,7 @@ Tags: old
 Summary: Comment limiter l'accès de répertoires de votre site aux seuls visiteurs autorisés. . Vous souhaitez peut-être interdire la consultation publique de répertoires d'un site en la limitant à des visiteurs privilégiés. Ce peut-être un album photos, des pages réservées aux adhérents d'une association  ...
 _ AlternC génère automatiquement les fichiers de protection nécessaires (« .htaccess » et « .htpasswd »)
 
-{{{Répertoires protégés}}}
+## Répertoires protégés
 
 Dans le gestionnaire de fichiers, le second lien « Cliquer ici pour protéger ce répertoire par un login / mot de passe », permet de protéger un ensemble de fichiers en limitant leur lecture aux utilisateurs autorisés.
 

@@ -4,7 +4,7 @@ Category: 15. A propos
 Tags: old
 Summary: Logiciels, sécurité, communauté... . 
 
-{{{Logiciels}}}
+## Logiciels
 
 AlternC fait dialoguer divers logiciels  entre eux, voici une liste non exhaustive de ceux-ci, ce sont tous des logiciels sous licence libre.
 
@@ -20,7 +20,7 @@ AlternC fait dialoguer divers logiciels  entre eux, voici une liste non exhausti
 -* Awstats        Statistiques web
 -* Courier Suite  Serveur pop, pops, imap, imaps
 
-{{{Sécurité}}}
+## Sécurité
 -* ssl tls (http, pop, imap, smtp) pour garantir la sécurité et confidentialité des données utilisateurs. 
 -* Gestion du problème de la sécurité locale, problème principal de l'hébergement mutualisé : sécurité de la machine et séparation des données des utilisateurs. 
 -* Veille de sécurité sur les paquets Debian
@@ -35,16 +35,16 @@ Seul le « root ssh » doit être informaticien
 Un niveau supplémentaire : les vservers Linux
 Le serveur averroes utilise le contexte context switching des noyaux Linux récents, ce qui permet de séparer l'architecture serveur de la gestion des comptes et donc de renforcer la sécurité.
 
-{{{Communauté}}}
+## Communauté
 AlternC est un projet libre.
 Une communauté d'utilisateurs et développeurs le fait vivre.
 
-{{{Spécificités}}}
+## Spécificités
 Nous soulignerons ici deux spécificités essentielles
 - Une gestion de comptes accessible aux non-informaticiens ;
 - Un souci de la sécurité : AlternC est une rare architecture qui offre, en natif, un service de mails (pop, imap, webmail) sécurisé.
 
-{{{Avertissement}}}
+## Avertissement
 Ce fascicule a une vocation didactique.
 
 Il propose la découverte des fonctionnalités du bureau virtuel AlternC en suivant une progression logique.

@@ -5,7 +5,7 @@ Tags: old
 Summary: Comment gérer vos fichiers depuis le bureau virtuel. . Le gestionnaire de fichiers est l'élément central pour la gestion d'un site web.
 Il est accessible depuis le lien « Gestionnaire de fichiers » du menu.
 
-{{{Le gestionnaire de fichiers}}}
+## Le gestionnaire de fichiers
 
 <img172|center>
 Ici nous utiliserons des copies d'écran issues soit du compte {demo}, soit du compte {aideac} en sachant que l'aide est valable quelque soit le compte concerné.
@@ -31,7 +31,7 @@ Sélectionner Fichier ou Répertoire, puis inscrire un nom dans la zone de texte
 5  En bas une zone de lien
 <img26|center>
 
-{{{Création d'un répertoire, d'un fichier}}}
+## Création d'un répertoire, d'un fichier
 
 Sélectionner « Répertoire »<img27|right>
 Inscrire le nom du répertoire dans la zone texte
@@ -61,7 +61,7 @@ Si vous n'utilisez pas un navigateur qui permet ce choix, vous pouvez ouvrir une
 
 Remarquons que le fait d'indiquer l'URL http://aide-alternc.org/index.html dans le navigateur affiche automatiquement  http://www.aide-alternc.org/index.html [voir Paramétrer le domaine installé sur le serveur->art5]    
 
-{{{Manipuler des fichiers}}}
+## Manipuler des fichiers
 
 Revenons au gestionnaire de fichiers.
 Nous allons déplacer le fichier « {index.html} » dans le répertoire « {site} ».

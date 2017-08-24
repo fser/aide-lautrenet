@@ -6,7 +6,7 @@ Summary: Comment créer Mails et alias de manière aisée depuis le bureau virtu
 
 
 
-{{{Menu de gestion des mails}}}
+## Menu de gestion des mails
 
 Se connecter au bureau du compte « {aideac} »
 
@@ -23,7 +23,7 @@ Cliquer sur le lien « Ajouter un email sur aide-alternc.org »
 AlternC offre la possibilité de créer un "vrai" compte mail, consultable par votre logiciel de mail ou par le web, ou de créer un alias (redirection d'une adresse mail vers une ou plusieurs adresses existantes). On peut par ailleurs panacher ces fonctions à souhait.
 
 
-{{{Création d'une adresse mail}}}
+## Création d'une adresse mail
 
 Nous allons créer l'adresse « contact@aide-alternc.org », dont nous nous servirons pour la configuration du logiciel de mail et du webmail.
 
@@ -35,7 +35,7 @@ L'adresse « contact@aide-alternc.org » existe maintenant.
 
 <img76|center>
 
-{{{Création d'un alias}}}
+## Création d'un alias
 
 Cliquer sur le lien « Ajouter un email sur aide-alternc.org »
 <img77|center>
@@ -45,7 +45,7 @@ Les adresses « toto » et « postmaster » sont des alias, aucune taille ne
 
 Il est possible de créer une adresse mail (avec compte pop) qui soit également redirigée vers une ou plusieurs autres adresses.
 
-{{{Modifier une adresse}}}
+## Modifier une adresse
 
 Pour modifier une adresse (changer le mot de passe, transformer un alias en adresse....) il suffit de cliquer sur l'icône "crayon" dans la colonne "Action".
 

@@ -4,7 +4,7 @@ Category: 02. Interface
 Tags: old
 Summary:  . Si votre CMS n'est pas à jour, mettez-le à jour
 
-{{{1. Les caractères accentués s'affichent mal}}}
+## 1. Les caractères accentués s'affichent mal
 
 
 - Cause: [Configuration de PHP5.6->http://php.net/manual/fr/ini.core.php#ini.default-charset]
@@ -14,7 +14,7 @@ ini_set("default_charset", "iso-8859-1");
 </code>
 
 
-{{{2. Erreurs E_DEPRECATED qui s'affichent sur mon site}}}
+## 2. Erreurs E_DEPRECATED qui s'affichent sur mon site
 
 - Cause: configuration erronée du error_reporting par votre CMS qui
 affiche les erreurs E_DEPRECATED (désactivé par défaut dans la config
@@ -31,7 +31,7 @@ ini_set("display_errors", 0);
 Note: on ne peut le faire dans le .htaccess uniquement si vous n'utilisez
 pas PHP 5.3
 
-{{{3. URL ne fonctionnent plus sans extension}}}
+## 3. URL ne fonctionnent plus sans extension
 
 
 - Cause: Avant on pouvait appeler http://example.com/example pour charger
@@ -51,7 +51,7 @@ On peut répéter les 4 dernières lignes pour les adapter pour supporter
 d'autres extensions comme .html et .htm
 [[Si votre CMS n'est pas à jour, mettez-le à jour!]]
 
-{{{4. Site qui ne fonctionne pas en PHP 5.6}}}
+## 4. Site qui ne fonctionne pas en PHP 5.6
 
 - Cause: Le site n'a pas encore été mis à jour (malgré la longue période
 laissée avant la migration)
@@ -69,7 +69,7 @@ Continuez à faire les mises à jour aussi longtemps que vous utilisez le
 même logiciel
 
 
-{{{5. Liste de discussions non administrables}}}
+## 5. Liste de discussions non administrables
 
 
 En attendant de résoudre le bug:
@@ -82,7 +82,7 @@ Si ça ne marche pas (listes neuves par exemple), essayer avec
 [https://panel.lautre.net/->https://panel.lautre.net/]
 
 
-{{{6. Problème connexion IMAP}}}
+## 6. Problème connexion IMAP
 
 
 Utiliser les paramètres affichés dans le bureau
@@ -93,26 +93,26 @@ En cas de problème avec Thunderbird, une procédure de vérification des
 fichiers existe.
 
 
-{{{7. Serveur FTP}}}
+## 7. Serveur FTP
 
 
 Utiliser l'adresse "ftp.lautre.net" comme précisé dans l'[aide->article8][[Si votre CMS n'est pas à jour, mettez-le à jour!]]
 
-{{{8. Adresses catch-all}}}
+## 8. Adresses catch-all
 
 Les anciennes adresses ne fonctionnent plus. Il faut reconfigurer votre catch-all depuis le bureau si ce n'est déjà fait.
 
-{{{9. Roundcube }}}
+## 9. Roundcube 
 
 Roundcube permet directement d'administrer le filtrage des mails et leur mot de passe.
 
 Ceux qui veulent récupérer leur carnet d'adresse squirrelmail peuvent s'adresser aux roots
 
-{{{10. Machines virtuelles}}}
+## 10. Machines virtuelles
 Nous sommes en attente du développement de la fonctionnalité:
 https://github.com/AlternC/AlternC/issues/62
 
-{{{11. Restrictions mails}}}
+## 11. Restrictions mails
 
 Afin d'endiguer l'envoi de spams par des sites piratés, certaines restrictions existent concernant le nombre d'envoi de mails depuis votre site web (et également en SASL).
 
@@ -120,7 +120,7 @@ Pour ceux souhaitant envoyer légitimement et massivement du mail depuis leurs s
 
 L'envoi des mails depuis les sites web doit se faire uniquement en utilisant la fonction "mail" de PHP. Pas d'accès possible vers le port SMTP.
 
-{{{12. Prochainement / (actuellement en panne)}}}[[Si votre CMS n'est pas à jour, mettez-le à jour!]]
+## 12. Prochainement / (actuellement en panne)[[Si votre CMS n'est pas à jour, mettez-le à jour!]]
 
 - Calcul des quotas
 

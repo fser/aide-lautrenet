@@ -4,7 +4,7 @@ Category: 04. Gestion d'un compte
 Tags: old
 Summary: Comment importer des fichiers, voire les modifier, de manière aisée depuis le bureau virtuel d'AlternC. . AlternC facilite l'import de fichiers directement depuis le bureau virtuel ou, plus classiquement, par FTP.
 
-{{{Importer un fichier depuis le gestionnaire de fichiers}}}
+## Importer un fichier depuis le gestionnaire de fichiers
 
 Nous allons agrémenter la page toto avec une image. Cette image se trouve sur le disque dur de notre ordinateur. Pour la transférer nous  allons utiliser la zone de téléchargement (upload) du gestionnaire de fichier.
 
@@ -16,7 +16,7 @@ _ Cliquer sur [Envoyer].
 L'image apparaît dans la liste des fichiers du répertoire « {toto} ».
 Ce petit outil FTP (transfert de fichiers) intégré au bureau AlternC est très pratique pour charger un fichier. 
 
-{{{Renommer un fichier}}}
+## Renommer un fichier
 
 <img52|right> Le nom de l'image est un peu long, nous allons renommer le fichier image.
 _ Cliquer sur la case qui précède le nom de l'image pour la cocher.
@@ -43,7 +43,7 @@ Comme l'outil FTP,  l'outil de création, édition, enregistrement, visualisatio
 Toutefois pour mettre à jour un site (charger plusieurs fichiers) il vaut mieux utiliser un client FTP traditionnel.
 Nous allons justement aborder ce point.
 
-{{{Compléments sur les fichiers et répertoires}}}
+## Compléments sur les fichiers et répertoires
 
 Ouvrir le gestionnaire de fichier à la racine du compte (s'il est ouvert sur un des répertoires « {toto} » ou « {site} », cliquer sur le lien « {aideac}» en haut à droite du gestionnaire de fichiers).
 
@@ -51,7 +51,7 @@ Au-dessous de la liste des fichiers se trouve 4 liens bleus que nous allons étu
 
 <img57|center>
 
-{{{Créer un compte FTP rapidement}}}
+## Créer un compte FTP rapidement
 
 Le premier lien concerne le compte FTP. Cliquer sur le lien « Cliquez ici pour le modifier »
 <img58|center>
@@ -71,7 +71,7 @@ Il n'y a pas de compte FTP pour les répertoires « {toto} » et « {site} �
 Un clic sur ce lien ouvre le formulaire de création d'un compte ftp pour ce répertoire 
 <img58|center>
 
-{{{Créer, gérer et configurer un compte FTP}}}
+## Créer, gérer et configurer un compte FTP
 
 Une autre méthode, la plus classique en fait,  pour créer un compte FTP est de cliquer dans le menu de gauche du bureau virtuel sur le lien « Comptes FTP ». 
 
@@ -81,7 +81,7 @@ Pour chaque compte ftp, le nom du compte et le répertoire concerné (rappel : /
 
 Il est possible de créer plusieurs comptes FTP pour un même répertoire.
 
-{{{Configurer son logiciel FTP}}}
+## Configurer son logiciel FTP
 
 
 Vous pouvez utiliser un de ces comptes FTP immédiatement : entrez les paramètres suivant dans votre client FTP favori (par exemple Filezilla) : 
@@ -99,7 +99,7 @@ Certains logiciels FTP (comme {lftp} en ligne de commande) chiffreront automatiq
 
 À la première connexion Filezilla vous demandera si vous faites confiance au certificat présenté par le serveur. Si vous acceptez, votre connexion sera ensuite chiffrée et sécurisée.
 
-{{{Récupérer des fichiers compressés}}}
+## Récupérer des fichiers compressés
 
 Le troisième lien, au bas du gestionnaire de fichiers, est : « Télécharger ce répertoire dans un fichier compressé (tgz (Linux)) » offre au gestionnaire du compte AlternC la possibilité de télécharger (download) l'ensemble des fichiers d'un répertoire compressés automatiquement.
 

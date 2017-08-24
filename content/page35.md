@@ -10,7 +10,7 @@ Summary: Quelques prérogatives spécifiques à l'administrateur de comptes Alte
 
 Nous vous proposons trois exemples 
 
-{{{Gestion des TLD autorisés}}}
+## Gestion des TLD autorisés
 
 <img118|left> Un TLD (Top Level Domain) est un domaine de premier niveau : .fr, .net, .org ... sont des domaines de premier niveau.
 
@@ -30,7 +30,7 @@ Il est également possible de créer de nouveaux TLD (mot impropre ic i puisqu'i
 Dans cet exemple, tous les sous-domaines en logiciels-libres.biz peuvent être installés sans contrôle préalable, ce qui est indispensable puisqu'il s'agit d'un sous-domaine et non d'un domaine acheté chez un registrar. Bien évidemment, le domaine doté des droits de TLD doit lui-même être installé sur le serveur auparavant.
 
 
-{{{Changer les quotas par défaut}}}
+## Changer les quotas par défaut
 
 Chaque compte AlternC dispose de  fonctionnalités telles que définies par l'administrateur AlternC.
 
@@ -44,7 +44,7 @@ Il est possible de permettre à l'administrateur de comptes AlternC de choisir e
 <img123|center>
 Voici le résultat : nous avons  deux types de comptes, l'un nommé « default » (le type générique installé par défaut dans AlternC)  et l'autre nommé « Mini ».
 
-{{{Liste des domaines installés sur le serveur}}}
+## Liste des domaines installés sur le serveur
 
 <img124|left> Ce lien affiche l'ensemble des domaines installés sur le serveur en précisant le compte auquel ils sont liés.
 
@@ -53,7 +53,7 @@ Le verrouillage du domaine interdit sa migration vers un autre compte ou serveur
 {Attention : ne pas confondre le verrouillage d'un nom de domaine et celui d'un compte, [voir Modification d'un compte->art19]} 
 
 
-{{{A manipuler avec précaution, voire pas du tout !}}}
+## A manipuler avec précaution, voire pas du tout !
 
 {Gérer les ip autorisés à faire des transferts de zone esclave DNS}
 
@@ -63,12 +63,12 @@ L'utilisation de ces 2 liens du panneau administrateur nécessite des connaissan
 
 Il est prident d'en laisser la complète gestion à l'administrateur système ({{root}}) du serveur, sous peine dêtre confronté à de graves dysfonctionnements !
 
-{{{Configurer les variables d'AlternC}}}
+## Configurer les variables d'AlternC
 A partir de ce lien, si vous indiquez un nom de domaine dont vous êtes propriétaire (exemple NomDeDomaine.tld), tout nouveau compte AlternC créé par vos soins, peut être assorti automatiquement d'un sous-domaine de type LoginDuCompte.NomDeDomaine.tld.
 
 {Exemple}, pour le nom de domaine structure.fr peuvent être créés : atelier.structure.fr, mjc.structure.fr, filiale.structure.fr .... qui à leur tour peuvent bénéficier de sous-domaines (exemple : congres.filiale.structure.fr ...)
 
-{{{Montrer tous les quotas}}}
+## Montrer tous les quotas
 Un clic sur ce lien affiche les quotas utilisés/octroyés  pour l'ensemble des comptes.
 
 En fait il fait un peu double emploi avec le lien « {Quotas utilisateurs} » que nous avons vu précedemment... en moins convivial !

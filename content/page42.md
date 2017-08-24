@@ -22,17 +22,17 @@ Il est certes possible de payer en espèces, mais ce n'est pas une solution reco
 
 </onglets>
 
-{{{Que se passe t-il si vous ne payez pas ?}}}
+## Que se passe t-il si vous ne payez pas ?
 
 Pas grand chose. Votre compte restera actifs quelques jours. Puis il sera mis hors ligne. Puis quelques jours plus tard les données seront effacées.
 
 
-{{{J'ai payé (j'ai vérifié mon relevé de compte) mais mon compte a disparu !}}}
+## J'ai payé (j'ai vérifié mon relevé de compte) mais mon compte a disparu !
 
 Contactez les roots à l'adresse root@
 
 
-{{{J'ai oublié de payer et mon compte a disparu !}}}
+## J'ai oublié de payer et mon compte a disparu !
 
 Lautre.net est une association vivant uniquement des cotisations de ses membres, nous n'avons aucune source de revenus. Si les membres ne règlent pas leurs cotisations, alors l'objet social de l'association est un échec et lautre.net mourra.
 

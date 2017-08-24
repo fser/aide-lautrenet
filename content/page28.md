@@ -9,7 +9,7 @@ Awstats comprend de nombreuses rubriques qui renseignent l'utilisateur sur les a
 _ Cette partie nous permettra de détailler chacune de ces rubriques pour connaître la nature et la teneur de son contenu.
 _ Nous pouvons accéder aux statistiques depuis le bureau AlternC. Le nom d'utilisateur et le mot de passe que nous avons créés nous seront demandés, même si nous avons déjà ouvert le bureau AlternC.
 
-{{{Vue générale }}}
+## Vue générale 
 
 AWSTATS s'ouvre dans une nouvelle fenêtre et se présente en une seule page affichant toutes les rubriques de statistiques les unes sous les autres.
 
@@ -31,7 +31,7 @@ Attention : l'analyse détaillée pour une année complète n'est pas toujursdis
 
 
 
-{{{Résumé}}}
+## Résumé
 
 Le résumé affiche un rapide abrégé des statistiques du mois sélectionné, intégrant les dates de première et dernière visite.
 -* Le trafic « vu » est le trafic qui génère l'affichage d'une page web.

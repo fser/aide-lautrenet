@@ -4,7 +4,7 @@ Category: 08. Gestion des statistiques
 Tags: old
 Summary: Des éléments sur les visiteurs. . 
 
-{{{Classement des visiteurs par domaine et par pays :}}}
+## Classement des visiteurs par domaine et par pays :
 
 Le classement des visiteurs par domaine ou pays affiche dans l'ordre décroissant du nombre de pages téléchargées, le nombre de pages, le nombre de hits et la bande passante mobilisée par domaine et / ou par pays. 
 
@@ -15,7 +15,7 @@ L'origine est déduite à partir du nom résolu du client. Ces données ne sont 
 Par ailleurs, les adresses pour lesquelles une résolution de nom aurait échouée sont classées dans la catégorie Inconnu.
 
 
-{{{Classement des visiteurs par nom de machine ou par ip :}}}
+## Classement des visiteurs par nom de machine ou par ip :
 
 Le classement des visiteurs par nom de machine ou par ip affiche dans l'ordre décroissant des pages téléchargées, la liste des noms de domaines (ou à défaut des adresses IP) depuis lesquels les clients se sont connectés. 
 
@@ -23,7 +23,7 @@ Une colonne « Dernière visite » indique la date et heure de la dernière co
 
 <img158|center>
 
-{{{Visites de robots/spiders}}}
+## Visites de robots/spiders
 
 Les visites de robots sont affichées dans cette rubrique.
 

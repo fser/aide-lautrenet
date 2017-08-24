@@ -4,7 +4,7 @@ Category: 08. Gestion des statistiques
 Tags: old
 Summary: Comment et avec quel outils les visiteurs sont-ils venus. . 
 
-{{{Durée des visites}}}
+## Durée des visites
 
 L'affichage de la durée des visites calcule d'abord la durée moyenne des visites puis présente, sous forme d'un tableau, le nombre de visites et le pourcentage que celles-ci représentent par rapport au total des visites classées par durée de 0-30 s à 1h et plus.
 
@@ -12,7 +12,7 @@ L'affichage de la durée des visites calcule d'abord la durée moyenne des visit
 
 Le pourcentage de visites inconnues représente les visites dont le temps n'a pu être mesuré.
 
-{{{Types de fichiers téléchargés}}}
+## Types de fichiers téléchargés
 
 Les types de fichiers téléchargés sont affichés dans l'ordre décroissant des téléchargement ; il ne s'agit pas des fichiers proprement dits mais des types de fichiers classés en fonction de leur extension (la chaîne de caractères située après le « . » dans le nom du fichier). 
 
@@ -20,7 +20,7 @@ Les types de fichiers téléchargés sont affichés dans l'ordre décroissant de
 
 Les statistiques concernant le type de fichier sont comptabilisées en nombre de hit (demande de fichiers par le navigateur) et en bande passante mobilisée.
 
-{{{Classement des pages les plus téléchargées}}}
+## Classement des pages les plus téléchargées
 
 Il s'agit maintenant des fichiers, eux-même, les plus téléchargés classés par nombre de pages vues.
 
@@ -29,13 +29,13 @@ Il s'agit maintenant des fichiers, eux-même, les plus téléchargés classés p
 L'adresse de la page est indiquée après le « / », le « / » représente le nom de domaine, ici par exemple « /index,php » indiquerait une visite de la page « www.aide-alternc.org/index,php ».
 
 
-{{{Système d'exploitation des visiteurs}}}
+## Système d'exploitation des visiteurs
 
 Cet affichage permet de connaître la nature du système d'exploitation utilisé par l'ordinateur des visiteurs. Dans notre cas, les ordinateurs sous Linux sont majoritaires (évidemment il s'agit de statistiques de test !), dans la réalité ce n'est pas le cas !
 
 <img164|center>
 
-{{{Navigateurs des visiteurs}}}
+## Navigateurs des visiteurs
 
 De même que pour le système d'exploitation des visiteurs, une autre information importante est la connaissance du navigateur qu'ils utilisent, cette indication est précieuse. 
 

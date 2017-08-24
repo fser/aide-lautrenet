@@ -4,7 +4,7 @@ Category: 02. Interface
 Tags: old
 Summary: Ce que vous pouvez faire depuis le bureau virtuel d'AlternC. . 
 
-{{{Actions}}}
+## Actions
 
 Après authentification, le gestionnaire d'un compte AlternC accède au bureau virtuel du compte.
 
@@ -20,7 +20,7 @@ Depuis le bureau virtuel de son compte l'utilisateur peut :
 
 il peut également effectuer des opérations de consultation et de configuration des caractéristiques de son compte et accéder à une aide en ligne.
 
-{{{Utilisation}}}
+## Utilisation
 
 AlternC offre un panel de possibilités au titulaire et gestionnaire d'un compte.
 -* Héberger un nom de domaine qui pointe vers un compte hébergé sur ce serveur ou sur un autre serveur ...
@@ -31,7 +31,7 @@ AlternC offre un panel de possibilités au titulaire et gestionnaire d'un compte
 
 L'ensemble des quotas (espace disque, nombre de mails, de domaines, de comptes FTP, de bases de données) est visible pour le gestionnaire d'un compte depuis le lien « {Afficher les quotas} » dans le menu du bureau virtuel.
 
-{{{Bureau virtuel}}}
+## Bureau virtuel
 
 Le bureau se compose de deux espaces : 
 -* Le menu, à gauche, sous le nom du compte.
@@ -51,7 +51,7 @@ _ Ainsi le gestionnaire d'un compte est informé d'éventuelles tentatives d'int
 _ Si ce cas se présente sans qu'il y ait eu de fausse manuvre (erreur de frappe dans le nom du compte ou le mot de passe) il est conseillé de contacter l'administrateur du serveur qui consultera les logs (Voir ci-dessous l'exemple).
 
 
-{{{Configuration}}}
+## Configuration
 
 La création d'un compte AlternC requiert un mot de passe et une adresse mail du gestionnaire du compte. Vous pouvez les modifier depuis le menu Configuration du bureau virtuel.
 

@@ -4,7 +4,7 @@ Category: 04. Gestion d'un compte
 Tags: old
 Summary: Comment faire poointer un nom de domaine ou un sous-domaine vers un répertoire spécifique de votre compte AlternC. . Depuis le bureau virtuel AlternC il est très aisé de diriger un domaine ou un sous-domaine vers le répertoire de son choix.
 
-{{{Modifier le chemin d'un nom de domaine}}}
+## Modifier le chemin d'un nom de domaine
 
 <img44|left>
 Dans le menu du bureau virtuel, cliquer sur le lien « aide-alternc.org » dans la rubrique « Domaines ». Cette action affiche un formulaire dans la partie droite du bureau virtuel.
@@ -35,7 +35,7 @@ _ Il en est de même pour l'URL  aide-alternc.org, puisqu'elle renvoie vers   ww
 
 Poursuivons nos manipulations en installant un sous-domaine.
 
-{{{Création d'un sous-domaine}}}
+## Création d'un sous-domaine
 
 Nous allons installer un sous-domaine sur le compte « aideac» et faire pointer ce sous- domaine vers un répertoire créé pour l'occasion.
 La première étape consiste à créer le répertoire.

@@ -4,7 +4,7 @@ Category: 07. Gestion listes de discussion
 Tags: old
 Summary: Commandes pour obtenir par mail des informations sur vos abonnements aux listes Mailman en modifier les options. . 
 
-{{{Utilisation}}}
+## Utilisation
 Ceci est l'aide sur les commandes par courrier pour la version 2.1.5 du gestionnaire de listes "Mailman".  Vous trouverez ci-dessous la description des commandes qui vous permettent d'obtenir des informations sur vos abonnements et d'en modifier les options pour les listes de ce serveur. 
 _ Les commandes doivent être envoyées par mail à l'adresse 
 _ NomDeLaListe-request@NomDeDomaine
@@ -20,7 +20,7 @@ _ Vous pouvez notamment utiliser cette interface pour vous faire envoyer votre m
 N'incluez pas les « <> » ou « [ ] » dans les commandes.}
 
 
-{{{Liste des commandes}}}
+## Liste des commandes
  
    {{confirm <chaîne-de-confirmation>}}
 _ Confirmer une action. La chaîne-de-confirmation est requise et doit être fournie par un courriel de confirmation.

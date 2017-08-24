@@ -4,7 +4,7 @@ Category: 03. Administration d'un compte
 Tags: old
 Summary:  . 
 
-{{{Quelles sont les listes de diffusions communes aux membres de l'association ?}}}
+## Quelles sont les listes de diffusions communes aux membres de l'association ?
 
 - La liste principale est {{assemblee@listes.lautre.net}} . C'est le reflet de l'assemblée générale permanente de l'association. L'adhésion à l'association implique donc l'abonnement à la liste assemblée. Elle est obligatoire.
 
@@ -23,7 +23,7 @@ Cette liste étant à diffusion très large, elle est réservée aux annonces im
 - La liste {{charte-redac@lautre.net}} est la liste de discussion ayant pour but de rédiger une charte d'hébergement commune aux différents hébergeurs associatifs. Cette liste est publique.
 
 
-{{{Comment s'inscrire/se désinscrire aux listes de diffusion ?}}}
+## Comment s'inscrire/se désinscrire aux listes de diffusion ?
 
 L'inscription aux listes de diffusions privées de l'association se fait via le panneau d'administration [->https://admin.lautre.net] en sélectionnant le menu "{{Inscription aux Listes}}" dans la rubrique "{{L'Autre Net}}".
 
@@ -38,7 +38,7 @@ L'inscription à la liste de diffusion charte-redac se fait directement via l'in
 Pour se désabonner de la liste assemblée, il faut se rendre sur le panneau [->https://admin.lautre.net] dans "{{Mon Compte}}", puis "{{Comptabilité}}" et enfin "{{Supprimer votre compte}}".
 
 
-{{{Les autres mails utilisables}}}
+## Les autres mails utilisables
 
 - Le mail commun {{root@lautre.net}} permet de contacter les administrateurs bénévoles de l'association. Toute l'équipe reçoit ce courrier, même les padawans. Il convient, avant de les solliciter, de poser la question sur la liste aide et de vérifier qu'un bug n'ait pas déjà été soumis dans l'interface prévue à cet effet : [->https://bugs.lautre.net/].
 

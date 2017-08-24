@@ -4,7 +4,7 @@ Category: 05. Gestion messagerie
 Tags: old
 Summary: Comment accéder à votre messagerie, soit en ligne par webmail sécurisé, soit depuis votre logiciel de mail, sur votre ordinateur. . AlternC vous offre également la possibilité de consulter vos mails en ligne depuis le webmail sécurisé .
 
-{{{Connexion au webmail}}}
+## Connexion au webmail
 
 Vous pouvez-vous connecter à  l'interface sécurisée du webmail de deux manières.
 -* Soit depuis : https://admin.lautre.net (en utilisant le formulaire du bas)
@@ -33,7 +33,7 @@ Nous vous proposons d'utiliser Thunderbird : c'est un logiciel libre. Multiplat
 
 Les paramètres sont les mêmes pour d'autres logiciels de courrier
 
-{{{Configuration de l'adresse dans un logiciel de courrier}}} 
+## Configuration de l'adresse dans un logiciel de courrier 
 
 Voici les informations nécessaires pour configurer un compte, ici dans Thunderbird.
 _ Vous pouvez choisir de configurer votre compte en « pop » ou « imap ».
