@@ -34,11 +34,12 @@ _ (Ici il est important de limiter la taille des messages, tout le monde n'ayant
 
 Dans le menu général cliquer sur le lien {"Options de remise non-groupée}" (5ème ligne, 1ère colonne) 
 
-Ces options concernent 
--* l'envoi immédiat des messages aux abonnés. Si nous avons choisi une liste de discussion, les abonnés doivent pouvoir choisir le mode de réception des messages immédiat ou groupé (par lots), c'est à dire tous les messages de x jours, semaines ou ... en un seul envoi.
--* Les textes intégrés automatiquement à tout message envoyé à la liste (vous les avez reçus dans le message de bienvenue destiné à l'administrateur).
--** en-tête
--** pied de page
+Ces options concernent
+
+  -  l'envoi immédiat des messages aux abonnés. Si nous avons choisi une liste de discussion, les abonnés doivent pouvoir choisir le mode de réception des messages immédiat ou groupé (par lots), c'est à dire tous les messages de x jours, semaines ou ... en un seul envoi.
+  -  Les textes intégrés automatiquement à tout message envoyé à la liste (vous les avez reçus dans le message de bienvenue destiné à l'administrateur).
+  - en-tête
+  - pied de page
 
 Attention, le pied de page par défaut contient un certain nombres d'informations sur la liste : adresse de la liste, URL de consultation de la page publique de la liste (page qui permet l'abonnement et la gestion d'options par les abonnés. Dans le cas d'une liste de diffusion il est impératif de supprimer le texte préexistant avant d'inscrire le votre, afin de supprimer le lien vers la page publique de la liste.
 
@@ -87,18 +88,18 @@ Dans le menu général cliquer sur le lien "{Gestion des abonnements}" (4ème li
 
 Dans un premier temps nous allons inscrire quelques adresses (que nous pouvons consulter), afin de vérifier la configuration de la liste.
 
-Il existe deux méthodes pour inscrire des abonnés
--# Inscrire dans le cadre  vide "Entrer une adresse par ligne ci-dessous..."
-la liste des adresses (une par ligne)
--# Utiliser la possibilité de télécharger la liste directement. Au-dessous de la première case blanche utiliser : 
+Il existe deux méthodes pour inscrire des abonnés:
+
+  - Inscrire dans le cadre  vide "Entrer une adresse par ligne ci-dessous..." la liste des adresses (une par ligne)
+  - Utiliser la possibilité de télécharger la liste directement. Au-dessous de la première case blanche utiliser : 
 <img103|center>
 
 Attention, ce fichier, présent sur votre ordinateur, doit être au format .txt
 Et se présenter ainsi : une adresse par ligne, pas de ligne vide.
 
 Lulu@lulu.fr
-_ Mimi@mimi.net
-_ jojo@jojo.info
+  - Mimi@mimi.net
+  - jojo@jojo.info
 
 Cliquer sur parcourir pour trouver ce fichier sur le disque dur de votre ordinateur, son chemin apparaît dans la case blanche.
 Vous pouvez, indiquer un texte supplémentaire qui sera inclus dans le message de bienvenue des listes de discussion : Présentation des objectifs de la liste par exemple.

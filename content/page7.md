@@ -13,8 +13,9 @@ _ Pour des domaines dont l'extension est net, org, com, fr ... acheter le domain
 
 {{ATTENTION}} Lorsque vous achetez un domaine deux cas de figure se présentent :
 _ 1.  Vous indiquez immédiatement les DNS (adresses) du serveur qui gère les DNS. Pour les serveurs de L'Autre Net :
--* ns1.lautre.net  (80.67.160.67)
--* ns2.lautre.net (212.85.137.31)
+
+  -  ns1.lautre.net  (80.67.160.67)
+  -  ns2.lautre.net (212.85.137.31)
 
 2. Vous gardez les DNS de votre registrar (Gandi, Bookmyname...) et gérez manuellement, depuis le site du registrar, une redirection du nom de domaine vers lautre.net, dans ce cas  il faut indiquer l'adresse de notre serveur web, soit 80.67.160.70.
 
@@ -86,9 +87,9 @@ Pour vérifier le domaine auprès de l'AFNIC, utilisez l'outil Zonecheck à l'ad
 [http://www.afnic.fr/outils/zonecheck/form->http://www.afnic.fr/outils/zonecheck/form]
 et entrez :
 
--* votre nom de domaine à côté de "Zone"
--* ns1.lautre.net en face de "primaire"
--* ns2.lautre.net en face de "secondaire"
+  -  votre nom de domaine à côté de "Zone"
+  -  ns1.lautre.net en face de "primaire"
+  -  ns2.lautre.net en face de "secondaire"
 
 Note pour les .eu.org : il semble que certains des root de l'autre net soient co-admin de eu.org, aussi si vous devez réserver un domaine en .eu.org, demandez la réservation sur eu.org, puis envoyez un petit mail à {root arobase lautre.net} pour qu'ils vous valident le nom de domaine dans l'élan ;)
 

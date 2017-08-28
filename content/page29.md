@@ -28,9 +28,10 @@ Par exemple, le 7mars, il y a eu 2 visiteurs qui ont vu 39 pages en actionnant 1
 L'affichage des statistiques par jour de la semaine, donne le trafic moyen par jour de la semaine, en réalisant une moyenne des visites pour tous les lundis du mois, puis pour tous les mardi, etc ...
 
 L'affichage se présente encore une fois d'abord sous la forme d'un histogramme puis sous la forme d'un tableau affichant:
--* Le nombre de pages visitées en moyenne pour chaque jour
--* Le nombre moyen de hits pour chaque jour
--* La bande passante consommée par jour
+
+  -  Le nombre de pages visitées en moyenne pour chaque jour
+  -  Le nombre moyen de hits pour chaque jour
+  -  La bande passante consommée par jour
 
 <img154|center>
 

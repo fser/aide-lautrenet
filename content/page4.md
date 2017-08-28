@@ -9,44 +9,50 @@ Summary: Ce que vous pouvez faire depuis le bureau virtuel d'AlternC. .
 Après authentification, le gestionnaire d'un compte AlternC accède au bureau virtuel du compte.
 
 Depuis le bureau virtuel de son compte l'utilisateur peut :
--* Installer un nom de domaine et gérer des sous-domaines
--* Créer et gérer des boites aux lettres électroniques et des alias
--* Créer et gérer des accès FTP (pour le transfert de fichiers sur le compte)
--* Créer et gérer des listes de discussion/diffusion
--* Télécharger, modifier, déplacer ... les fichiers de son site web
--* Installer, consulter les statistiques de fréquentation de son site web
--* Créer et gérer des accès privés à certaines pages de son site web
--* Créer et gérer des bases de données liées à son site web
+
+  -  Installer un nom de domaine et gérer des sous-domaines
+  -  Créer et gérer des boites aux lettres électroniques et des alias
+  -  Créer et gérer des accès FTP (pour le transfert de fichiers sur le compte)
+  -  Créer et gérer des listes de discussion/diffusion
+  -  Télécharger, modifier, déplacer ... les fichiers de son site web
+  -  Installer, consulter les statistiques de fréquentation de son site web
+  -  Créer et gérer des accès privés à certaines pages de son site web
+  -  Créer et gérer des bases de données liées à son site web
 
 il peut également effectuer des opérations de consultation et de configuration des caractéristiques de son compte et accéder à une aide en ligne.
 
 ## Utilisation
 
 AlternC offre un panel de possibilités au titulaire et gestionnaire d'un compte.
--* Héberger un nom de domaine qui pointe vers un compte hébergé sur ce serveur ou sur un autre serveur ...
--* Héberger un ou plusieurs sites web, statiques ou dynamiques.
--* Utiliser uniquement les fonctionnalités, particulièrement riches, du courrier électronique, : accès sécurisé (SSL), création de son propre SMTP lié à un nom de domaine (si son fournisseur d'accès internet le permet), accès par webmail sécurisé (https), configuration de filtres depuis le webmail.
--* Communiquer par listes de diffusion / discussion.
+
+  -  Héberger un nom de domaine qui pointe vers un compte hébergé sur ce serveur ou sur un autre serveur ...
+  -  Héberger un ou plusieurs sites web, statiques ou dynamiques.
+  -  Utiliser uniquement les fonctionnalités, particulièrement riches, du courrier électronique, : accès sécurisé (SSL), création de son propre SMTP lié à un nom de domaine (si son fournisseur d'accès internet le permet), accès par webmail sécurisé (https), configuration de filtres depuis le webmail.
+  -  Communiquer par listes de diffusion / discussion.
+  
 ... ou tout cela à la fois.
 
 L'ensemble des quotas (espace disque, nombre de mails, de domaines, de comptes FTP, de bases de données) est visible pour le gestionnaire d'un compte depuis le lien « {Afficher les quotas} » dans le menu du bureau virtuel.
 
 ## Bureau virtuel
 
-Le bureau se compose de deux espaces : 
--* Le menu, à gauche, sous le nom du compte.
--* La partie droite, qui spécifie, après connexion au bureau, diverses informations concernant votre compte.
+Le bureau se compose de deux espaces :
+
+  -  Le menu, à gauche, sous le nom du compte.
+  -  La partie droite, qui spécifie, après connexion au bureau, diverses informations concernant votre compte.
 
 <img179|center>
 
 Ces informations indiquent :
--* La date est l'heure de votre dernière connexion ainsi que l'existence d'éventuelles connexions refusées
--* L'adresse e-mail de contact
--* La situation comptable
--* L'espace disque occupé
--* La liste des dernières interventions techniques effectuées sur la plateforme
 
-Les connexions refusées (mauvais mot de passe par exemple) sont également mentionnées. 
+  -  La date est l'heure de votre dernière connexion ainsi que l'existence d'éventuelles connexions refusées
+  -  L'adresse e-mail de contact
+  -  La situation comptable
+  -  L'espace disque occupé
+  -  La liste des dernières interventions techniques effectuées sur la plateforme
+
+Les connexions refusées (mauvais mot de passe par exemple) sont également mentionnées.
+
 _ Ainsi le gestionnaire d'un compte est informé d'éventuelles tentatives d'intrusion sur son compte. 
 _ Si ce cas se présente sans qu'il y ait eu de fausse manuvre (erreur de frappe dans le nom du compte ou le mot de passe) il est conseillé de contacter l'administrateur du serveur qui consultera les logs (Voir ci-dessous l'exemple).
 

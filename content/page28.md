@@ -16,11 +16,12 @@ AWSTATS s'ouvre dans une nouvelle fenêtre et se présente en une seule page aff
 <img150|left> .Sur la gauche le menu permet d'accéder rapidement aux différentes rubriques.
 
 Le menu se découpe en 5 sous-rubriques:
--* Quand 
--* Qui 
--* Navigation 
--* Origine/Referer 
--* Autres 
+
+  -  Quand 
+  -  Qui 
+  -  Navigation 
+  -  Origine/Referer 
+  -  Autres 
 
 {{Barre d'en-tête }}
 La barre d'en-tête permet la sélection par mois d'une année sélectionnez le mois et l'année pour lesquels vous souhaitez visualiser les statistiques puis validez ce choix en appuyant sur le bouton « OK ».
@@ -34,8 +35,9 @@ Attention : l'analyse détaillée pour une année complète n'est pas toujursdis
 ## Résumé
 
 Le résumé affiche un rapide abrégé des statistiques du mois sélectionné, intégrant les dates de première et dernière visite.
--* Le trafic « vu » est le trafic qui génère l'affichage d'une page web.
--* Le trafic « non vu » résulte de l'utilisation de redirection par exemple. C'est à dire qu'il ne  génère pas dans le navigateur l'affichage direct d'une page web.
+
+  -  Le trafic « vu » est le trafic qui génère l'affichage d'une page web.
+  -  Le trafic « non vu » résulte de l'utilisation de redirection par exemple. C'est à dire qu'il ne  génère pas dans le navigateur l'affichage direct d'une page web.
 
 <img151|center>
 

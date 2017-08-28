@@ -30,9 +30,10 @@ Dans la zone de texte modifier le nom (Attention, bien conserver l'extension (ic
 Le nom du fichier image a été modifié dans la liste des fichiers.
 
 Pour l'intégrer à la page « toto » nous allons simplement éditer et modifier le fichier « index.html » du répertoire « toto ».
--# Editer le fichier « index.html »
--# Modifier le code, ajouter : <img src="pingouin.png" alt="pingouin" title="pingouin" />
--# Cliquer sur [Enregistrer et Fermer]
+
+  - Editer le fichier « index.html »
+  - Modifier le code, ajouter : <img src="pingouin.png" alt="pingouin" title="pingouin" />
+  - Cliquer sur [Enregistrer et Fermer]
 
 <img55|center>
 Pour visualiser la page modifiée cliquer sur le lien « Voir » qui suit le fichier «{ index.html }».
@@ -84,10 +85,11 @@ Il est possible de créer plusieurs comptes FTP pour un même répertoire.
 ## Configurer son logiciel FTP
 
 
-Vous pouvez utiliser un de ces comptes FTP immédiatement : entrez les paramètres suivant dans votre client FTP favori (par exemple Filezilla) : 
--* Hôte : ftp.lautre.net
--* Utilisateur : votre nom de compte ftp (le nom du compte alternc (ici « aideac » ou « aideac_site », selon que vous voulez accéder à l'ensemble des répertoires ou seulement au répertoire « site »)
--* Mot de passe : le mot de passe que vous avez entré (à ne pas oublier donc !). Si vous oubliez votre mot de passe, vous pouvez le modifier en allant dans le bureau AlternC. En effet, vous ne retrouverez pas votre mot de passe car il est stocké chiffré sur le serveur. Vous pourrez seulement le modifier.
+Vous pouvez utiliser un de ces comptes FTP immédiatement : entrez les paramètres suivant dans votre client FTP favori (par exemple Filezilla) :
+
+  -  Hôte : ftp.lautre.net
+  -  Utilisateur : votre nom de compte ftp (le nom du compte alternc (ici « aideac » ou « aideac_site », selon que vous voulez accéder à l'ensemble des répertoires ou seulement au répertoire « site »)
+  -  Mot de passe : le mot de passe que vous avez entré (à ne pas oublier donc !). Si vous oubliez votre mot de passe, vous pouvez le modifier en allant dans le bureau AlternC. En effet, vous ne retrouverez pas votre mot de passe car il est stocké chiffré sur le serveur. Vous pourrez seulement le modifier.
 
 <img180|center>
 

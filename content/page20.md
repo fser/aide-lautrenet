@@ -29,9 +29,10 @@ Vérifiez les messages de bienvenue et d'avis d'abonnement reçus par l'administ
 
 Il est possible de permettre à l'administrateur, ou a toute autre personne, d'écrire à la liste sans être abonné. Nous détaillerons cette option par la suite.
 
-ATTENTION avant de procéder à l'inscription des abonnés il est nécessaire 
--* d'avoir défini le type de liste comme indiqué dans l'introduction
--* de configurer cette liste en fonction des points choisis. Les éléments fournis ci-dessous ne sont pas nécessairement suffisants, ou ne répondent pas parfaitement à vos objectifs. Mailman offre de très nombreuses options, notre objectif est uniquement de vous aider à sa prise en mains.
+ATTENTION avant de procéder à l'inscription des abonnés il est nécessaire
+
+  -  d'avoir défini le type de liste comme indiqué dans l'introduction
+  -  de configurer cette liste en fonction des points choisis. Les éléments fournis ci-dessous ne sont pas nécessairement suffisants, ou ne répondent pas parfaitement à vos objectifs. Mailman offre de très nombreuses options, notre objectif est uniquement de vous aider à sa prise en mains.
 
 Il est possible de régler déjà un certain nombre d'options. 
 

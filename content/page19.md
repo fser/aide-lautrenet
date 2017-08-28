@@ -31,8 +31,9 @@ Nous aurions ce message d'erreur :
 Mais rassurez-vous, si vous tenez particulièrement à votre nom de liste, [une solution existe->42].
 
 Pour les exemples suivants nous utiliserons les données suivantes (attention, cette liste créée pour la réalisation de cette aide sera détruite par la suite).
--* Nom de la liste :  info
--* Adresse de la liste : info@aide-alternc.org
+
+  -  Nom de la liste :  info
+  -  Adresse de la liste : info@aide-alternc.org
 
 <img92|center>
 
@@ -43,11 +44,12 @@ Lorsque la liste est créée le tableau ci-dessous s'affiche dans la partie droi
 <img93|center>
 
 Depuis ce tableau il est possible
--* de supprimer la liste (cocher la case Supprimer et cliquer sur le lien "Effacer les listes cochées"), une confirmation sera demandée.
--* d'accéder à la page publique de la liste (qui sera configurée par la suite),
--* d'accéder à l'administration de la liste (pour fixer ou modifier sa configuration, authentification nécessaire),
--* de visualiser et gérer les éventuels messages en attente (authentification nécessaire),
--* d'afficher la liste des abonnés (au format texte).
+
+  -  de supprimer la liste (cocher la case Supprimer et cliquer sur le lien "Effacer les listes cochées"), une confirmation sera demandée.
+  -  d'accéder à la page publique de la liste (qui sera configurée par la suite),
+  -  d'accéder à l'administration de la liste (pour fixer ou modifier sa configuration, authentification nécessaire),
+  -  de visualiser et gérer les éventuels messages en attente (authentification nécessaire),
+  -  d'afficher la liste des abonnés (au format texte).
 
 Toute liste doit être configurée avec soin en fonction d'objectifs bien définis. 
 Nous allons étudier plusieurs cas dans les chapitres suivants.
@@ -62,39 +64,43 @@ _ Bien évidemment, ces options peuvent être adaptées à vos besoins propres.
 {{Une liste de diffusion}} est destinée à envoyer des informations et non à échanger des informations. C'est à dire qu'une ou plusieurs personnes peuvent poster des messages pour des abonnés qui, eux, ne peuvent pas écrire à cette liste.
 
 {Objectifs} :
--* Cette liste est privée, fermée à toute inscription et envois exterieurs.
--* Elle émet des informations strictements réservées à un groupe d'abonnés.
--* Les abonnés ne sont pas autorisés à répondre ou à communiquer via cette liste.
--* Le gestionnaire de cette liste, dans notre exemple toto@demo2.eitic.net (mais bien évidemment pour la formation choisissez une adresse qui vous est propre) est le seul à pouvoir poster sur cette liste.
--* Aucun message en attente ne doit encombrer inutilement l'hébergeur, aucun pied de message ne doit être visible.
+
+  -  Cette liste est privée, fermée à toute inscription et envois exterieurs.
+  -  Elle émet des informations strictements réservées à un groupe d'abonnés.
+  -  Les abonnés ne sont pas autorisés à répondre ou à communiquer via cette liste.
+  -  Le gestionnaire de cette liste, dans notre exemple toto@demo2.eitic.net (mais bien évidemment pour la formation choisissez une adresse qui vous est propre) est le seul à pouvoir poster sur cette liste.
+  -  Aucun message en attente ne doit encombrer inutilement l'hébergeur, aucun pied de message ne doit être visible.
 
 
 {{Une liste de discussion privée}} est destinée à l'échange d'informations entre abonnés de cette liste.
 
 {Objectifs} :
--* Cette liste est privée, fermée à toute inscription et envois exterieurs.
--* L'échange d'informations est srictements réservé à un groupe d'abonnés.
--* Les abonnés communiquent via cette liste.
--* Le gestionnaire de cette liste, dans notre exemple toto@demo2.eitic.net (mais bien évidemment pour la formation choisissez une adresse qui vous est propre) valide les inscriptions et peut modérer tel ou tel abonné.
--* Tout abonné peut consulter la liste des abonnés, les archives, changer son mot de passe et modifier la manière dont il reçoit les messages..
+
+  -  Cette liste est privée, fermée à toute inscription et envois exterieurs.
+  -  L'échange d'informations est srictements réservé à un groupe d'abonnés.
+  -  Les abonnés communiquent via cette liste.
+  -  Le gestionnaire de cette liste, dans notre exemple toto@demo2.eitic.net (mais bien évidemment pour la formation choisissez une adresse qui vous est propre) valide les inscriptions et peut modérer tel ou tel abonné.
+  -  Tout abonné peut consulter la liste des abonnés, les archives, changer son mot de passe et modifier la manière dont il reçoit les messages..
 
 
 {{Une liste de discussion publique}} est destinée à l'échange d'informations entre abonnés de cette liste. Les différences essentielles avec la liste de discussion privée sont l'accès public à la liste, l'inscription ouverte à tous, les archives publiques.
 
 {Objectifs} :
--* Cette liste est publique, ouverte à toute inscription.
--* Les abonnés communiquent via cette liste.
--* Le gestionnaire de cette liste, dans notre exemple toto@demo2.eitic.net (mais bien évidemment pour la formation choisissez une adresse qui vous est propre) est informé des inscriptions/désinscriptions. Il peut modérer tel ou tel abonné.
--* Tout abonné peut consulter la liste des abonnés, les archives, changer son mot de passe et modifier la manière dont il reçoit les messages..
--* Les archives sont publiques et consultables par tous
+
+  -  Cette liste est publique, ouverte à toute inscription.
+  -  Les abonnés communiquent via cette liste.
+  -  Le gestionnaire de cette liste, dans notre exemple toto@demo2.eitic.net (mais bien évidemment pour la formation choisissez une adresse qui vous est propre) est informé des inscriptions/désinscriptions. Il peut modérer tel ou tel abonné.
+  -  Tout abonné peut consulter la liste des abonnés, les archives, changer son mot de passe et modifier la manière dont il reçoit les messages..
+  -  Les archives sont publiques et consultables par tous
 
 Nous allons, au préalable décrire les manipulations communes à tout type de liste.
 
 ## Accéder à l'interface d'administration de la liste
 
 Pour accéder à l'interface d'administration de la liste deux possibilités :
--# utiliser le lien "Administration" dans le tableau (le mieux est de faire un clic droit avec la souris et d'ouvir la fenêtre dans un nouvel onglet sous Mozilla ou Firefox)
--# inscrire l'URL ci-dessous dans la fenêtre d'un navigateur
+
+  - utiliser le lien "Administration" dans le tableau (le mieux est de faire un clic droit avec la souris et d'ouvir la fenêtre dans un nouvel onglet sous Mozilla ou Firefox)
+  - inscrire l'URL ci-dessous dans la fenêtre d'un navigateur 
 https://listes.lautre.net/cgi-bin/mailman/admin/NomDeLaListe
 _ Ici NomDeLaListe doit être remplacé par {info}
 _ Attention, ne pas oublier le "s" de "https" qui vous garantit une connexion sécurisée et donc le passage des données sur le réseau dans un tunnel crypté.

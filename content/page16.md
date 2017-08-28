@@ -11,8 +11,9 @@ _ Cliquez sur ce lien.
 <img135|center>
 
 Renseignez le formulaire pour l'utilisateur «toto»
--* son nom d'utilisateur sera toujours précédé du nom du compte suivi d'un souligné (tiret du 8). {Attention, le nom d'utilisateur est limité à 16 caractères.}
--* Bien évidemment son mot de passe sera différent de celui que vous avez entré lors de la création de la base de données principale.
+
+  -  son nom d'utilisateur sera toujours précédé du nom du compte suivi d'un souligné (tiret du 8). {Attention, le nom d'utilisateur est limité à 16 caractères.}
+  -  Bien évidemment son mot de passe sera différent de celui que vous avez entré lors de la création de la base de données principale.
 Validez en cliquant sur le bouton [Créer ce nouvel utilisateur]
 
 Il apparaît maintenant dans la liste des utilisateurs MySQL

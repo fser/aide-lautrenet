@@ -32,9 +32,10 @@ Le mode d'affichage des fichiers propose : une colonne détaillée (mode actuel
 
 Le téléchargement (download) de l'ensemble des fichiers d'un répertoire, cf. [récupérer des fichiers compressés->art8] peut s'effectuer en 4 formats différents : tgz et tar.bz2 (Linux) zip (Windows) et tar.Z (Unix).
 
-Lorsqu'un fichier est créé depuis le gestionnaire de fichiers (ce que nous avons fait précédemment) deux choix sont possibles : 
--* Afficher à nouveau le gestionnaire de fichiers 
--* Éditer le fichier 
+Lorsqu'un fichier est créé depuis le gestionnaire de fichiers (ce que nous avons fait précédemment) deux choix sont possibles :
+
+  -  Afficher à nouveau le gestionnaire de fichiers 
+  -  Éditer le fichier 
 
 Nous allons ici, pour l'exemple, sélectionner l'affichage des icônes et des types de fichiers.
 _ De même nous allons choisir de revenir au dernier répertoire visité pour l'affichage du gestionnaire de fichiers.

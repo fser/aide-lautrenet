@@ -7,8 +7,9 @@ Summary: Comment accéder à votre messagerie, soit en ligne par webmail sécuri
 ## Connexion au webmail
 
 Vous pouvez-vous connecter à  l'interface sécurisée du webmail de deux manières.
--* Soit depuis : https://admin.lautre.net (en utilisant le formulaire du bas)
-_* Soit depuis : https://admin.lautre.net/webmail
+
+  -  Soit depuis : https://admin.lautre.net (en utilisant le formulaire du bas)
+  - Soit depuis : https://admin.lautre.net/webmail
 
 Attention, ne pas oublier le « s » de https, ni la barre oblique « / » de fin.
 
@@ -17,8 +18,9 @@ Attention, ne pas oublier le « s » de https, ni la barre oblique « / » d
 <img79|center>
 
 ATTENTION : L'identifiant est l'adresse mail complète.
-_ Le mot de passe est celui qui a été attribué au compte mail concerné, ici : « contact@aide-alternc.org ».
-_ { {{Remplacez cette adresse mise pour l'exemple par l'adresse que vous avez créée depuis votre bureau virtuel}} } (voir le chapitre précédant [Mails et alias->art11]).
+
+  - Le mot de passe est celui qui a été attribué au compte mail concerné, ici : « contact@aide-alternc.org ».
+  - { {{Remplacez cette adresse mise pour l'exemple par l'adresse que vous avez créée depuis votre bureau virtuel}} } (voir le chapitre précédant [Mails et alias->art11]).
 
 Pour entrer le mot de passe il est possible ici d'utiliser le « clavier virtuel » qui évite la saisie au clavier et donc les éventuelles interceptions dans certains cybercafés par exemple.
 

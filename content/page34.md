@@ -35,16 +35,17 @@ Un clic sur le lien « {Gérer les membres} » affiche la liste des comptes h�
 
 Dans cette liste les comptes inscrits en rouge sont des comptes administrateur  ou administrateur  restreint.
 _ Ce tableau comporte 10 colonnes :
--* une case à cocher (pour supprimer un compte)
--* le lien « {Modifier} » (modification des informations personnelles d'un compte)
--* le lien « {Quotas} » (gestion des quotas d'un compte)
--* le lien « {Connecter} » (connexion au compte, à n'utiliser qu'à la demande du propriétaire du compte !)
--* le nom du compte (nom d'utilisateur)
--* l'identité du propriétaire du compte qui fait lien vers son adresse mail 
--* le type de compte (si plusieurs type de comptes sur le serveur)
--* la dernière date de connexion au compte
--* le nombre de tentatives erronées (dernier échac) depuis la dernière connexion correcte
--* l'IP de la dernière machine qui s'est connectée au compte 
+
+  -  une case à cocher (pour supprimer un compte)
+  -  le lien « {Modifier} » (modification des informations personnelles d'un compte)
+  -  le lien « {Quotas} » (gestion des quotas d'un compte)
+  -  le lien « {Connecter} » (connexion au compte, à n'utiliser qu'à la demande du propriétaire du compte !)
+  -  le nom du compte (nom d'utilisateur)
+  -  l'identité du propriétaire du compte qui fait lien vers son adresse mail 
+  -  le type de compte (si plusieurs type de comptes sur le serveur)
+  -  la dernière date de connexion au compte
+  -  le nombre de tentatives erronées (dernier échac) depuis la dernière connexion correcte
+  -  l'IP de la dernière machine qui s'est connectée au compte 
 
 Nous constatons que le compte octo ne s'est jamais connecté à la date de la copie d'écran.
 
@@ -59,17 +60,17 @@ supprimer un compte :
 
 ## Création d'un compte
 
-La création d'un nouveau compte (nommé membre sur le serveur de démonstration)  est aussi aisée que la création d'un nouvel e-mail 
--* Clic sur le lien « {Créer un nouveau membre} »
--* Renseignement du formulaire
--* Validation depuis le bouton [Créer un nouveau membre]
-<img111|center>
+La création d'un nouveau compte (nommé membre sur le serveur de démonstration)  est aussi aisée que la création d'un nouvel e-mail
 
--* {{Nom}} : nom du compte (identifie le compte et sert à l'authentification pour la connexion au bureau virtuel)
--* {{Mot de passe initial}} : ce mot de passe (à confirmer dans le champ suivant) pourra être changé (ou non) par le gestionnaire du compte si l'autorisation lui en est donnée (Peut-il changer son mot de passe ?)
--* {{Nom / Prénom}} : l'identité du propriétaire du compte, ou l'usage du compte (ex : test)
--* {{Adresse Email}} : adresse à laquelle seront envoyées les informations de mise à jour, indisponibilité, ... du serveur.
--* {{Type de compte}} : laisser à priori sur default, nous y reviendrons
+  -  Clic sur le lien « {Créer un nouveau membre} »
+  -  Renseignement du formulaire
+  -  Validation depuis le bouton [Créer un nouveau membre]
+<img111|center>
+  -  {{Nom}} : nom du compte (identifie le compte et sert à l'authentification pour la connexion au bureau virtuel)
+  -  {{Mot de passe initial}} : ce mot de passe (à confirmer dans le champ suivant) pourra être changé (ou non) par le gestionnaire du compte si l'autorisation lui en est donnée (Peut-il changer son mot de passe ?)
+  -  {{Nom / Prénom}} : l'identité du propriétaire du compte, ou l'usage du compte (ex : test)
+  -  {{Adresse Email}} : adresse à laquelle seront envoyées les informations de mise à jour, indisponibilité, ... du serveur.
+  -  {{Type de compte}} : laisser à priori sur default, nous y reviendrons
 
 {Note : Le nom du propriétaire du compte n'est pas obligatoirement celui du gestionnaire du compte.}
 
