@@ -1,0 +1,6 @@
+RedirectMatch 301 (?i)/Se-connecter-en-SSH /03-se-connecter-en-ssh.html
+RedirectMatch 301 (?i)/Problemes-sur-dokuwiki /09-problemes-sur-dokuwiki.html
+RedirectMatch 301 (?i)/Se-connecter-en-SFTP /02-se-connecter-en-sftp.html
+RedirectMatch 301 (?i)/Comment-telecharger-ma-base-de /04-comment-telecharger-ma-base-de-donnees-sql.html
+RedirectMatch 301 (?i)/Installation-et-configuration-de /10-installation-et-configuration-de-wordpress-sur-lautrenet.html
+RedirectMatch 301 (?i)/phpMyAdmin /03-phpmyadmin.html
