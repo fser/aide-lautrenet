@@ -10,7 +10,7 @@ Le classement des visiteurs par domaine ou pays affiche dans l'ordre décroissan
 
 L'origine est déduite à partir du nom résolu du client. Ces données ne sont pas d'un fiabilité exemplaire, puisque l'extension « .net » est considérée comme faisant partie d'un pays nommé network !. 
 
-<img157|center>
+<img src="/img/ndd_1.jpg" title="to complete" alt="ndd_1.jpg" />
 
 Par ailleurs, les adresses pour lesquelles une résolution de nom aurait échouée sont classées dans la catégorie Inconnu.
 
@@ -21,12 +21,12 @@ Le classement des visiteurs par nom de machine ou par ip affiche dans l'ordre d�
 
 Une colonne « Dernière visite » indique la date et heure de la dernière connexion pour le client correspondant.
 
-<img158|center>
+<img src="/img/aw95hotes.png" title="to complete" alt="aw95hotes.png" />
 
 ## Visites de robots/spiders
 
 Les visites de robots sont affichées dans cette rubrique.
 
-<img160|center>
+<img src="/img/ndd_2.jpg" title="to complete" alt="ndd_2.jpg" />
 
 Un robot est un programme mis en uvre généralement par un moteur de recherche pour indexer le contenu des pages d'un site. Les robots parcourent les sites web pour alimenter leur base de données et ainsi permettre une tenue à jour des moteurs de recherche.

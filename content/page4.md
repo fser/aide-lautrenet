@@ -41,7 +41,7 @@ Le bureau se compose de deux espaces :
   -  Le menu, à gauche, sous le nom du compte.
   -  La partie droite, qui spécifie, après connexion au bureau, diverses informations concernant votre compte.
 
-<img179|center>
+<img src="/img/ndd_3.jpg" title="to complete" alt="ndd_3.jpg" />
 
 Ces informations indiquent :
 
@@ -61,14 +61,14 @@ _ Si ce cas se présente sans qu'il y ait eu de fausse manuvre (erreur de frap
 
 La création d'un compte AlternC requiert un mot de passe et une adresse mail du gestionnaire du compte. Vous pouvez les modifier depuis le menu Configuration du bureau virtuel.
 
-<img177|center>
+<img src="/img/ndd_3.jpg" title="to complete" alt="ndd_3.jpg" />
 Un clic sur ce menu ouvre trois formulaires :
 
 Pour{{ changer le mot de passe}} utilisez le premier formulaire. Attention, votre mot de passe initial est requis. Si vous l'avez égaré, demandez à l'administrateur des comptes Alternc de vous en recréer un.
-<img84|center>
+<img src="/img/conf1.jpg" title="to complete" alt="conf1.jpg" />
 
 Pour {{changer l'adresse mail du gestionnaire du compte}} utilisez le second formulaire. Une confirmation sera adressé par mail à l'ancienne adresse. Nous vous recommandons d'utiliser une adresse mail qui ne soit pas sur le serveur qui héberge votre compte, ceci afin de pouvoir communiquer avec vous en cas d'éventuel dysfontionnement du serveur.
-<img85|center>
+<img src="/img/conf2.png" title="to complete" alt="conf2.png" />
 
 Le troisième formulaire vous propose de choisir {{l'affichage de «bouées» d'aide}}. 
-<img87|center>
+<img src="/img/conf3.png" title="to complete" alt="conf3.png" />

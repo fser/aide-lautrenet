@@ -8,7 +8,7 @@ Summary: Créer plusieurs utilisateurs MySQL permet de donner la main à un cré
 
 Un clic sur le lien «{Utilisateur MySQL}» sans le menu de gauche du bureau vrituel, affichera un seul lien : «{Créer un nouvel utilisatguer MySQL}».
 _ Cliquez sur ce lien.
-<img135|center>
+<img src="/img/ndd.jpg" title="to complete" alt="ndd.jpg" />
 
 Renseignez le formulaire pour l'utilisateur «toto»
 
@@ -17,12 +17,12 @@ Renseignez le formulaire pour l'utilisateur «toto»
 Validez en cliquant sur le bouton [Créer ce nouvel utilisateur]
 
 Il apparaît maintenant dans la liste des utilisateurs MySQL
-<img136|center>
+<img src="/img/bdd9user.png" title="to complete" alt="bdd9user.png" />
 
 ## Donner des droits à un utilisateur MySQL
 
 Pour le moment, cet utilisateur n'a aucun droit sur aucune base, nous allons lui en donner, par exemple sur la base {demo_spip}. Pour cela cliquer sur le lien «{Droits}», à droite du nom d'utilisateur.
-<img137|center>
+<img src="/img/ndd.jpg" title="to complete" alt="ndd.jpg" />
 
 Choisissez les droits que vous souhaitez lui octroyer en cochant les cases concernées, puis validez avec le bouton [Appliquer]
 

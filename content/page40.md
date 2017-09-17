@@ -41,7 +41,7 @@ http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe
 
 Une fois PuTTY installé, lancez-le, et vous devriez obtenir une fenêtre de configuration :
 
-<img187|center>
+<img src="/img/ndd_4.jpg" title="to complete" alt="ndd_4.jpg" />
 
 Le seul champ à renseigner est {Host name} (en rouge sur la capture d'écran), dans lequel vous devez indiquer le nom d'hôte qui vous a été attribué lors de l'activation de votre accès sécurisé. Cliquez ensuite sur le bouton {Open}.
 
@@ -67,6 +67,6 @@ pour voir tous les répertoires disponibles. Vous pouvez voir que cette machine 
 
 Pour des raisons de sécurité, seule une partie des commandes Linux usuelles sont autorisées dans les machines virtuelles. La liste des commandes disponibles se trouve sur la page {Machines virtuelles} de votre bureau.
 
-<img188|center>
+<img src="/img/ndd_4.jpg" title="to complete" alt="ndd_4.jpg" />
 
 

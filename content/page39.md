@@ -10,7 +10,7 @@ Il vous faut ensuite utiliser un client FTP permettant l'utilisation du protocol
 
 Dans Filezilla, ouvrez le gestionnaire de site puis cliquez sur le bouton {Nouveau site}. Paramétrez le site de la manière suivante :
 
-<img186|center>
+<img src="/img/ndd_4.jpg" title="to complete" alt="ndd_4.jpg" />
 
   -  le champ {{Hôte}} doit contenir le nom d'hôte obtenu lors de l'activation de votre accès sécurisé (quelque chose qui ressemble à slave1.vds.lautre.net).
   -  le champ {{Identifiant}} est votre identifiant de connexion au bureau virtuel de l'Autre Net.

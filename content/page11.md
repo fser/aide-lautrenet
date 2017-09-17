@@ -17,7 +17,7 @@ Dans la partie droite du bureau un tableau  s'affiche :
 
 ## le tableau
 
-<img173|center>
+<img src="/img/ndd_3.jpg" title="to complete" alt="ndd_3.jpg" />
 
 
 
@@ -41,9 +41,9 @@ Nous allons ici, pour l'exemple, sélectionner l'affichage des icônes et des ty
 _ De même nous allons choisir de revenir au dernier répertoire visité pour l'affichage du gestionnaire de fichiers.
 
 Cliquer sur le bouton [Modifier mes préférences] pour enregistrer la configuration. 
-<img72|center>
+<img src="/img/totalpt.png" title="to complete" alt="totalpt.png" />
 Ouvrons le répertoire « {toto} » dans le gestionnaire de fichiers.
 
 Des icônes précèdent le nom des fichiers et leur type est indiqué.
 
-<img73|center>
+<img src="/img/totalpt.png" title="to complete" alt="totalpt.png" />

@@ -21,16 +21,16 @@ En conséquence :
 
 1. Depuis le menu du bureau virtuel cliquer sur le lien "Comptabilité" dans la rubrique "Mon Compte"
 
-<img193|left>
+<img src="/img/ndd_ssd.jpg" title="to complete" alt="ndd_ssd.jpg" />
 
 2. Dans la zone de droite cliquer sur "Comptabilité de votre compte"
 
-<img194|left>
+<img src="/img/comptabilite_de_votre_compte.png" title="to complete" alt="comptabilite_de_votre_compte.png" />
 
 3. Dans le tableau Comptabilité, cliquer sur le lien "Reçu" à côté du mode de paiement de la cotisation
 
-<img195|left>
+<img src="/img/recu.png" title="to complete" alt="recu.png" />
 
 Et voila ! Il ne vous reste plus qu'à imprimer !
 
-<img196|left>
+<img src="/img/recu_imprimable.png" title="to complete" alt="recu_imprimable.png" />

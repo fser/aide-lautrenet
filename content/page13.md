@@ -12,7 +12,7 @@ Se connecter au bureau du compte « {aideac} »
 
 Cliquer, dans la rubrique « Comptes Mails » du menu, sur le lien « aide-alternc.org ».
 
-<img74|center>
+<img src="/img/mail1.jpg" title="to complete" alt="mail1.jpg" />
 
 Une adresse mail a été générée automatiquement à l'installation du domaine. Il s'agit de l'adresse « postmaster@aide-alternc.org » Même si cette adresse ne paraît pas utile, il ne faut pas la supprimer. 
 _ En effet, sa présence est testée par certains registrars  pour des noms de domaines testés {{avant}} leur acquisition (cas des noms de domaine en .fr par exemple), cette dernière peut être refusée si l'adresse n'est pas présente.
@@ -27,20 +27,20 @@ AlternC offre la possibilité de créer un "vrai" compte mail, consultable par v
 
 Nous allons créer l'adresse « contact@aide-alternc.org », dont nous nous servirons pour la configuration du logiciel de mail et du webmail.
 
-<img75|center>
+<img src="/img/totalpt.png" title="to complete" alt="totalpt.png" />
 
 Remplir les champs comme indiqué ci-dessus et valider en cliquant sur le bouton [Ajouter cet email]
 
 L'adresse « contact@aide-alternc.org » existe maintenant.
 
-<img76|center>
+<img src="/img/mail3.jpg" title="to complete" alt="mail3.jpg" />
 
 ## Création d'un alias
 
 Cliquer sur le lien « Ajouter un email sur aide-alternc.org »
-<img77|center>
+<img src="/img/mail4.jpg" title="to complete" alt="mail4.jpg" />
 Remplir les champs comme indiqué ci-dessus et valider en cliquant sur le bouton [Ajouter cet email].
-<img78|center>
+<img src="/img/totalpt.png" title="to complete" alt="totalpt.png" />
 Les adresses « toto » et « postmaster » sont des alias, aucune taille ne leur est attribuée de ce fait. La taille de la boite aux lettres « contact » est nulle pour le moment puisqu'elle est vide.
 
 Il est possible de créer une adresse mail (avec compte pop) qui soit également redirigée vers une ou plusieurs autres adresses.

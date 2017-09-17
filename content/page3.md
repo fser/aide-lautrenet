@@ -14,7 +14,7 @@ Attention :
 -# Ne pas oublier le « s » après http ... il signifie que la connexion sera sécurisée, les informations échangées entre le serveur et la machine de bureau circuleront chiffrées, et non en clair sur le réseau Internet, interdisant les interceptions malveillantes.
 -# Vérifier que le navigateur utilisé accepte les cookies pour ce site.
 
-<img174|center>
+<img src="/img/ndd_3.jpg" title="to complete" alt="ndd_3.jpg" />
 
 Utiliser le formulaire du haut (celui du bas conduit au webmail).
 
@@ -27,7 +27,7 @@ Ces fenêtres constituent le « bureau virtuel » que nous allons découvrir c
 
 Voici la copie d'écran d'un bureau virtuel.
 
-<img10|left>  Tous les textes en bleu ou rouge sont des liens à partir desquels s'afficheront, dans la partie droite du bureau (coupée ici), les informations concernant les actions à accomplir ou accomplies.
+<img src="/img/menu_gestionnaire_demo.png" title="to complete" alt="menu_gestionnaire_demo.png" />  Tous les textes en bleu ou rouge sont des liens à partir desquels s'afficheront, dans la partie droite du bureau (coupée ici), les informations concernant les actions à accomplir ou accomplies.
 
 Nous les découvrirons dans les chapitres suivants.
 

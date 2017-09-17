@@ -15,7 +15,7 @@ Attention, ne pas oublier le « s » de https, ni la barre oblique « / » d
 
 { {{POUR LAUTRE.NET : les adresses indiquées sont des EXEMPLES... Remplacez les par vos propres adresses.}} }
 
-<img79|center>
+<img src="/img/mail_web1.jpg" title="to complete" alt="mail_web1.jpg" />
 
 ATTENTION : L'identifiant est l'adresse mail complète.
 
@@ -24,7 +24,7 @@ ATTENTION : L'identifiant est l'adresse mail complète.
 
 Pour entrer le mot de passe il est possible ici d'utiliser le « clavier virtuel » qui évite la saisie au clavier et donc les éventuelles interceptions dans certains cybercafés par exemple.
 
-<img80|center>
+<img src="/img/mail_web2.jpg" title="to complete" alt="mail_web2.jpg" />
 
 Voici la fenêtre du webmail. Nous ne la décrirons pas plus avant, les liens étant suffisamment explicites.
 
@@ -46,8 +46,8 @@ Le protocole IMAP effectue une synchronisation avec le serveur, affiche les mess
 
 Vous devez impérativement utiliser les paramètres affichés dans le panel pour vous identifier (ex: en IMAP, le serveur est "imap.lautre.net")
 
-<img181|center>
+<img src="/img/ndd_4.jpg" title="to complete" alt="ndd_4.jpg" />
 
 Voici la configuration pour le service d'envoi (SMTP) :
 
-<img182|center>
+<img src="/img/smtp.png" title="to complete" alt="smtp.png" />

@@ -51,9 +51,9 @@ Ceci fait, choisissez le logiciel de votre choix pour accéder à votre machine 
 Renseignez votre logiciel avec les informations obtenues précédemment. A ce stade vous devriez donc avoir accès à votre répertoire /home qui liste tous les fichiers déposés sur votre compte et accessible à l'adresse http://votrenomdecompte.lautre.net
 Pour accéder à vos sauvegardes, remontez à la racine de votre compte. Il s'agit de revenir un répertoire en amont, les modalités pratiques d'accès à cette fonctionnalité dépendent des logiciels utilisés, mais vous saurez que vous aurez atteint votre objectif lorsque vous verrez apparaître le listing de fichier suivant :
 
-<img204|center>
+<img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
 Naviguez alors jusque dans votre répertoire {{backupsql}} en double cliquant sur le dossier et vous aurez accès aux dernières 7 sauvegardes quotidiennes et aux 5 dernières sauvegardes mensuelles. Au jour où j'écris ce tutoriel, les informations sont les suivantes :
 
 
-<img205|center>
+<img src="/img/racine.png" title="to complete" alt="racine.png" />

@@ -6,7 +6,7 @@ Summary: Il est possible de limiter ou d'étendre les prérogatives de l'adminis
 
 ## Limiter les prérogatives de l'Administrateur AlternC
 En fonction des compétences de la personne, pour pallier toute erreur de manipulation.
-<img126|center>
+<img src="/img/menu_pave_admin_restreint.png" title="to complete" alt="menu_pave_admin_restreint.png" />
 Il est possible de limiter les prérogatives de l'administrateur AlternC à la gestion des comptes par exemple. Il n'aura donc pas accèsà tous les liens du Panneau Administateur.
 
 ## Administrateur restreint

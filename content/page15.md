@@ -7,15 +7,15 @@ _ Si le gestionnaire du compte AlternC a besoin de ces bases il peut facilement 
 
 ## Créer la base de données principale
 
-<img127|left> Dans le menu de gauche du bureau virtuel, la rubrique MySQL vous indique qu'il n'existe, sur ce compte, aucune base de données. Le quota autorisé est de 10 (chiffres entre parenthèses).
+<img src="/img/bdd.png" title="to complete" alt="bdd.png" /> Dans le menu de gauche du bureau virtuel, la rubrique MySQL vous indique qu'il n'existe, sur ce compte, aucune base de données. Le quota autorisé est de 10 (chiffres entre parenthèses).
 
 Cliquez sur le premier lien «{Utilisateurs MYSQL}» 
-<img128|center>
+<img src="/img/bdd1.png" title="to complete" alt="bdd1.png" />
 Entrez un mot de passe et  validez votre choix en cliquant sur le bouton [Créer ma base de données principale]
 _ Le même formulaire se serait affiché si vous aviez cliqué sur le second lien «{Bases de données}».
 
 Toutefois, maintenant que cette base principale est créée, les informations affichées en cliquant sur le lien «{Bases de données}» sont les suivantes :
-<img130|center>
+<img src="/img/ndd.jpg" title="to complete" alt="ndd.jpg" />
 
 ## Créer une nouvelle base de données
 
@@ -23,11 +23,11 @@ Si l'administrateur des comptes AlternC vous donne la possibilité de créer plu
 
 Pour créer une nouvelle base, dans le menu du bureau, cliquez sur le lien «{Bases de données}» sous la rubrique MySQL. puis choisissez le lien «{Création d'une base de données}», sous la liste des bases qui s'affiche dans la partie droite du bureau.
 
-<img131|center>
+<img src="/img/ndd.jpg" title="to complete" alt="ndd.jpg" />
 Entrez un nom dans le champ. Le nom de la nouvelle base sera un nom composé de deux mots reliés par un tiret souligné (underscore). Ici, elle se nommera demo_spip (en imaginant qu'elle sera utilisée pour installer un SPIP). 
 _ Valider en cliquant sur le bouton [Créer cette nouvelle base].
 
-<img132|center>
+<img src="/img/ndd.jpg" title="to complete" alt="ndd.jpg" />
 Elle apparaît maintenant dans la liste des bases de données.
 _ Attention, si vous cochez la case à gauche du nom de la liste et que vous cliquiez sur le bouton [Effacer les bases cochées] ... la base sera effacée (pour éviter toute mauvais manipulation, une confirmation sera demandée)
 

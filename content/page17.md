@@ -8,7 +8,7 @@ Sa manipulation doit faire l'objet de précautions. Certes il n'est pas nécessa
 
 phpMyAdmin se présente sous la forma d'une interface graphique;
 
-<img138|center>
+<img src="/img/bdd8phpmyadm.png" title="to complete" alt="bdd8phpmyadm.png" />
 
 Dans AlternC il est inutile de l'utiliser pour créer une base de données. Il faut, dans ce cas, passer par le bureau virtuel de votre compte AlternC comme indiqué dans [Créer une base de données->art24].
 

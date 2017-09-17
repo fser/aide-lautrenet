@@ -13,7 +13,7 @@ _ Nous pouvons accéder aux statistiques depuis le bureau AlternC. Le nom d'util
 
 AWSTATS s'ouvre dans une nouvelle fenêtre et se présente en une seule page affichant toutes les rubriques de statistiques les unes sous les autres.
 
-<img150|left> .Sur la gauche le menu permet d'accéder rapidement aux différentes rubriques.
+<img src="/img/aw5menu.png" title="to complete" alt="aw5menu.png" /> .Sur la gauche le menu permet d'accéder rapidement aux différentes rubriques.
 
 Le menu se découpe en 5 sous-rubriques:
 
@@ -26,7 +26,7 @@ Le menu se découpe en 5 sous-rubriques:
 {{Barre d'en-tête }}
 La barre d'en-tête permet la sélection par mois d'une année sélectionnez le mois et l'année pour lesquels vous souhaitez visualiser les statistiques puis validez ce choix en appuyant sur le bouton « OK ».
 
-<img149>
+<img src="/img/ndd_0.jpg" title="to complete" alt="ndd_0.jpg" />
 
 Attention : l'analyse détaillée pour une année complète n'est pas toujursdisponible sur un serveur d'hébergement mutualisé. Elle requerrait beaucoup trop de CPU, c'est à dire qu'elle ferait trop travailler le serveur et pénaliserait lourdement les connexions au serveur.
 
@@ -39,7 +39,7 @@ Le résumé affiche un rapide abrégé des statistiques du mois sélectionné, i
   -  Le trafic « vu » est le trafic qui génère l'affichage d'une page web.
   -  Le trafic « non vu » résulte de l'utilisation de redirection par exemple. C'est à dire qu'il ne  génère pas dans le navigateur l'affichage direct d'une page web.
 
-<img151|center>
+<img src="/img/aw7resume.png" title="to complete" alt="aw7resume.png" />
 
 
 

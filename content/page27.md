@@ -10,17 +10,17 @@ Summary: AWSTATS permet un affichage mois par mois, des statistiques concernant 
 
 Pour accéder à la création de jeux de statistiques, cliquer dans le menu du bureau virtuel sur 
 
-<img139|center>
+<img src="/img/ndd.jpg" title="to complete" alt="ndd.jpg" />
 
 Un clic sur le lien du menu « Statistiques Web » affiche, dans la partie droite du bureau virtuel deux liens et une information : actuellement il n'existe aucun jeu de statistiques.
-<img141|center>
+<img src="/img/aw_zero.png" title="to complete" alt="aw_zero.png" />
 
 Nous allons en créer
 
 ## Créer des utilisateurs
 
 Pour ajouter un premier utilisateur sélectionner « {{Gérer les utilisateurs autorisés}} ».
-<img142|center>
+<img src="/img/aw1_cerauser1.png" title="to complete" alt="aw1_cerauser1.png" />
 
 Le champ Nom comporte obligatoirement, soit le nom du compte, soit un nom de domaine installé sur ce compte (ici documentation), utiliser le menu déroulant accéssible depuis la flèche noire à droite du champ nom..  Il est possible d'ajouter à sa suite un autre mot (non accentué). Ceci permet de créer plusieurs utilisateurs.
 _ Choisir un mot de passe ou laisser vide si les statistiques sont publiques.
@@ -30,20 +30,20 @@ Après l'ajout de l'utilisateur, la liste des utilisateurs autorisés mentionner
 
 Faire de même pour créer un second utilisateur 
 
-<img143|center>
+<img src="/img/aw1_cerauser2.png" title="to complete" alt="aw1_cerauser2.png" />
 
 ## Créer un jeu de statistiques
 
 La création du jeu de statistiques se fait également depuis le lien du menu « {Statistiques web} » puis choisir le lien «{ Créer un jeu de statistiques} ».
 
-<img145|center>
+<img src="/img/ndd_0.jpg" title="to complete" alt="ndd_0.jpg" />
 
 Le formulaire de création du jeu de statistiques propose le choix entre les domaines ou sous-domaines installés sur ce compte. 
 _ Il faut désigner au moins un utilisateur qui aura le droit d'accéder à ces statistiques en cochant la case précédant le nom de l'utilisateur (ici un seul)
 _ Le jeu de statistiques est créé, il figure dans la liste des jeux de statistiques.
 _ À tout moment il est possible de le modifier ou de le supprimer.
 
-<img144|center>
+<img src="/img/aw3_liststat.png" title="to complete" alt="aw3_liststat.png" />
 
 À tout moment il est possible de le modifier ou de le supprimer (clic sur l'icône crayon ou case à cocher).
 

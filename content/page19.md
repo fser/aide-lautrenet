@@ -10,23 +10,23 @@ Summary: Il revient au gestionnaire d'un compte AlternC de créer les listes de 
 
 Cette étape est la même quelle que soit le type de liste à créer.
 
-<img88|left> Depuis Le bureau virtuel, dans le menu de gauche, cliquer sur le lien "Listes de discussion".
+<img src="/img/lm.png" title="to complete" alt="lm.png" /> Depuis Le bureau virtuel, dans le menu de gauche, cliquer sur le lien "Listes de discussion".
 
 Sur ce compte, aucune liste de discussion n'existe.
 L'information s'affiche dans la partie droite du bureau virtuel.
 _ Pour créer une liste cliquer sur le lien "Créer une nouvelle liste".
 
 
-<img89|center>
+<img src="/img/lm1.png" title="to complete" alt="lm1.png" />
 Choisir un nom de liste et, si plusieurs noms de domaine sont installés sur le compte AlternC, préciser celui auquel la liste est rattachée (utiliser pour cela le menu déroulant  avec la flèche noire).
 
 Attention, Mailman n'accepte pas que deux listes portent le même nom sur un même serveur tous comptes lautre.net confondus. 
 _ Si le nom choisi est déja utilisé, un message d'erreur s'affiche. 
 
 Exemple si nous avions choisi "tototo" :
-<img90|center>
+<img src="/img/lm2.png" title="to complete" alt="lm2.png" />
 Nous aurions ce message d'erreur :
-<img91|center>
+<img src="/img/lm2err.png" title="to complete" alt="lm2err.png" />
 
 Mais rassurez-vous, si vous tenez particulièrement à votre nom de liste, [une solution existe->42].
 
@@ -35,13 +35,13 @@ Pour les exemples suivants nous utiliserons les données suivantes (attention, c
   -  Nom de la liste :  info
   -  Adresse de la liste : info@aide-alternc.org
 
-<img92|center>
+<img src="/img/lm7.png" title="to complete" alt="lm7.png" />
 
 Le propriétaire de la liste doit disposer d'une adresse électronique valide.
 Le mot de passe doit être choisi avec soin et mémorisé (il n'est pas possible de le retrouver car, par souci de confidentialité, il est crypté MD5 sur le serveur).
 
 Lorsque la liste est créée le tableau ci-dessous s'affiche dans la partie droite du bureau virtuel AlternC et précise que la création a été effectuée.
-<img93|center>
+<img src="/img/lm8.png" title="to complete" alt="lm8.png" />
 
 Depuis ce tableau il est possible
 
@@ -105,7 +105,7 @@ https://listes.lautre.net/cgi-bin/mailman/admin/NomDeLaListe
 _ Ici NomDeLaListe doit être remplacé par {info}
 _ Attention, ne pas oublier le "s" de "https" qui vous garantit une connexion sécurisée et donc le passage des données sur le réseau dans un tunnel crypté.
 
-<img94|center>
+<img src="/img/lm9.png" title="to complete" alt="lm9.png" />
 
 Au premier lancement le langage par default est "English"
 _ Il faudra donc mettre "Français" dans notre cas. Ce que nous allons faire dès l'entrée dans l'interface d'administration.
@@ -116,7 +116,7 @@ _ Cliquer sur "Let me in ..." (que nous pourrions traduire par "connectez-moi").
 
 La fenêtre qui s'ouvre est trop grande pour être reproduite ici, ci-dessous nous ne présentons que le menu général.
 
-<img95|center>
+<img src="/img/lm91.png" title="to complete" alt="lm91.png" />
 
 ## Choix de la langue
 
@@ -126,9 +126,9 @@ La configuration du langage par défaut utilisé par la liste se fait en deux é
 
 Cliquer sur le lien "Language options" dans la colonne de droite du menu général.
 _ Dans un premier temps il ne sert à rien d'utiliser le menu déroulant de droite qui offre, pour le moment, un unique choix : "English (USA)".
-<img96|center>
+<img src="/img/lm93.png" title="to complete" alt="lm93.png" />
 
-<img97|left>Il est nécessaire d'ajouter le langage choisi.
+<img src="/img/lm94.png" title="to complete" alt="lm94.png" />Il est nécessaire d'ajouter le langage choisi.
 Pour cela, ici,  cocher la case "French". Puis de valider le choix, tout au bas de la fenêtre en cliquant sur le bouton <img98>
 _ Si vous décochez « English » toutes les listes associées au nom de domaine « aide-alternc.org » seront par défaut en français.
 
@@ -136,7 +136,7 @@ _ Si vous décochez « English » toutes les listes associées au nom de domai
 
 La validation de la première étape a pour effet l'affichage de la même page, toujours en anglais.
 
-<img99|left>  Toutefois, maintenant, il est possible de sélectionner "French" dans le menu déroulant.
+<img src="/img/lm96.png" title="to complete" alt="lm96.png" />  Toutefois, maintenant, il est possible de sélectionner "French" dans le menu déroulant.
 _ Après sélection, ne pas oublier de valider en cliquant sur le bouton <img98>.
  
 La même page s'affiche à nouveau, cette fois en français.

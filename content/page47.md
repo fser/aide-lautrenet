@@ -9,7 +9,7 @@ Summary:  .
 
 https://aide.lautre.net/attachment/wiki/TrucsEtAstuces/Misc/Schema/SchemaArchiLautre.png?format=raw
 
-{{Services utilisés }} <img200|right>
+{{Services utilisés }} <img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
 {{Les serveurs en production de L'Autre Net sont architecturés ainsi :}}
 
@@ -46,4 +46,4 @@ Les logiciels utilisés principalement sur les machines sont :
 
 Emplacement des équipements dans la baie, face avant :
 
-<img201|center>
+<img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />

@@ -92,7 +92,7 @@ Il existe deux méthodes pour inscrire des abonnés:
 
   - Inscrire dans le cadre  vide "Entrer une adresse par ligne ci-dessous..." la liste des adresses (une par ligne)
   - Utiliser la possibilité de télécharger la liste directement. Au-dessous de la première case blanche utiliser : 
-<img103|center>
+<img src="/img/menu_gestionnaire_demo.png" title="to complete" alt="menu_gestionnaire_demo.png" />
 
 Attention, ce fichier, présent sur votre ordinateur, doit être au format .txt
 Et se présenter ainsi : une adresse par ligne, pas de ligne vide.
@@ -105,7 +105,7 @@ Cliquer sur parcourir pour trouver ce fichier sur le disque dur de votre ordinat
 Vous pouvez, indiquer un texte supplémentaire qui sera inclus dans le message de bienvenue des listes de discussion : Présentation des objectifs de la liste par exemple.
 
 Valider vos enregistrements en cliquant, comme pour tout changement sur :
-<img101|center>
+<img src="/img/menu_gestionnaire_demo.png" title="to complete" alt="menu_gestionnaire_demo.png" />
 
 ## Tests
 

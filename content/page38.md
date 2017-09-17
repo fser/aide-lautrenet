@@ -8,15 +8,15 @@ Pour pouvoir activer l'accès à vos fichiers en SSH ou SFTP, vous devez avant t
 
 Une fois connecté à votre bureau, sélectionnez le menu {Machines virtuelles (SSH)} :
 
-<img183|center>
+<img src="/img/ndd_4.jpg" title="to complete" alt="ndd_4.jpg" />
 
 Cliquez ensuite sur le lien {demander un accès shell} :
 
-<img184|center>
+<img src="/img/ndd_4.jpg" title="to complete" alt="ndd_4.jpg" />
 
 La page qui suit vous confirme que votre accès shell a bien été mis en place :
 
-<img185|center>
+<img src="/img/params_vm.png" title="to complete" alt="params_vm.png" />
 
 L'élément important à retenir est la valeur du champ {Hôte} (ici slave1.vds.lautre.net). Notez-le quelque part, vous en aurez besoin pour vous connecter ensuite à votre en compte en SSH ou SFTP.
 

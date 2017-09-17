@@ -4,15 +4,15 @@ Category: 09. Administration des comptes AlternC
 Tags: old
 Summary: Quelques prérogatives spécifiques à l'administrateur de comptes AlternC. . 
 
-<img116|left> Ce panneau, spécifique à ladministrateur des comptes AlternC, donne accès à un panel dactions pour la gestion du serveur.
+<img src="/img/menu_pave_admin_pt.png" title="to complete" alt="menu_pave_admin_pt.png" /> Ce panneau, spécifique à ladministrateur des comptes AlternC, donne accès à un panel dactions pour la gestion du serveur.
 
-<img115|center>
+<img src="/img/adm_panneau_adm.png" title="to complete" alt="adm_panneau_adm.png" />
 
 Nous vous proposons trois exemples 
 
 ## Gestion des TLD autorisés
 
-<img118|left> Un TLD (Top Level Domain) est un domaine de premier niveau : .fr, .net, .org ... sont des domaines de premier niveau.
+<img src="/img/adm_tld_gest_court-2.png" title="to complete" alt="adm_tld_gest_court-2.png" /> Un TLD (Top Level Domain) est un domaine de premier niveau : .fr, .net, .org ... sont des domaines de premier niveau.
 
 Le fait de vérifier les DNS dans le WHOIS mondial évite l'installation fantaisiste de domaines n'existant pas et qui ne fonctionneront pas !
 
@@ -22,11 +22,11 @@ Il est toutefois pratique de pourvoir changer le mode de contrôle. C'est import
 
 Pour changer la gestion d'un TLD il suffit de cliquer sur l'icône crayon à côté de son nom, comme le montre l'exemple ci-dessous.
 
-<img119|center>
+<img src="/img/adm_tld_modif.png" title="to complete" alt="adm_tld_modif.png" />
 
 Il est également possible de créer de nouveaux TLD (mot impropre ic i puisqu'il s'agit de donner à un nom de domaine de second niveau les prérogatives d'un  nom de domaine de premier niveau sur le serveur concerné.
 
-<img120|center>
+<img src="/img/adm_tld_creer.png" title="to complete" alt="adm_tld_creer.png" />
 Dans cet exemple, tous les sous-domaines en logiciels-libres.biz peuvent être installés sans contrôle préalable, ce qui est indispensable puisqu'il s'agit d'un sous-domaine et non d'un domaine acheté chez un registrar. Bien évidemment, le domaine doté des droits de TLD doit lui-même être installé sur le serveur auparavant.
 
 
@@ -35,18 +35,18 @@ Dans cet exemple, tous les sous-domaines en logiciels-libres.biz peuvent être i
 Chaque compte AlternC dispose de  fonctionnalités telles que définies par l'administrateur AlternC.
 
 Un clic sur le lien«{ Changer les quotas par défaut}» dans le «{Panneau Administrateur}» nous informe des quotas attribués automatiquement aux nouveaux comptes créés.
-<img121|center> 
+<img src="/img/adm_chang_quotas.png" title="to complete" alt="adm_chang_quotas.png" /> 
 
 Il est possible de permettre à l'administrateur de comptes AlternC de choisir entre plusieurs types de quotas.
 
-<img122|left> Nous allons par exemple créer le type de compte qui sera afffecté d'un quota Mini.
+<img src="/img/adm_chang_quotas1.png" title="to complete" alt="adm_chang_quotas1.png" /> Nous allons par exemple créer le type de compte qui sera afffecté d'un quota Mini.
 
-<img123|center>
+<img src="/img/adm_chang_quotas2.png" title="to complete" alt="adm_chang_quotas2.png" />
 Voici le résultat : nous avons  deux types de comptes, l'un nommé « default » (le type générique installé par défaut dans AlternC)  et l'autre nommé « Mini ».
 
 ## Liste des domaines installés sur le serveur
 
-<img124|left> Ce lien affiche l'ensemble des domaines installés sur le serveur en précisant le compte auquel ils sont liés.
+<img src="/img/adm_list_dom.png" title="to complete" alt="adm_list_dom.png" /> Ce lien affiche l'ensemble des domaines installés sur le serveur en précisant le compte auquel ils sont liés.
 
 Le verrouillage du domaine interdit sa migration vers un autre compte ou serveur. Ce verrouillage peut également éviter de fausses manipulations de la part d'un gestionnaire de compte (ici, cas du compte chantal).
 

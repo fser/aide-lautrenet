@@ -11,7 +11,7 @@ Nous nous intéresserons ici, exclusivement, aux liens de couleur rouge.
 
 ## Le compte admin AlternC
 
-<img104|left> Après authentification, l'administrateur des comptes AlternC accède au bureau virtuel du compte « {admin} ».
+<img src="/img/menu_gestionnaire_demo.png" title="to complete" alt="menu_gestionnaire_demo.png" /> Après authentification, l'administrateur des comptes AlternC accède au bureau virtuel du compte « {admin} ».
  
 L'utilisation des liens en bleu est la même que pour tout compte AlternC.
 Nous nous intéresserons ici, exclusivement, aux liens de couleur rouge.
@@ -25,13 +25,13 @@ Le mot de passe du compte « {admin} » doit être un VRAI mot de passe (méla
 
 Le menu du bureau virtuel est semblable à celui de l'utilisateur d'un compte à une rubrique près, la rubrique Administration, reproduire ci-dessous. 
 
-<img105>
+<img src="/img/menu_gestionnaire_demo.png" title="to complete" alt="menu_gestionnaire_demo.png" />
 
 ## Liste des comptes
 
 Un clic sur le lien « {Gérer les membres} » affiche la liste des comptes hébergés sur le serveur dans la partie droite du bureau.
 
-<img110|center>
+<img src="/img/adm_mb_sans_expire.png" title="to complete" alt="adm_mb_sans_expire.png" />
 
 Dans cette liste les comptes inscrits en rouge sont des comptes administrateur  ou administrateur  restreint.
 _ Ce tableau comporte 10 colonnes :
@@ -50,7 +50,7 @@ _ Ce tableau comporte 10 colonnes :
 Nous constatons que le compte octo ne s'est jamais connecté à la date de la copie d'écran.
 
 Voici, par exemple, la ligne concernant un compte victime d'une tentative de connexion avec un mot de passe erroné :
-<img108|center>
+<img src="/img/menu_gestionnaire_demo.png" title="to complete" alt="menu_gestionnaire_demo.png" />
 
 Le fait de connaitre la date et l'heure de connexion ainsi que l'IP de la machine concernée permet d'engager des recherches si les tentatives se multiplient.
 
@@ -65,7 +65,7 @@ La création d'un nouveau compte (nommé membre sur le serveur de démonstration
   -  Clic sur le lien « {Créer un nouveau membre} »
   -  Renseignement du formulaire
   -  Validation depuis le bouton [Créer un nouveau membre]
-<img111|center>
+<img src="/img/adm_mb_add1.png" title="to complete" alt="adm_mb_add1.png" />
   -  {{Nom}} : nom du compte (identifie le compte et sert à l'authentification pour la connexion au bureau virtuel)
   -  {{Mot de passe initial}} : ce mot de passe (à confirmer dans le champ suivant) pourra être changé (ou non) par le gestionnaire du compte si l'autorisation lui en est donnée (Peut-il changer son mot de passe ?)
   -  {{Nom / Prénom}} : l'identité du propriétaire du compte, ou l'usage du compte (ex : test)
@@ -78,7 +78,7 @@ La création d'un nouveau compte (nommé membre sur le serveur de démonstration
 
 Un clic sur le lien «Modifier» dans la liste des membres permet de changer chertaines informations du compte concerné.
 
-<img112|center>
+<img src="/img/adm_mb_modif.png" title="to complete" alt="adm_mb_modif.png" />
 
 L'utilisation en est simple, il suffit de modifier les données du formulaire.
 
@@ -94,7 +94,7 @@ La périodicité de facturation n'est pas activée sur ce serveur. Il ne s'agit 
 
 ## Gestion des quotas d'un compte
 
-<img113|left> Par défaut, des quotas sont définis en matière de comptes mails, noms de domaines, comptes FTP, ...). Nous verrons par la suite comment définir ces quotas par défaut.
+<img src="/img/adm_mb_modif_quotas.png" title="to complete" alt="adm_mb_modif_quotas.png" /> Par défaut, des quotas sont définis en matière de comptes mails, noms de domaines, comptes FTP, ...). Nous verrons par la suite comment définir ces quotas par défaut.
 
 Ici nous allons personnaliser les quotas attribués au compte « {demo} », pour cela nous avons cliqué sur le lien « {Quotas} » associé au compte « {demo} »
 
@@ -115,4 +115,4 @@ Le bureau virtuel du compte choisi s'affiche à la place de celui du compte « 
 
 Depuis le lien « {Quotas utilisateurs} », l'administrateur AlternC visualise l'utilisation de l'espace pour chaque compte, soit en Mo, soit en pourcentage d'occupation du serveur (chiffres ou graphiques).
 
-<img114|center>
+<img src="/img/adm_quotas2pt.png" title="to complete" alt="adm_quotas2pt.png" />

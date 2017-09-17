@@ -23,7 +23,7 @@ Ensuite dans le menu "{Gestion des abonnements}", cliquer sur "{Liste des abonne
 Dans le cadre représenté ci-dessous, vous pouvez inscrire le nom de Toto dans la case concernée (ici Toto Administrateur).
 _ Il est impératif de décocher la case "{mod}" (modéré) afin que l'administrateur puisse écrire.
 
-<img100|center>
+<img src="/img/menu_gestionnaire_demo.png" title="to complete" alt="menu_gestionnaire_demo.png" />
 
 Vérifiez les messages de bienvenue et d'avis d'abonnement reçus par l'administrateur.
 
@@ -66,7 +66,7 @@ _ (ici cela à peu d'importance puisque la liste des abonnés n'est accéssible 
 |Avec quelle périodicité de nouveaux volumes d'archives doivent-ils être crées ?| (choisir en fonction de vos convenances)|<|<|
 
 ATTENTION : Ne jamais oublier de valider les modifications en cliquant  sur 
-<img101|center>
+<img src="/img/menu_gestionnaire_demo.png" title="to complete" alt="menu_gestionnaire_demo.png" />
 
 ## Gérer l'envoi et la réception des messages
 

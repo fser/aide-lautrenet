@@ -9,10 +9,10 @@ Il est cependant possible de laisser une trace écrite de votre problème si vou
 
 Vous trouverez un lien direct vers ce gestionnaire dans votre bureau sous l'onglet Aide et Entraide.
 
-<img202|center>
+<img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
 Une fois le site chargé, vous pouvez décider de laisser un rapport d'incident anonyme, ou de vous connecter pour être prévenu(e) de la résolution de votre problème.
 
-<img203|center>
+<img src="/img/Flyspray.png" title="to complete" alt="Flyspray.png" />
 
 La création d'un compte est gratuite et immédiate. Et quel que soit votre choix, vous devrez ensuite repérer le menu déroulant qui affiche "Tous les projets" en haut à gauche, et le changer pour "Lautre.net - Tickets clients". A ce moment, vous aurez accès au bouton "Ouvrir une nouvelle tâche anonymement" ou "Ajouter une nouvelle tâche" (si vous vous êtes identifiés), qui vous permettra de rédiger votre ticket.

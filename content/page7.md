@@ -31,18 +31,18 @@ _ Dans la partie droite du bureau virtuel, le formulaire s'affiche.
 _ Inscrire le nom de domaine souhaité (sans les www).
 
 {{ {Premier exemple} }}
-<img13|center>
+<img src="/img/ndd.jpg" title="to complete" alt="ndd.jpg" />
 Le nom de domaine lautre,net n'est pas enregistré comme hébergé par ce serveur.
 Le serveur ne l'installera pas, comme l'indique le message d'erreur ci-dessous.
-<img14|center>
+<img src="/img/ndd_0.jpg" title="to complete" alt="ndd_0.jpg" />
 
 {{ {second exemple} }}
 Installation du domaine aide-alternc.org
-<img15|center>
+<img src="/img/ndd_1.jpg" title="to complete" alt="ndd_1.jpg" />
 Ce domaine s'installe sans problème
-<img16|center>
+<img src="/img/ndd_2.jpg" title="to complete" alt="ndd_2.jpg" />
 
-<img17|left>Un clic sur le lien « Cliquer ici pour continuer » affiche le nouveau menu du bureau : le nom de domaine aide-alternc.org est inscrit dans la rubrique « Domaines ».
+<img src="/img/ndd_3.jpg" title="to complete" alt="ndd_3.jpg" />Un clic sur le lien « Cliquer ici pour continuer » affiche le nouveau menu du bureau : le nom de domaine aide-alternc.org est inscrit dans la rubrique « Domaines ».
 
 Il faut toutefois attendre environ 5 minutes pour qu'il soit bien pris en compte par le serveur, puis 1 heure pour qu'il soit pris en compte par les machines qui gère nos DNS (primary et secondary).
 
@@ -58,11 +58,11 @@ Pour cela il suffit de cliquer sur le lien « aide-alternc.org » dans la rubr
 
 La partie gauche du bureau virtuel affiche deux zones : Sous-domaines et paramètres DNS.  Dans ce premier temps, nous nous limiterons à les décrire.
 _ Pour une gestion des domaines st sous-domaines en fonction des répertoires et fichiers se repporter à l'article "Gestion de domaine et sous-domaine".
-<img18|center>
+<img src="/img/ndd_4.jpg" title="to complete" alt="ndd_4.jpg" />
 
 {{ {Sous-domaines} }}
 
-<img19|center>
+<img src="/img/ndd_ssd.jpg" title="to complete" alt="ndd_ssd.jpg" />
 Cette zone propose des liens et des formulaires. Actuellement elle indique que l'URL : aide-alternc.org est dirigée vers  www.aide-alternc.org, elle même gérée en local (sur ce compte) et pointant à la racine du compte « / », cette barre oblique représente la racine.
 _ Nous y reviendrons dans la sous-rubrique « Gestionnaire de fichiers ».
 
@@ -70,7 +70,7 @@ _ Nous y reviendrons dans la sous-rubrique « Gestionnaire de fichiers ».
 
 ATTENTION : NE JAMAIS MODIFIER CES PARAMÈTRES SANS L'AVIS DE L'ADMINISTRATEUR DU SERVEUR.
 
-<img20|center>
+<img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 Les DNS de ce domaine sont gérés par votre serveur ainsi que les mails liés au domaine.
 _ Attention, le bouton [Effacer aide-alternc.org] supprime le domaine de ce compte.
 

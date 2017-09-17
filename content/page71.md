@@ -15,17 +15,17 @@ L'objectif est de vous montrer le B.A  BA, en supposant que vous n'y connaissez 
 
 Pour faire cette note, nous avons crée un compte ayant pour nom {bienvenue}. C'est le nom_du_compte ou le login ou le nomdevotrecompte[[Dans les pages de documentation vous verrez ces trois termes utilisés indistinctement. Dans ce texte, {bienvenue} est à remplacer par le nom de votre compte.]], que nous avons choisi lors de notre inscription :
 
-<img206|center>
+<img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
 Le login n'est pas modifiable par la suite. C'est ce login (ou nom_du_compte) qui nous permet de [nous connecter au bureau de gestion de notre hébergement->https://admin.lautre.net/admin/] :
 
-<img207|center>
+<img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
 ## Un tour de la maison
 
 Lorsque nous arrivons dans notre espace de travail :
 
-<img208|center>
+<img src="/img/LAN_MenuAccueilComplet.png" title="to complete" alt="LAN_MenuAccueilComplet.png" />
 
 nous pouvons constater, dans la colonne de gauche (Menu) que nous avons déjà :
 - un domaine : {bienvenue}.lautre.net ;
@@ -39,31 +39,31 @@ Nous avons aussi, mais cela ne se voit pas dès l'arrivée dans le Menu :
 
 En créant notre compte, et tel qu'il est dit dans la [page d'accueil de notre association->http://www.lautre.net/] « chaque membre de lAutre Net dispose de 1 sous-domaine en lautre.net (nomdevotrecompte.lautre.net) ». C'est le Login souhaité que nous avons indiqué (voir écran Etape 4: informations personnelles). Nous avons maintenant un sous-domaine : {bienvenue}.lautre.net, comme on le voit dans la zone entourée :
 
-<img209|center>
+<img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
 Saisissons ce nom de domaine dans la barre d'adresses de notre navigateur :
 
-<img221|center>
+<img src="/img/LAN_Test_bienvenue_lautre_net_bulleAdresse.png" title="to complete" alt="LAN_Test_bienvenue_lautre_net_bulleAdresse.png" />
 
 ce qui nous donne :
 
-<img211|center>
+<img src="/img/LAN_TestNomDeDomaine_resultat.png" title="to complete" alt="LAN_TestNomDeDomaine_resultat.png" />
 
 Nous avons maintenant un www. qui est apparu dans l'adresse. Et la page nous affiche un Index of /
 
 Pour comprendre revenons au bureau, et regardons de plus près notre domaine, en cliquant sur son nom ({bienvenue}.lautre.net). Nous obtenons :
 
-<img212|center>
+<img src="/img/LAN_EditionDuDomaineBienvenue_SousDomaines_bullesCarreEtOvale.png" title="to complete" alt="LAN_EditionDuDomaineBienvenue_SousDomaines_bullesCarreEtOvale.png" />
 
 Dans la partie droite du bureau il y a une liste à deux parties : sur la gauche (entourée carré) les sous-domaines de notre tout nouveau domaine {bienvenue}.lautre.net, ce dernier compris, et à droite (entourée ovale) où ils se trouvent. Regardons le domaine {bienvenue}.lautre.net en cliquant sur crayon à gauche de son nom. Nous obtenons :
 
-<img213|center>
+<img src="/img/LAN_EditionSousDomaineBienvenue_bulleRedirectionHttp.png" title="to complete" alt="LAN_EditionSousDomaineBienvenue_bulleRedirectionHttp.png" />
 
 Ce sous-domaine est redirigée vers une autre adresse (un autre sous-domaine) qui est http://www.{bienvenue}.lautre.net. Voilà pourquoi quand nous avons tapé http://{bienvenue}.lautre.net.nous avons vu apparaître http://www.{bienvenue}.lautre.net.
 
 Qu'il y a-t-il derrière http://www.{bienvenue}.lautre.net? Si nous revenons en arrière, puis cliquons cette fois-ci sur le crayon à coté de www.{bienvenue}.lautre.net, nous avons :
 
-<img214|center>
+<img src="/img/LAN_EditionSousDomaine_www_bienvenue-lautre-net_bulleGereEnLocal.png" title="to complete" alt="LAN_EditionSousDomaine_www_bienvenue-lautre-net_bulleGereEnLocal.png" />
 
 Il est indiqué que ce sous-domaine est « géré en local », autrement dit que les fichiers sont dans le serveur de l'Autre Net, et il nous dit où sont ces fichiers : dans le répertoire /www/{bienvenue}.lautre.net.[[Nota bene : nous nous demandons pourquoi ce salamalec d'aller de {bienvenue}.lautre.net à www.{bienvenue}.lautre.net. C'est que nous avons des roots (ce sont les nounous qui font que nos serveurs tournent) très organisés. Pour comprendre, voici un extrait de wikipedia :
 
@@ -98,19 +98,19 @@ Nous avons déjà un nom de domaine, mais en plus...
 
 Dans la colonne Menu, à gauche, nous avons le choix Gestionnaire de fichiers :
 
-<img215|center>
+<img src="/img/LAN_EcranAccueil_bulleGestionnaireDesFichiers.png" title="to complete" alt="LAN_EcranAccueil_bulleGestionnaireDesFichiers.png" />
 
 Si on clique dessus :
 
-<img216|center>
+<img src="/img/LAN_EcranGestionnaireDeFichiers_nv1_bullesRacineEtRepertoires.png" title="to complete" alt="LAN_EcranGestionnaireDeFichiers_nv1_bullesRacineEtRepertoires.png" />
 
 nous voyons que dans notre espace de travail {bienvenue} (entourée en haut, qui est la « racine » de notre site, et que l'on symbolise par /) se trouvent déjà trois répertoires[[Un répertoire c'est un dossier. Dans le Gestionnaire des fichiers du bureau AlternC les répertoires sont indiqués par un nom suivi d'un /]] (entourés en bas) : backups/, stats/ et www/. Cliquons dans le répertoire www/ (c'est-à-dire sur son nom) :
 
-<img217|center>
+<img src="/img/LAN_EcranGestionnaireDeFichiers_nv2.png" title="to complete" alt="LAN_EcranGestionnaireDeFichiers_nv2.png" />
 
 Ce répertoire contient un autre répertoire : {bienvenue}.lautre.net. Cliquons sur son nom :
 
-<img218|center>
+<img src="/img/LAN_EcranGestionnaireDeFichiers_nv3.png" title="to complete" alt="LAN_EcranGestionnaireDeFichiers_nv3.png" />
 
 Ce répertoire est vide.
 
@@ -124,11 +124,11 @@ Pour échanger des fichiers entre notre espace d'hébergement et notre ordinateu
 - le faire directement, mais uniquement dans le sens notre ordinateur vers notre espace d'hébergement, avec AlternC tel que [c'est expliqué dans la documentation->http://aide.lautre.net/Import-de-fichiers-et-FTP] et plus loin dans ce document ;
 - utiliser le [protocole de transfert de fichiers ftp->http://fr.wikipedia.org/wiki/Ftp] et un logiciel spécialisé telle que [FileZilla->http://www.filezilla.fr/][[Il y a beaucoup de logiciels pour cela. Nous utilisons FileZilla.]]. Pour cela il faut qu'il y ait un « compte ftp » permettant la connexion à notre espace par ce protocole. {{Ce compte ftp est déjà prêt}}. Si nous cliquons sur le choix « liste des comptes ftp » dans le Menu :
 
-<img219|center>
+<img src="/img/LAN_EcranAccueil_ComptesFTP_bulleComptesFTP.png" title="to complete" alt="LAN_EcranAccueil_ComptesFTP_bulleComptesFTP.png" />
 
 nous obtenons :
 
-<img220|center>
+<img src="/img/LAN_ListeDesComptesFtp.png" title="to complete" alt="LAN_ListeDesComptesFtp.png" />
 
 Nous voyons qu'il existe un compte ayant pour utilisateur {bienvenue} et qui « pointe » sur la racine de notre espace d'hébergement, c'est à dire /. Ce compte par défaut a le même mot de passe que notre compte (celui que nous utilisons pour nous connecter au bureau).
 
@@ -136,15 +136,15 @@ Nous voyons qu'il existe un compte ayant pour utilisateur {bienvenue} et qui «�
 
 Lors de la création du compte à l'Autre Net un compte mail par défaut est crée, attaché à notre domaine , c'est à dire de la forme @{bienvenue}.lautre.net:
 
-<img222|center>
+<img src="/img/bureau_gest_detail_new.png" title="to complete" alt="bureau_gest_detail_new.png" />
 
 En cliquant sur ce compte (c'est à dire sur son nom) :
 
-<img223|center>
+<img src="/img/bureau_gest_detail_new.png" title="to complete" alt="bureau_gest_detail_new.png" />
 
 nous voyons que ce compte mail par défaut est {bienvenue}@{bienvenue}.lautre.net  (login@login.lautre.net), et si nous regardons ses caractéristiques en cliquant sur le crayon à cote :
 
-<img224|center>
+<img src="/img/bureau_gest_detail_new.png" title="to complete" alt="bureau_gest_detail_new.png" />
 
 nous constatons qu'il y a déjà une redirection des mails vers l'adresse que nous avons fournit en remplissant le formulaire d'adhésion. Donc, par défaut, les mails qui sont envoyés à  {bienvenue}@{bienvenue}.lautre.net vont arriver à notre adresse de contact, qui est aussi celle que nous utilisons pour participer à notre assemblée générale permanente.
 
@@ -154,7 +154,7 @@ Mais comment lire directement les messages adressés à {bienvenue}@{bienvenue}.
 - et pour mot de passe celui de votre compte. 
 {{Mais il faut au préalable avoir coché la casse Compte POP}}, comme c'est écrit « Si vous voulez stocker les emails recus et y accéder avec un logiciel de messagerie ou le webmail, cochez la case 'Compte pop'. ». {{Sinon ça marchera pas}}. Nous pouvons aussi par la même occasion changer le mot de passe, mais c'est optionnel.
 
-<img225|center>
+<img src="/img/SquirrelMail_bienvenue.png" title="to complete" alt="SquirrelMail_bienvenue.png" />
 
 
 ## Une première page.
@@ -174,23 +174,23 @@ Comme nous le savons, les navigateurs, quand ils arrivent quelque part sans autr
 
 C'est « une page html » on ne peut plus basique. Ce fichier est sur le bureau de notre pc. Si nous regardons l'illustration « Gestionnaire de fichiers, répertoire /www/bienvenue.lautre.net » :
 
-<img226|center>
+<img src="/img/LAN_GestionnaireDeFichiers_repertoire_www_bienvenue_vide_bulleImporterFichier.png" title="to complete" alt="LAN_GestionnaireDeFichiers_repertoire_www_bienvenue_vide_bulleImporterFichier.png" />
 
 nous voyons qu'il y a une zone qui nous permet d'importer un fichier : en cliquant sur le bouton Parcourir..., une fenêtre s'ouvre et nous pouvons chercher le fichier dans notre disque dur :
 
-<img227|center>
+<img src="/img/LAN_EnvoiFichierAlternC_bullesIndexEtOuvrir.png" title="to complete" alt="LAN_EnvoiFichierAlternC_bullesIndexEtOuvrir.png" />
 
 une fois le fichier sélectionné (double cliq ou cliq + Ouvrir) nous cliquons sur Envoyer :
 
-<img228|center>
+<img src="/img/bureau_gest_detail_new.png" title="to complete" alt="bureau_gest_detail_new.png" />
 
 et voilà le résultat :
 
-<img229|center>
+<img src="/img/bureau_gest_detail_new.png" title="to complete" alt="bureau_gest_detail_new.png" />
 
 Revenons à la page du navigateur qui nous affichait Index of / , c'est à dire celle de notre site par défaut (http://www.{bienvenue}.lautre.net) et rechargeons-la :
 
-<img230|center>
+<img src="/img/LAN_http_www_bienvenue_lautre_net_index.png" title="to complete" alt="LAN_http_www_bienvenue_lautre_net_index.png" />
 
 Voilà, notre page s'affiche.
 
@@ -205,7 +205,7 @@ Nous venons d'ouvrir un compte, {bienvenue}[[Nous rappelons que tout au long de 
 
 Pourquoi aucun utilisateur MySQL, ni aucune base de données, est défini au départ (c'est marqué en rouge dans l'écran d'accueil) :
 
-<img231|center>
+<img src="/img/gest-fich11.jpg" title="to complete" alt="gest-fich11.jpg" />
 
 Parce que cela n'est pas indispensable : on peut très bien faire un site web sans base de données, et dans ce cas pas la peine de sortir un canon pour tuer une mouche.
 

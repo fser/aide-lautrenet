@@ -16,13 +16,13 @@ AWSTATS classe celles-ci en plusieurs catégories:
   -  Lien depuis une page externe : Le visiteur est arrivé sur notre site en cliquant un lien placé sur un autre site que le notre.
   -  Origine inconnue : Les visites pour lesquelles l'origine n'a pu être déterminée.
 
-<img166|center>
+<img src="/img/ndd_2.jpg" title="to complete" alt="ndd_2.jpg" />
 
 ## Phrase clés  et mots clés
 
 Les phrases clés et mots clés indiquent, lorsque l'origine de la visite est le résultat d'un moteur de recherche, les phrases ou mots clés qui ont permis au visiteur de trouver notre site web.
 
-<img167|center>
+<img src="/img/ndd_2.jpg" title="to complete" alt="ndd_2.jpg" />
 
 C'est pour nous une aide précieuse : ces informations permettent de mieux référencer le site.
 
