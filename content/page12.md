@@ -13,9 +13,11 @@ Afin de rediriger le trafic en clair automatiquement vers votre adresse https://
 
 <code>
 RewriteEngine On
+
 RewriteBase /
 
 RewriteCond %{HTTP:X-Forwarded-Proto} !https
+
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 </code>
 
