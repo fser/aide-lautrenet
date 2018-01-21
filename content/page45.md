@@ -25,7 +25,7 @@ Cette liste étant à diffusion très large, elle est réservée aux annonces im
 
 ## Comment s'inscrire/se désinscrire aux listes de diffusion ?
 
-L'inscription aux listes de diffusions privées de l'association se fait via le panneau d'administration [->https://admin.lautre.net] en sélectionnant le menu "{{Inscription aux Listes}}" dans la rubrique "{{L'Autre Net}}".
+L'inscription aux listes de diffusions privées de l'association se fait via le panneau d'administration [->https://panel.lautre.net] en sélectionnant le menu "{{Inscription aux Listes}}" dans la rubrique "{{L'Autre Net}}".
 
 Il convient alors de cliquer sur le menu "Cliquez ici pour vous inscrire" pour vous abonner à la liste mentionnée juste au-dessus.
 
@@ -35,7 +35,7 @@ L'inscription à la liste de diffusion techos se fait directement via l'interfac
 
 L'inscription à la liste de diffusion charte-redac se fait directement via l'interface mailman : [->http://listes.lautre.net/cgi-bin/mailman/listinfo/charte-redac]
 
-Pour se désabonner de la liste assemblée, il faut se rendre sur le panneau [->https://admin.lautre.net] dans "{{Mon Compte}}", puis "{{Comptabilité}}" et enfin "{{Supprimer votre compte}}".
+Pour se désabonner de la liste assemblée, il faut se rendre sur le panneau [->https://panel.lautre.net] dans "{{Mon Compte}}", puis "{{Comptabilité}}" et enfin "{{Supprimer votre compte}}".
 
 
 ## Les autres mails utilisables

@@ -18,7 +18,7 @@ Prérequis ¶
 
 {{Base de données}}
 
-L'Autre Net fournit 6 bases de données. Spip n'en a besoin que d'une. Pour la créer, rendez vous dans le bureau : https://admin.lautre.net.
+L'Autre Net fournit 6 bases de données. Spip n'en a besoin que d'une. Pour la créer, rendez vous dans le bureau : https://panel.lautre.net.
 
 Dans le menu de gauche, cliquez sur le sous-menu Bases de données, du menu MySQL (1 sur l'image)
 
