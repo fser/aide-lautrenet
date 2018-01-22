@@ -62,7 +62,7 @@ _ Pour aller vite, cliquer sur "Voir" depuis le bureau en spécifiant affichage
 dans un nouvel onglet et recopier l'url...
 
 C'est une url de type :
-_ <HTML>https://admin.lautre.net/cgi-bin/awstats.pl?config=www.mondomaine.tld</HTML>
+_ <HTML>https://panel.lautre.net/cgi-bin/awstats.pl?config=www.mondomaine.tld</HTML>
 
 où www.mondomaine.tld = le domaine ou le sous-domaine sur lequel ont été créées les stats
 _ dans l'exemple de l'aide

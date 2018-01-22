@@ -17,7 +17,7 @@ https://aide.lautre.net/attachment/wiki/TrucsEtAstuces/Misc/Schema/SchemaArchiLa
 - Estelle est le répartiteur de charge de secours. Il fait la même chose que eva, mais est éteint par défaut. Il n'entre en fonction qu'en cas de crash sur eva. 
 - Emma et Ella sont 2 machines strictement identiques : ce sont des bixeons qui servent les requêtes http (web), mail (mx, pop, imap, smtp relay). Les applications PHP ainsi lancées se connectent au MySQL sur elea. Ils montent plusieurs dossiers en nfs sur fey pour disposer de données partagées entre eux. 
 - Elea est un serveur dédié à MySQL. seul mysql tourne sur cette machine. 
-- Elsa est le serveur mailman, qui reçoit les mails envoyés aux listes et les redistribue, et sert aussi le bureau AlternC http et https (c'est donc admin.lautre.net). Elle accède donc à elea en MySQL et à fey en NFS. 
+- Elsa est le serveur mailman, qui reçoit les mails envoyés aux listes et les redistribue, et sert aussi le bureau AlternC http et https (c'est donc panel.lautre.net). Elle accède donc à elea en MySQL et à fey en NFS. 
 - Fey est le serveur de fichier NFS, qui sert à emma, ella, et elsa les fichiers de /var/alternc/*. Ces fichiers sont dans /data/elsa_nfs sur fdey. Il sert aussi de backups, qui sont incrémentaux, avec snapshot quotidiens et stockés dans /backups. 
 
 {{Les serveurs en attente de mise en production de L'Autre Net sont architecturés ainsi :}}

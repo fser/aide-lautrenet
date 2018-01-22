@@ -8,7 +8,7 @@ Summary: Première étape : la connexion au bureau virtuel  .
 L'administration de compte hébergés sur le serveur, comme la gestion d'un compte, nécessite une authentification.
 
 Dans le navigateur indiquer l'adresse :
-https://admin.lautre.net/  
+https://panel.lautre.net/  
 
 Attention : 
 -# Ne pas oublier le « s » après http ... il signifie que la connexion sera sécurisée, les informations échangées entre le serveur et la machine de bureau circuleront chiffrées, et non en clair sur le réseau Internet, interdisant les interceptions malveillantes.

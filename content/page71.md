@@ -17,7 +17,7 @@ Pour faire cette note, nous avons crée un compte ayant pour nom {bienvenue}. C'
 
 <img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
-Le login n'est pas modifiable par la suite. C'est ce login (ou nom_du_compte) qui nous permet de [nous connecter au bureau de gestion de notre hébergement->https://admin.lautre.net/admin/] :
+Le login n'est pas modifiable par la suite. C'est ce login (ou nom_du_compte) qui nous permet de [nous connecter au bureau de gestion de notre hébergement->https://panel.lautre.net/admin/] :
 
 <img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
