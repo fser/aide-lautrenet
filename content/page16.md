@@ -26,8 +26,8 @@ Pour le moment, cet utilisateur n'a aucun droit sur aucune base, nous allons lui
 
 Choisissez les droits que vous souhaitez lui octroyer en cochant les cases concernées, puis validez avec le bouton [Appliquer]
 
-Toto aura donc des droits sur la base demo_spip, base à laquelle il pourra accéder avec le logiciel PHPMyadmin, installé sur les plateformes AlternC et accéssible depuis [l'adresse web->https://nomduserveur.tld/admin/sql/index.php]
-Pour de plus amples informations [voir PHPMyAdmin->art27].
+Toto aura donc des droits sur la base demo_spip, base à laquelle il pourra accéder avec le logiciel PHPMyadmin, installé sur les plateformes AlternC et accéssible depuis l'adresse web *https://nomduserveur.tld/admin/sql/index.php*.
+Pour de plus amples informations [voir PHPMyAdmin](/03-phpmyadmin.html).
 
 Vous pouvez, depuis la liste des utilisateur MySQL, supprimer un utilisateur : cochez la case qui précède son nom et cliquez sur le bouton de validation (une confirmation sera demandée).
 

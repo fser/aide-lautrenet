@@ -19,7 +19,7 @@ Toutefois, maintenant que cette base principale est créée, les informations af
 
 ## Créer une nouvelle base de données
 
-Si l'administrateur des comptes AlternC vous donne la possibilité de créer plusieurs bases de données sur votre compte, le mot de passe MySQL sera le même pour toute les bases. Ceci, sauf si vous avez la possibilité de créer des utilisateurs MySQL [voir Utilisateurs MySQL->art26].
+Si l'administrateur des comptes AlternC vous donne la possibilité de créer plusieurs bases de données sur votre compte, le mot de passe MySQL sera le même pour toute les bases. Ceci, sauf si vous avez la possibilité de créer des utilisateurs MySQL [voir Utilisateurs MySQL](/02-utilisateurs-mysql.html).
 
 Pour créer une nouvelle base, dans le menu du bureau, cliquez sur le lien «{Bases de données}» sous la rubrique MySQL. puis choisissez le lien «{Création d'une base de données}», sous la liste des bases qui s'affiche dans la partie droite du bureau.
 

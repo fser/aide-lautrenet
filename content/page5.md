@@ -7,7 +7,7 @@ Summary:  . Si votre CMS n'est pas à jour, mettez-le à jour
 ## 1. Les caractères accentués s'affichent mal
 
 
-- Cause: [Configuration de PHP5.6->http://php.net/manual/fr/ini.core.php#ini.default-charset]
+- Cause: [Configuration de PHP5.6](http://php.net/manual/fr/ini.core.php#ini.default-charset)
 - Solution [[Si votre CMS n'est pas à jour, mettez-le à jour!]]: Définir manuellement le {{charset}} dans le code PHP
 <code>
 ini_set("default_charset", "iso-8859-1");
@@ -75,11 +75,10 @@ même logiciel
 En attendant de résoudre le bug:
 
 Modifier le lien d'administration pour le faire commencer par
-[https://listes.lautre.net/
-->https://listes.lautre.net/] (c'est normalement bon depuis le bureau)
+[https://listes.lautre.net/](https://listes.lautre.net/) (c'est normalement bon depuis le bureau)
 
 Si ça ne marche pas (listes neuves par exemple), essayer avec
-[https://panel.lautre.net/->https://panel.lautre.net/]
+[https://panel.lautre.net/](https://panel.lautre.net/)
 
 
 ## 6. Problème connexion IMAP
@@ -96,7 +95,7 @@ fichiers existe.
 ## 7. Serveur FTP
 
 
-Utiliser l'adresse "ftp.lautre.net" comme précisé dans l'[aide->article8][[Si votre CMS n'est pas à jour, mettez-le à jour!]]
+Utiliser l'adresse "ftp.lautre.net" comme précisé dans l'[aide](/04-import-de-fichiers-et-ftp.html) [[Si votre CMS n'est pas à jour, mettez-le à jour!]]
 
 ## 8. Adresses catch-all
 
@@ -125,4 +124,4 @@ L'envoi des mails depuis les sites web doit se faire uniquement en utilisant la 
 - Calcul des quotas
 
 
-Source du logo : [->https://pixabay.com/fr/manchot-migrer-berlin-oiseau-154747/]
+Source du logo : https://pixabay.com/fr/manchot-migrer-berlin-oiseau-154747/
