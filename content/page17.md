@@ -14,11 +14,11 @@ Dans AlternC il est inutile de l'utiliser pour créer une base de données. Il f
 
 Si vous confiez la réalisation de votre site web (par exemple) à un créateur n'ayant pas accès au bureau virtuel il faut procéder ainsi :
 
--# Créer depuis le bureau virtuel AlternC la base de données ou les bases de données dont il a besoin voir [Créer une nouvelle base de données->art24].
--# Créer un utilisateur MySQL avec un nom et un mot de passe spécifique, voir [Créer un utilisateur MySQL->art26]
--# Donner à cet utilisateur les droits souhaités sur les bases concernées, voir [Créer Donner des droits à un utilisateur MySQL->art26] 
--# Créer, si ce n'est déja fait un compte FTP spécifique,  voir [ Créer, gérer et configurer un compte FTP->art8] et lui transmettre les coordonnées de ce compte FTP.
--# Transmettre l'adresse de l'interface phpMyAdmin sur le serveur, soit 
+ - Créer depuis le bureau virtuel AlternC la base de données ou les bases de données dont il a besoin voir [Créer une nouvelle base de données->art24].
+ - Créer un utilisateur MySQL avec un nom et un mot de passe spécifique, voir [Créer un utilisateur MySQL->art26]
+ - Donner à cet utilisateur les droits souhaités sur les bases concernées, voir [Créer Donner des droits à un utilisateur MySQL->art26] 
+ - Créer, si ce n'est déja fait un compte FTP spécifique,  voir [ Créer, gérer et configurer un compte FTP->art8] et lui transmettre les coordonnées de ce compte FTP.
+ - Transmettre l'adresse de l'interface phpMyAdmin sur le serveur, soit 
 <code>https://panel.lautre.net/admin/sql/index.php</code> adresse dans laquelle vous remplacerez mon serveur par le nom du serveur. Si la page s'affiche avec un menu déroulant, choisir le serveur «localhost» et non «localhost (root)».
 
 {{Testez que tout fonctionne AVANT de transmettre l'ensemble de ces informations.}}
