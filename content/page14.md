@@ -9,9 +9,10 @@ Summary: Comment accéder à votre messagerie, soit en ligne par webmail sécuri
 Vous pouvez-vous connecter à  l'interface sécurisée du webmail de deux manières.
 
   - Soit depuis : https://panel.lautre.net (en utilisant le formulaire du bas)
-  - Soit depuis : https://panel.lautre.net/webmail
+  - Soit depuis : https://panel.lautre.net/webmail - ne fonctionne plus.
+  - soit depuis : https://rc.lautre.net
 
-Attention, ne pas oublier le « s » de https, ni la barre oblique « / » de fin.
+Attention, ne pas oublier le « s » de https.
 
 { {{POUR LAUTRE.NET : les adresses indiquées sont des EXEMPLES... Remplacez les par vos propres adresses.}} }
 
