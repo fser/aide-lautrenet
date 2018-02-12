@@ -66,11 +66,11 @@ La création d'un nouveau compte (nommé membre sur le serveur de démonstration
   -  Renseignement du formulaire
   -  Validation depuis le bouton [Créer un nouveau membre]
 <img src="/img/adm_mb_add1.png" title="to complete" alt="adm_mb_add1.png" />
-  -  {{Nom}} : nom du compte (identifie le compte et sert à l'authentification pour la connexion au bureau virtuel)
-  -  {{Mot de passe initial}} : ce mot de passe (à confirmer dans le champ suivant) pourra être changé (ou non) par le gestionnaire du compte si l'autorisation lui en est donnée (Peut-il changer son mot de passe ?)
-  -  {{Nom / Prénom}} : l'identité du propriétaire du compte, ou l'usage du compte (ex : test)
-  -  {{Adresse Email}} : adresse à laquelle seront envoyées les informations de mise à jour, indisponibilité, ... du serveur.
-  -  {{Type de compte}} : laisser à priori sur default, nous y reviendrons
+  -  **Nom** : nom du compte (identifie le compte et sert à l'authentification pour la connexion au bureau virtuel)
+  -  **Mot de passe initial** : ce mot de passe (à confirmer dans le champ suivant) pourra être changé (ou non) par le gestionnaire du compte si l'autorisation lui en est donnée (Peut-il changer son mot de passe ?)
+  -  **Nom / Prénom** : l'identité du propriétaire du compte, ou l'usage du compte (ex : test)
+  -  **Adresse Email** : adresse à laquelle seront envoyées les informations de mise à jour, indisponibilité, ... du serveur.
+  -  **Type de compte** : laisser à priori sur default, nous y reviendrons
 
 {Note : Le nom du propriétaire du compte n'est pas obligatoirement celui du gestionnaire du compte.}
 
@@ -106,7 +106,7 @@ Cliquer sur le bouton [Modifier les quotas] pour enregistrer les modifications.
 
 Avant de cliquer sur le lien « {Connecter} » associé à un compte, assurez-vous que le gestionnaire ou le propriétaire du compte vous en a donné le droit.
 
-{{Attention}} : ne pas ouvrir ce lien dans un nouvel onglet (ou une nouvelle fenêtre) du navigateur. En effet, la connexion simultanée à plusieurs bureaux virtuels d'un même serveur est a proscrire, les informations risquant de se mélanger ... 
+**Attention** : ne pas ouvrir ce lien dans un nouvel onglet (ou une nouvelle fenêtre) du navigateur. En effet, la connexion simultanée à plusieurs bureaux virtuels d'un même serveur est a proscrire, les informations risquant de se mélanger ... 
 
 Le bureau virtuel du compte choisi s'affiche à la place de celui du compte « {admin} ».  Pour retourner au compte « {admin} » il sera nécessaire de se déconnecter du compte en cours puis de se reconnecter en s'identifiant ((raison de sécurité évidente).
 

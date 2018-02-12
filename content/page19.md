@@ -61,7 +61,7 @@ Nous proposons, dans ce document, la configuration de trois types de liste.
 Il ne s'agit que de suggestions, l'objectif étant la prise en main des focntions de base de l'interface d'administration des listes Mailman.
 _ Bien évidemment, ces options peuvent être adaptées à vos besoins propres.
 
-{{Une liste de diffusion}} est destinée à envoyer des informations et non à échanger des informations. C'est à dire qu'une ou plusieurs personnes peuvent poster des messages pour des abonnés qui, eux, ne peuvent pas écrire à cette liste.
+**Une liste de diffusion** est destinée à envoyer des informations et non à échanger des informations. C'est à dire qu'une ou plusieurs personnes peuvent poster des messages pour des abonnés qui, eux, ne peuvent pas écrire à cette liste.
 
 {Objectifs} :
 
@@ -72,7 +72,7 @@ _ Bien évidemment, ces options peuvent être adaptées à vos besoins propres.
   -  Aucun message en attente ne doit encombrer inutilement l'hébergeur, aucun pied de message ne doit être visible.
 
 
-{{Une liste de discussion privée}} est destinée à l'échange d'informations entre abonnés de cette liste.
+**Une liste de discussion privée** est destinée à l'échange d'informations entre abonnés de cette liste.
 
 {Objectifs} :
 
@@ -83,7 +83,7 @@ _ Bien évidemment, ces options peuvent être adaptées à vos besoins propres.
   -  Tout abonné peut consulter la liste des abonnés, les archives, changer son mot de passe et modifier la manière dont il reçoit les messages..
 
 
-{{Une liste de discussion publique}} est destinée à l'échange d'informations entre abonnés de cette liste. Les différences essentielles avec la liste de discussion privée sont l'accès public à la liste, l'inscription ouverte à tous, les archives publiques.
+**Une liste de discussion publique** est destinée à l'échange d'informations entre abonnés de cette liste. Les différences essentielles avec la liste de discussion privée sont l'accès public à la liste, l'inscription ouverte à tous, les archives publiques.
 
 {Objectifs} :
 
@@ -122,7 +122,7 @@ La fenêtre qui s'ouvre est trop grande pour être reproduite ici, ci-dessous no
 
 La configuration du langage par défaut utilisé par la liste se fait en deux étapes.
 
-{{1 - Ajouter la langue française au menu de choix de langages}}
+**1 - Ajouter la langue française au menu de choix de langages**
 
 Cliquer sur le lien "Language options" dans la colonne de droite du menu général.
 _ Dans un premier temps il ne sert à rien d'utiliser le menu déroulant de droite qui offre, pour le moment, un unique choix : "English (USA)".
@@ -132,7 +132,7 @@ _ Dans un premier temps il ne sert à rien d'utiliser le menu déroulant de droi
 Pour cela, ici,  cocher la case "French". Puis de valider le choix, tout au bas de la fenêtre en cliquant sur le bouton <img98>
 _ Si vous décochez « English » toutes les listes associées au nom de domaine « aide-alternc.org » seront par défaut en français.
 
-{{2 - Configurer la liste pour la langue française}}
+**2 - Configurer la liste pour la langue française**
 
 La validation de la première étape a pour effet l'affichage de la même page, toujours en anglais.
 

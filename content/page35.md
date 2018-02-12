@@ -61,7 +61,7 @@ Le verrouillage du domaine interdit sa migration vers un autre compte ou serveur
 
 L'utilisation de ces 2 liens du panneau administrateur nécessite des connaissances en administration système. Il s'agit de la communication entre le serveur, les serveurs de DNS et de sauvegarde.
 
-Il est prident d'en laisser la complète gestion à l'administrateur système ({{root}}) du serveur, sous peine dêtre confronté à de graves dysfonctionnements !
+Il est prident d'en laisser la complète gestion à l'administrateur système (**root**) du serveur, sous peine dêtre confronté à de graves dysfonctionnements !
 
 ## Configurer les variables d'AlternC
 A partir de ce lien, si vous indiquez un nom de domaine dont vous êtes propriétaire (exemple NomDeDomaine.tld), tout nouveau compte AlternC créé par vos soins, peut être assorti automatiquement d'un sous-domaine de type LoginDuCompte.NomDeDomaine.tld.

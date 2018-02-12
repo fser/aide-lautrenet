@@ -23,7 +23,7 @@ Le menu se découpe en 5 sous-rubriques:
   -  Origine/Referer 
   -  Autres 
 
-{{Barre d'en-tête }}
+**Barre d'en-tête**
 La barre d'en-tête permet la sélection par mois d'une année sélectionnez le mois et l'année pour lesquels vous souhaitez visualiser les statistiques puis validez ce choix en appuyant sur le bouton « OK ».
 
 <img src="/img/ndd_0.jpg" title="to complete" alt="ndd_0.jpg" />

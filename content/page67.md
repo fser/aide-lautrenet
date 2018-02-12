@@ -4,13 +4,13 @@ Category: 11. Sur les bases de données MySQL
 Tags: old
 Summary:  . 
 
-{{Comment sauvegarder ma base de données SQL? }} 
+**Comment sauvegarder ma base de données SQL?** 
 
 On ne peut plus programmer de sauvegarde automatique depuis le bureau altern. C'est pas grave, puisque cela se fait désormais automatiquement et quotidiennement. Vous disposez sans avoir à vous en préoccuper d'une sauvegarde quotidienne sur les 7 derniers jours, et d'une sauvegarde hebdomadaire sur les 5 dernières semaines.
 
 Au cas où vous vouliez faire une sauvegarde manuelle, il faut aller dans la partie Admin SQL du bureau. Cliquez sur votre login (en gras) dans le menu de gauche. Descendez tout en bas de la page de droite. Cliquez sur "Structure et données", puis sur "Transmettre", puis enfin sur "Exécuter".
 
-{{Comment restaurer une sauvegarde mySQL? }} 
+**Comment restaurer une sauvegarde mySQL?** 
 
 On va commencer par ouvrir une machine virtuelle et s'y connecter. Dans le bureau altern, colonne de gauche, cliquez sur « machines virtuelles (SSH) », puis dans la page ouverte, cliquez sur « demander un accès shell ». Une machine virtuelle est alors immédiatement à disposition et pour 4H. La page qui s'affiche vous donne votre nom d'utilisateur, votre mot de passe, le nom d'hôte de la machine et le port pour s'y connecter. Vous pouvez maintenant accéder à l'ensemble de votre compte et tout sauvegarder, ça ne fait jamais de mal (Filezilla fera ça très bien).
 

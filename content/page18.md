@@ -20,12 +20,12 @@ _ Le point 2 peut être résolu : c'est l'objet de cette rubrique
 ## Prérequis
 Avant de créer une liste il faut définir les points suivants :
 
-  -  {{objectif précis de la liste}}
-  -  {{type de liste}}
+  -  **objectif précis de la liste**
+  -  **type de liste**
   - publique
   - privée
   - archivée
-  -  {{destinataires (abonnés)}}
+  -  **destinataires (abonnés)**
   - inscription possible, modérée, nécessitant confirmation (ou non)
   - les abonnés peuvent écrire à la liste (ou non)
   - les abonnés peuvent recevoir les mails groupés (une fois par période à déterminer) ou au fur et à mesure de leur envoi
@@ -33,13 +33,13 @@ Avant de créer une liste il faut définir les points suivants :
   - les non-abonnés peuvent écrire à la liste  (ou non)
   - l'abonné reçoit ses propres messages  (ou non)
   - l'abonné peut envoyer des pièces jointes  (ou non)
-  -  {{gestionnaire de la liste}}
+  -  **gestionnaire de la liste**
   - unique  (ou non)
   - aidé par des modérateurs  (ou non)
   - doit approuver les messages avant leur envoi à la liste  (ou non)
   - doit être prévenu des abonnements, désabonnements  (ou non)
   - doit être prévenu des refus ou mise en attente de messages  (ou non)
-  -  {{divers}}
+  -  **divers**
   - poid maximal des messages
   - envoi d'un message de bienvenue
   - rappel des mots de passe

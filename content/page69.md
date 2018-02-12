@@ -8,7 +8,7 @@ Comment télécharger ma base de données SQL via SFTP ?
 
 Il est parfois impossible de télécharger une base de totalité, totalement voire partiellement, en utilisant l'interface d'exportation de PHPMyAdmin, car la taille de votre base peut être trop importante et le serveur vous renvoie alors un time out. Pour contourner cet obstacle, vous pouvez vous connecter via sftp à votre compte et télécharger directement sur votre ordinateur les fichiers qui vous intéressent. C'est cette méthodologie que nous allons aborder ici.
 
-Pour vous connecter en sftp, il faut faire la demande d'un machine virtuelle tel que décrit ici[[{{Comment se connecter à une machine virtuelle ? }} 
+Pour vous connecter en sftp, il faut faire la demande d'un machine virtuelle tel que décrit ici[[**Comment se connecter à une machine virtuelle ?** 
 
 Dans le bureau altern, colonne de gauche, cliquez sur « machines virtuelles (SSH) », puis dans la page ouverte, cliquez sur « demander un accès shell ». Une machine virtuelle est alors immédiatement à disposition et pour 4H. La page qui s'affiche vous donne votre nom d'utilisateur, votre mot de passe, le nom d'hôte de la machine et le port pour s'y connecter.
 Vous pouvez maintenant accéder à l'ensemble de votre compte et tout sauvegarder, ça ne fait jamais de mal (Filezilla fera ça très bien).
@@ -53,7 +53,7 @@ Pour accéder à vos sauvegardes, remontez à la racine de votre compte. Il s'ag
 
 <img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
-Naviguez alors jusque dans votre répertoire {{backupsql}} en double cliquant sur le dossier et vous aurez accès aux dernières 7 sauvegardes quotidiennes et aux 5 dernières sauvegardes mensuelles. Au jour où j'écris ce tutoriel, les informations sont les suivantes :
+Naviguez alors jusque dans votre répertoire **backupsql** en double cliquant sur le dossier et vous aurez accès aux dernières 7 sauvegardes quotidiennes et aux 5 dernières sauvegardes mensuelles. Au jour où j'écris ce tutoriel, les informations sont les suivantes :
 
 
 <img src="/img/racine.png" title="to complete" alt="racine.png" />

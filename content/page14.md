@@ -14,14 +14,14 @@ Vous pouvez-vous connecter à  l'interface sécurisée du webmail de deux maniè
 
 Attention, ne pas oublier le « s » de https.
 
-{ {{POUR LAUTRE.NET : les adresses indiquées sont des EXEMPLES... Remplacez les par vos propres adresses.}} }
+{ **POUR LAUTRE.NET : les adresses indiquées sont des EXEMPLES... Remplacez les par vos propres adresses.** }
 
 <img src="/img/mail_web1.jpg" title="to complete" alt="mail_web1.jpg" />
 
 **ATTENTION : L'identifiant est l'adresse mail complète**.
 
   - Le mot de passe est celui qui a été attribué au compte mail concerné, ici : « contact@aide-alternc.org ».
-  - { {{Remplacez cette adresse mise pour l'exemple par l'adresse que vous avez créée depuis votre bureau virtuel}} } (voir le chapitre précédant [Mails et alias](/01-mails-et-alias.html)).
+  - { **Remplacez cette adresse mise pour l'exemple par l'adresse que vous avez créée depuis votre bureau virtuel** } (voir le chapitre précédant [Mails et alias](/01-mails-et-alias.html)).
 
 Pour entrer le mot de passe il est possible ici d'utiliser le « clavier virtuel » qui évite la saisie au clavier et donc les éventuelles interceptions dans certains cybercafés par exemple.
 

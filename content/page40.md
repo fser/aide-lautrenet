@@ -4,7 +4,7 @@ Category: 10. Accès sécurisé aux données (SSH et SFTP)
 Tags: old
 Summary: L'accès à votre compte via SSH est une possibilité basée sur la ligne commande sous Linux, techniquement un peu plus compliquée mais extrêmement souple et puissante. . L'accès à votre compte via SSH est une possibilité basée sur la ligne commande sous Linux, techniquement un peu plus compliquée mais extrêmement souple et puissante.
 
-{{Attention cette fonctionnalité est actuellement indisponible.}}
+**Attention cette fonctionnalité est actuellement indisponible.**
 
 La connexion en SSH nécessite d'avoir au préalable [activé la connexion sécurisée à votre compte->34]. Pensez, lors de cette étape, à bien noter le nom d'hôte indiqué par le bureau virtuel (quelque chose ressemblant à slave1.vds.lautre.net).
 

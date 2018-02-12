@@ -15,7 +15,7 @@ Cliquer, dans la rubrique « Comptes Mails » du menu, sur le lien « aide-alter
 <img src="/img/mail1.jpg" title="to complete" alt="mail1.jpg" />
 
 Une adresse mail a été générée automatiquement à l'installation du domaine. Il s'agit de l'adresse « postmaster@aide-alternc.org » Même si cette adresse ne paraît pas utile, il ne faut pas la supprimer. 
-_ En effet, sa présence est testée par certains registrars  pour des noms de domaines testés {{avant}} leur acquisition (cas des noms de domaine en .fr par exemple), cette dernière peut être refusée si l'adresse n'est pas présente.
+_ En effet, sa présence est testée par certains registrars  pour des noms de domaines testés **avant** leur acquisition (cas des noms de domaine en .fr par exemple), cette dernière peut être refusée si l'adresse n'est pas présente.
 _ Il est tout à fait possible de la diriger vers une autre adresse, selon la procédure que nous verrons plus loin.
 
 Cliquer sur le lien « Ajouter un email sur aide-alternc.org »
@@ -49,4 +49,4 @@ Il est possible de créer une adresse mail (avec compte pop) qui soit également
 
 Pour modifier une adresse (changer le mot de passe, transformer un alias en adresse....) il suffit de cliquer sur l'icône "crayon" dans la colonne "Action".
 
-{{ATTENTION}}, {transformer une adresse avec compte pop en simple alias supprime tous les messages associés à cette adresse.}
+**ATTENTION**, {transformer une adresse avec compte pop en simple alias supprime tous les messages associés à cette adresse.}

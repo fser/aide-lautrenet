@@ -8,7 +8,7 @@ Installation et configuration de wordpress sur lautre.net
 
 La version 3.7 de wordpress fonctionne sans soucis. Donc après avoir télécharger une version de wordpress, suivez les instructions de wordpress.org pour les modifications de wp-sample-config.php.
 
-{{Modifications wp-config.php et paramètres mysql}}
+**Modifications wp-config.php et paramètres mysql**
 
 En ce qui concerne les informations a mettre dans ce fichier, il va falloir faire quelque modifications sur votre bureau altern-C de lautre.net.
 

@@ -9,9 +9,9 @@ Summary:  .
 
 https://aide.lautre.net/attachment/wiki/TrucsEtAstuces/Misc/Schema/SchemaArchiLautre.png?format=raw
 
-{{Services utilisés }} <img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
+**Services utilisés** <img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
-{{Les serveurs en production de L'Autre Net sont architecturés ainsi :}}
+**Les serveurs en production de L'Autre Net sont architecturés ainsi :**
 
 - Eva est le répartiteur de charge qui utilise LVS (Linux Virtual Server) pour répartir la charge web et mail sur emma et ella, et la charge https sur elsa. Elle sert aussi de routeur OSPF en utilisant le logiciel Quagga pour nous router sur Gitoyen, donc sur Internet. 
 - Estelle est le répartiteur de charge de secours. Il fait la même chose que eva, mais est éteint par défaut. Il n'entre en fonction qu'en cas de crash sur eva. 
@@ -20,21 +20,21 @@ https://aide.lautre.net/attachment/wiki/TrucsEtAstuces/Misc/Schema/SchemaArchiLa
 - Elsa est le serveur mailman, qui reçoit les mails envoyés aux listes et les redistribue, et sert aussi le bureau AlternC http et https (c'est donc panel.lautre.net). Elle accède donc à elea en MySQL et à fey en NFS. 
 - Fey est le serveur de fichier NFS, qui sert à emma, ella, et elsa les fichiers de /var/alternc/*. Ces fichiers sont dans /data/elsa_nfs sur fdey. Il sert aussi de backups, qui sont incrémentaux, avec snapshot quotidiens et stockés dans /backups. 
 
-{{Les serveurs en attente de mise en production de L'Autre Net sont architecturés ainsi :}}
+**Les serveurs en attente de mise en production de L'Autre Net sont architecturés ainsi :**
 
 - Eyra, etna : deux serveurs sun sunfire v220 destiné a gerer les MX et relais SMTP pour les abonnés
 - Defi : chargé de remplacer fey a échéance (nouveau filer) + baie de 14 disques
 - Elma : service non défini a l'heure actuelle
 - Elga : machine de vserver chargée d'héberger notamment trac, svn, rt etc .... 
 
-{{Les équipements supplémentaires :}}
+**Les équipements supplémentaires :**
 
 - ada : switch interco publique (service)
 - facteur : switch interco privé (admin)
 - apc : service de prise electrique controlé (APC)
 - console : serveur de port série. 
 
-{{Logiciels utilisés }} 
+**Logiciels utilisés** 
 
 Les logiciels utilisés principalement sur les machines sont :
 

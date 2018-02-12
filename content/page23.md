@@ -22,43 +22,43 @@ N'incluez pas les « <> » ou « [ ] » dans les commandes.}
 
 ## Liste des commandes
  
-   {{confirm <chaîne-de-confirmation>}}
+**confirm <chaîne-de-confirmation>**
 _ Confirmer une action. La chaîne-de-confirmation est requise et doit être fournie par un courriel de confirmation.
 
-    {{end}}
+**end**
 _ Arrête le traitement des commandes. Utiliser ceci si votre logiciel de messagerie ajoute automatiquement un fichier signature.
 
-    {{help}}
+**help**
 _ Affiche la présente liste de commandes.
 
-    {{info}}
+**info**
 _ Renvoie des informations à propos de cette liste de diffusion.
 
-    {{lists}}
+**lists**
 _ Renvoie la liste des listes de diffusion publiques sur ce serveur GNU Mailman.
 
-   {{ password [<ancien_passe> <nouveau_passe>] [address=<adresse>]}}
+**password [<ancien_passe> <nouveau_passe>] [address=<adresse>]**
 _ Récupérer ou changer votre mot de passe. Sans arguments, cette commande renvoie votre mot de passe actuel.
 _ Avec <ancien_passe> et <nouveau_passe> comme arguments, elle change votre mot de passe.
 
 Si vous envoyez un message à partir d'une adresse différente de votre adresse d'abonnement, spécifier votre adresse avec « address=<adresse> » (sans les signes < et > autour de l'adresse et sans guillemets !). Notez que dans ce cas, la réponse est toujours envoyée à l'adresse abonnée.
 
 
-   {{ set ...}}
+**set ...**
 _ Modifier ou visualiser vos options d'abonné.
-Utilisez « {{set help}} » (sans les guillemets) pour avoir une liste plus détaillée des options que vous pouvez modifier.
-Utilisez « {{set show}} » (sans les guillemets) pour voir vos options actuelles.
+Utilisez « **set help** » (sans les guillemets) pour avoir une liste plus détaillée des options que vous pouvez modifier.
+Utilisez « **set show** » (sans les guillemets) pour voir vos options actuelles.
 
-   {{ subscribe [passe] [digest|nodigest] [address=<adresse>]}}
+**subscribe [passe] [digest|nodigest] [address=<adresse>]**
 _ S'abonner à cette liste de diffusion. Votre mot de passe doit être fourni pour résilier votre abonnement à cette liste ou pour modifier vos options, si vous l'omettez, le système vous en générera un. Votre mot de passe pourra vous être rappelé périodiquement.
 
 _ Le prochain argument peut être l'une des options « nodigest » ou « digest » c'est à dire réception des messages au fur et à mesure de leur envoi ou groupés une fois par jour, par semaine ...(attention, toujours sans guillemets !).
 _ Si vous souhaitez abonner une adresse autre que celle à partir de laquelle vous envoyez cette requête, précisez-le avec « address=<adresse> » (sans les signes < et > autour de l'adresse et sans guillemets!)
 
-    {{unsubscribe [passe] [address=<adresse>]}}
+**unsubscribe [passe] [address=<adresse>]**
 _ Résilier son abonnement à la liste de diffusion. Lorsqu'il est fourni, votre mot de passe doit correspondre à votre mot de passe actuel. Lorsqu'il est omis, un courriel de confirmation sera envoyé à l'adresse à supprimer. Si vous souhaitez résilier l'abonnement d'une adresse différente de l'adresse à partir de laquelle vous envoyez ce message, vous pouvez le spécifier avec « address=<address> » (sans les signes < et > autour de l'adresse et sans guillemets!)
 
-    {{who passe [address=<adresse>]}}
+**who passe [address=<adresse>]**
 _ Lister les abonnés de la liste. L'afficheur se limite à l'affichage des abonnés, et vous devez fournir votre mot de passe d'abonné pour avoir cette liste. Si vous envoyez ce message à partir d'une adresse différente de votre adresse d'abonnement, vous pouvez le spécifier avec « address=<adresse> » (sans les signes < et > autour de l'adresse et sans guillemets !)
 
 

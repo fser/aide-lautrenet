@@ -4,7 +4,7 @@ Category: 14. Installer des logiciels sur lautre.net
 Tags: old
 Summary:  . 
 
-{{Symptôme}}
+**Symptôme**
 
 Lors de l'installation vous avez un message du genre :
 
@@ -12,7 +12,7 @@ Lors de l'installation vous avez un message du genre :
 ou
 <quote>Les cookies ne semblent pas être autorisés sur votre navigateur. Il ne sera pas possible d'installer l'application avec cette option désactivée. </quote>
 
-{{Solution}}
+**Solution**
 
 Crééez un répertoire <code>sessions</code> à la racine de votre installation.
 

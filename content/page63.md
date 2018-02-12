@@ -8,7 +8,7 @@ Spip est un CMS très en vogue, très puissant, très personnalisable.
 
 Son installation est triviale. Voilà la marche à suivre.
 
-{{Objectif }} 
+**Objectif** 
 
 Installer Spip et faire pointer notre nom de domaine dessus.
 Prérequis ¶
@@ -16,7 +16,7 @@ Prérequis ¶
 - une base de donnée 
 - spip_loader.php (le plus simple, autrement l'archive zip de spip) 
 
-{{Base de données}}
+**Base de données**
 
 L'Autre Net fournit 6 bases de données. Spip n'en a besoin que d'une. Pour la créer, rendez vous dans le bureau : https://panel.lautre.net.
 
@@ -44,7 +44,7 @@ Pour les afficher à nouveau si vous les avez oublié, cochez votre base dans la
 
 http://tiiad.lautre.net/lautre/param_db.png
 
-{{Spip }} 
+**Spip** 
 
 
 Parce que quand c'est bien rangé c'est mieux, je conseille de créer un répertoire spip/ à la racine de notre site dans lequel on installera Spip. C'est pas une obligation, mais pour l'exemple suivant, on va faire ainsi.
@@ -111,7 +111,7 @@ Pour la suite, je vous invites à aller visiter la documentation de Spip sur htt
 Votre site est accessible à l'adresse http://votre-login.lautre.net/test, et la partie privé de Spip dans http://votre-login.lautre.net/test/ecrire
 
 
-{{Le nom de domaine }} 
+**Le nom de domaine** 
 
 Vous avez un nom de domaine (pour l'exemple monspip.net) et vous voulez configurer pour qu'il affiche votre Spip. Très simple.
 

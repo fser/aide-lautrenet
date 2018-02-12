@@ -12,9 +12,9 @@ Dans Filezilla, ouvrez le gestionnaire de site puis cliquez sur le bouton {Nouve
 
 <img src="/img/ndd_4.jpg" title="to complete" alt="ndd_4.jpg" />
 
-  -  le champ {{Hôte}} doit contenir le nom d'hôte obtenu lors de l'activation de votre accès sécurisé (quelque chose qui ressemble à slave1.vds.lautre.net).
-  -  le champ {{Identifiant}} est votre identifiant de connexion au bureau virtuel de l'Autre Net.
-  -  le champ {{Mot de passe}} est votre mot de passe de connexion au bureau virtuel de l'Autre Net.
+  -  le champ **Hôte** doit contenir le nom d'hôte obtenu lors de l'activation de votre accès sécurisé (quelque chose qui ressemble à slave1.vds.lautre.net).
+  -  le champ **Identifiant** est votre identifiant de connexion au bureau virtuel de l'Autre Net.
+  -  le champ **Mot de passe** est votre mot de passe de connexion au bureau virtuel de l'Autre Net.
 
 Puis cliquez sur {Connexion}. Il se peut que Filezilla affiche un message vous demandant d'accepter de faire confiance dans la clé publique du serveur : vous pouvez accepter sans souci.
 

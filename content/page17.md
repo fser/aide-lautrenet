@@ -23,4 +23,4 @@ Si vous confiez la réalisation de votre site web (par exemple) à un créateur 
  - Transmettre l'adresse de l'interface phpMyAdmin sur le serveur, soit 
 <code>https://panel.lautre.net/admin/sql/index.php</code> adresse dans laquelle vous remplacerez mon serveur par le nom du serveur. Si la page s'affiche avec un menu déroulant, choisir le serveur «localhost» et non «localhost (root)».
 
-{{Testez que tout fonctionne AVANT de transmettre l'ensemble de ces informations.}}
+**Testez que tout fonctionne AVANT de transmettre l'ensemble de ces informations.**

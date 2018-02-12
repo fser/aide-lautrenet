@@ -8,7 +8,7 @@ Summary:  . Si votre CMS n'est pas à jour, mettez-le à jour
 
 
 - Cause: [Configuration de PHP5.6](http://php.net/manual/fr/ini.core.php#ini.default-charset)
-- Solution [[Si votre CMS n'est pas à jour, mettez-le à jour!]]: Définir manuellement le {{charset}} dans le code PHP
+- Solution [[Si votre CMS n'est pas à jour, mettez-le à jour!]]: Définir manuellement le **charset** dans le code PHP
 <code>
 ini_set("default_charset", "iso-8859-1");
 </code>
@@ -36,8 +36,8 @@ pas PHP 5.3
 
 - Cause: Avant on pouvait appeler http://example.com/example pour charger
 le fichier example.php. Cela était dû au paramétrage de l'option
-{{MultiViews}} désactivée d'AlternC pour raison de sécurité
-- Solution [[Si votre CMS n'est pas à jour, mettez-le à jour!]]: remplacer par un fichier {{.htaccess}}
+**MultiViews** désactivée d'AlternC pour raison de sécurité
+- Solution [[Si votre CMS n'est pas à jour, mettez-le à jour!]]: remplacer par un fichier **.htaccess**
 
 Exemple pour des fichiers en .php:
 <code>
@@ -55,7 +55,7 @@ d'autres extensions comme .html et .htm
 
 - Cause: Le site n'a pas encore été mis à jour (malgré la longue période
 laissée avant la migration)
-- Solution [[Si votre CMS n'est pas à jour, mettez-le à jour!]]: repasser {{temporairement}} en PHP5.3 pour pouvoir faire la
+- Solution [[Si votre CMS n'est pas à jour, mettez-le à jour!]]: repasser **temporairement** en PHP5.3 pour pouvoir faire la
 migration
 
 Se connecter au panel, cliquer sur le nom de domaine, puis sur le bouton

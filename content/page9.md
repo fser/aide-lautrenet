@@ -93,7 +93,7 @@ Vous pouvez utiliser un de ces comptes FTP immédiatement : entrez les paramèt
 
 <img src="/img/filezilla.png" title="to complete" alt="filezilla.png" />
 
-{{Attention,}} avec la configuration ci-dessus toutes les données transférées par FTP, y compris votre identifiant et votre mot de passe, sont transmises "en clair", et sont donc lisibles librement par quiconque "écouterait" quelque part le long de la connexion entre votre ordinateur et le serveur FTP. Il est donc {{vivement}} conseillé, pour des raisons de sécurité, de mettre en place une connexion sécurisée, où vos identifiant, mot de passe et données sont chiffrées et donc illisibles par un tiers.
+**Attention,** avec la configuration ci-dessus toutes les données transférées par FTP, y compris votre identifiant et votre mot de passe, sont transmises "en clair", et sont donc lisibles librement par quiconque "écouterait" quelque part le long de la connexion entre votre ordinateur et le serveur FTP. Il est donc **vivement** conseillé, pour des raisons de sécurité, de mettre en place une connexion sécurisée, où vos identifiant, mot de passe et données sont chiffrées et donc illisibles par un tiers.
 
 Certains logiciels FTP (comme {lftp} en ligne de commande) chiffreront automatiquement votre connexion. Si vous utilisez Filezilla, il vous faut créer un nouveau site dans votre gestionnaire de sites, en spécifiant dans le champ {Type de serveur} la valeur {FTPES - FTP plus explicite (TLS/SSL)} :
 

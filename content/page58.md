@@ -29,7 +29,7 @@ Vérifier également que la ligne :
 est bien présente.
 
 
-{{Enregistrement de fichiers }} 
+**Enregistrement de fichiers** 
 
 Sur drupal6, il se peut que vous ayez une erreur du type :
 
@@ -37,4 +37,4 @@ Sur drupal6, il se peut que vous ayez une erreur du type :
 <quote>warning: tempnam() [function.tempnam]: open_basedir restriction in effect. File() is not within the allowed path(s): (.) in /.../includes/file.inc on line 756.</quote>
 
 
-Pour résoudre ce problème, créez le dossier {{/sites/default/files/tmp}} sur votre ftp
+Pour résoudre ce problème, créez le dossier **/sites/default/files/tmp** sur votre ftp

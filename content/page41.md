@@ -14,7 +14,7 @@ En conséquence :
 -# Ce reçu est parfaitement légal et vaut justificatif de paiement.
 -# Votre cotisation est exempte de TVA ... celle-ci n'apparaît donc pas sur le reçu !
 
-{{IMPORTANT : l'obtention du reçu nécessite l'accès au compte AlternC et donc le login et mot de passe d'accès à ce compte.}}
+**IMPORTANT : l'obtention du reçu nécessite l'accès au compte AlternC et donc le login et mot de passe d'accès à ce compte.**
 
 
 ## Pour obtenir le reçu

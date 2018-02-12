@@ -35,7 +35,7 @@ nous pouvons constater, dans la colonne de gauche (Menu) que nous avons déjà 
 Nous avons aussi, mais cela ne se voit pas dès l'arrivée dans le Menu :
 - un emplacement prêt à recevoir les fichiers de notre site : /www/{bienvenue}.lautre.net ;
 
-{{Nous avons déjà un « domaine[[Par commodité de langage on parle de domaine et sous-domaine en prenant comme référence le point de départ dans l'arborescence (domaine). Si nous nous situons dans lautre.net, alors {bienvenue}.lautre.net est un sous-domaine, mais si nous nous situons dans {bienvenue}.lautre.net (domaine) alors www.{bienvenue}.lautre.net est un sous-domaine.]] ». }} 
+**Nous avons déjà un « domaine[[Par commodité de langage on parle de domaine et sous-domaine en prenant comme référence le point de départ dans l'arborescence (domaine). Si nous nous situons dans lautre.net, alors {bienvenue}.lautre.net est un sous-domaine, mais si nous nous situons dans {bienvenue}.lautre.net (domaine) alors www.{bienvenue}.lautre.net est un sous-domaine.]] ».** 
 
 En créant notre compte, et tel qu'il est dit dans la [page d'accueil de notre association->http://www.lautre.net/] « chaque membre de lAutre Net dispose de 1 sous-domaine en lautre.net (nomdevotrecompte.lautre.net) ». C'est le Login souhaité que nous avons indiqué (voir écran Etape 4: informations personnelles). Nous avons maintenant un sous-domaine : {bienvenue}.lautre.net, comme on le voit dans la zone entourée :
 
@@ -84,7 +84,7 @@ Le nom d'un domaine de deuxième niveau doit inclure un minimum de 3 et un maxim
 
 Le terme domaine désigne habituellement un domaine de deuxième niveau. Voici quelques noms de domaine valides : wikipedia.org, paris.fr,  louvre.museum, yaourt.biz et lautre.net. 
 
-Il est possible de définir des sous-domaines dans un domaine. {{L'un des sous-domaines les plus répandus est « www »}}, mais il est possible d'utiliser n'importe quelle suite de caractères satisfaisant les conditions générales de rédaction des noms de domaine. Par exemple, tour-eiffel.paris.fr est un sous-domaine de paris.fr, et {bienvenue}.lautre.net est un sous-domaine de lautre.net. 
+Il est possible de définir des sous-domaines dans un domaine. **L'un des sous-domaines les plus répandus est « www »**, mais il est possible d'utiliser n'importe quelle suite de caractères satisfaisant les conditions générales de rédaction des noms de domaine. Par exemple, tour-eiffel.paris.fr est un sous-domaine de paris.fr, et {bienvenue}.lautre.net est un sous-domaine de lautre.net. 
 
 Le Domain Name System (ou DNS, système de noms de domaine) est un service permettant d'établir une correspondance entre une adresse IP et un nom de domaine et, plus généralement, de trouver une information à partir d'un nom de domaine. 
 
@@ -94,7 +94,7 @@ Donc nos roots préparent déjà le domaine « normal » du web : www.]]
 
 Nous avons déjà un nom de domaine, mais en plus...
 
-{{Nous avons déjà un emplacement prêt à recevoir les fichiers de notre site.}}
+**Nous avons déjà un emplacement prêt à recevoir les fichiers de notre site.**
 
 Dans la colonne Menu, à gauche, nous avons le choix Gestionnaire de fichiers :
 
@@ -118,11 +118,11 @@ Donc, lorsque nous avons tapé dans la barre adresses du navigateur {bienvenue}.
 
 Il n'y a rien dedans. C'est pour cela que notre navigateur affiche l'index of / et rien d'autre. Le navigateur suit le cheminement que nous avons fait, puis affiche ce qu'il y a : rien, liste vide.
 
-{{Nous avons déjà un compte ftp.}}
+**Nous avons déjà un compte ftp.**
 
 Pour échanger des fichiers entre notre espace d'hébergement et notre ordinateur nous pouvons :
 - le faire directement, mais uniquement dans le sens notre ordinateur vers notre espace d'hébergement, avec AlternC tel que [c'est expliqué dans la documentation->http://aide.lautre.net/Import-de-fichiers-et-FTP] et plus loin dans ce document ;
-- utiliser le [protocole de transfert de fichiers ftp->http://fr.wikipedia.org/wiki/Ftp] et un logiciel spécialisé telle que [FileZilla->http://www.filezilla.fr/][[Il y a beaucoup de logiciels pour cela. Nous utilisons FileZilla.]]. Pour cela il faut qu'il y ait un « compte ftp » permettant la connexion à notre espace par ce protocole. {{Ce compte ftp est déjà prêt}}. Si nous cliquons sur le choix « liste des comptes ftp » dans le Menu :
+- utiliser le [protocole de transfert de fichiers ftp->http://fr.wikipedia.org/wiki/Ftp] et un logiciel spécialisé telle que [FileZilla->http://www.filezilla.fr/][[Il y a beaucoup de logiciels pour cela. Nous utilisons FileZilla.]]. Pour cela il faut qu'il y ait un « compte ftp » permettant la connexion à notre espace par ce protocole. **Ce compte ftp est déjà prêt**. Si nous cliquons sur le choix « liste des comptes ftp » dans le Menu :
 
 <img src="/img/LAN_EcranAccueil_ComptesFTP_bulleComptesFTP.png" title="to complete" alt="LAN_EcranAccueil_ComptesFTP_bulleComptesFTP.png" />
 
@@ -132,7 +132,7 @@ nous obtenons :
 
 Nous voyons qu'il existe un compte ayant pour utilisateur {bienvenue} et qui « pointe » sur la racine de notre espace d'hébergement, c'est à dire /. Ce compte par défaut a le même mot de passe que notre compte (celui que nous utilisons pour nous connecter au bureau).
 
-{{Nous avons déjà un compte mail.}}
+**Nous avons déjà un compte mail.**
 
 Lors de la création du compte à l'Autre Net un compte mail par défaut est crée, attaché à notre domaine , c'est à dire de la forme @{bienvenue}.lautre.net:
 
@@ -152,7 +152,7 @@ Mais comment lire directement les messages adressés à {bienvenue}@{bienvenue}.
 - en allant sur l'adresse http://{bienvenue}.lautre.net/webmail/  
 - avec pour identifiant {bienvenue}@{bienvenue}.lautre.net 
 - et pour mot de passe celui de votre compte. 
-{{Mais il faut au préalable avoir coché la casse Compte POP}}, comme c'est écrit « Si vous voulez stocker les emails recus et y accéder avec un logiciel de messagerie ou le webmail, cochez la case 'Compte pop'. ». {{Sinon ça marchera pas}}. Nous pouvons aussi par la même occasion changer le mot de passe, mais c'est optionnel.
+**Mais il faut au préalable avoir coché la casse Compte POP**, comme c'est écrit « Si vous voulez stocker les emails recus et y accéder avec un logiciel de messagerie ou le webmail, cochez la case 'Compte pop'. ». **Sinon ça marchera pas**. Nous pouvons aussi par la même occasion changer le mot de passe, mais c'est optionnel.
 
 <img src="/img/SquirrelMail_bienvenue.png" title="to complete" alt="SquirrelMail_bienvenue.png" />
 
@@ -215,8 +215,8 @@ Maintenant, si nous voulons :
 
 le principe reste le même : il suffit de placer les fichiers qui constituent ces systèmes de publication là où nous avons mis pour l'instant un seul fichier : dans  notre espace /www/bienvenue.lautre.net.
 
-Mais pour cela il y a [le reste de la documentation->http://aide.lautre.net/], des listes d'aide, et surtout des membres: vous, moi, tous. {{LAutre Net est une association}} qui héberge NOS sites web depuis 2001, mais aussi nos emails, ou tout autre service web utile à ses membres.
+Mais pour cela il y a [le reste de la documentation->http://aide.lautre.net/], des listes d'aide, et surtout des membres: vous, moi, tous. **LAutre Net est une association** qui héberge NOS sites web depuis 2001, mais aussi nos emails, ou tout autre service web utile à ses membres.
 
-{{Tous les acteurs de lautre.net (trésorerie, technique, courrier...) sont bénévoles.}}
+**Tous les acteurs de lautre.net (trésorerie, technique, courrier...) sont bénévoles.**
 
 Bienvenue parmi NOUS.

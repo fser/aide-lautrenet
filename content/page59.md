@@ -19,7 +19,7 @@ Et qui contient une solution possible données par denisb en bas de page :
 effectuer la correction en amont (encore plus haut dans lappel de fonction), à savoir dans ## ecrire/inc/securiser_action.php
 
 
-{{les lignes 24, 25 et 26 à remplacer par :}}
+**les lignes 24, 25 et 26 à remplacer par :**
 <quote>24: if ($action) {
 25:  if ( defined('_REMOTE_URL_INC') ) {
 _ 26:   $redirect=str_replace(url_de_base(),'',$redirect);
@@ -28,7 +28,7 @@ _ 28:  return securiser_action_auteur($action, $arg, $redirect,$mode, $att);
 _ 29: }
 _ 30: else {</quote>
 
-{{avec, dans mes_options.php :}}
+**avec, dans mes_options.php :**
 
 <quote>// décommenter la ligne ci-dessous
 _ // si la configuration de votre hébergement

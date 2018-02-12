@@ -40,9 +40,9 @@ Poursuivons nos manipulations en installant un sous-domaine.
 Nous allons installer un sous-domaine sur le compte « aideac» et faire pointer ce sous- domaine vers un répertoire créé pour l'occasion.
 La première étape consiste à créer le répertoire.
 
-  -  {{1 Création du répertoire}} 
+  -  **1 Création du répertoire** 
 A la racine du compte nous créons le répertoire « {toto} », comme nous avons créé le répertoire « {site} ».
-  -  {{2 Création du sous-domaine}}
+  -  **2 Création du sous-domaine**
 Cliquer sur le lien « aide-alternc.org » dans la rubrique « Domaines » du menu.
 Dans la première zone texte inscrire le nom du répertoire « {toto} »
 
@@ -58,7 +58,7 @@ _ Pour ne pas perdre de temps, nous allons mettre à profit les 5 minutes d'atte
 
 Dans le menu (partie gauche du bureau virtuel), cliquer sur le lien « Gestionnaire de fichiers ».
 
-  -  {{3 Création du fichier «{ index.html }» du répertoire « {toto} »}}
+  -  **3 Création du fichier «{ index.html }» du répertoire « {toto} »**
 
 Ouvrir le répertoire « toto » en cliquant sur son nom dans la liste des répertoires et fichiers.
 Créer un fichier « {index.html} » dans ce répertoire.
@@ -66,7 +66,7 @@ _ Editer ce fichier (clic sur son nom) et inscrire le code voulu (ici du HTML tr
 <img src="/img/menu_gestionnaire.png" title="to complete" alt="menu_gestionnaire.png" />
 Puis cliquer sur le bouton [Enregistrer et fermer].
 
-  -  {{4 Vérification}}
+  -  **4 Vérification**
 Si l'opération nous a pris plusieurs minutes il y a de grandes chances que le sous-domaine « toto.aide-alternc.org  » soit pris en compte sur le serveur.
 Pour le vérifier, ouvrir un nouvel onglet ou une fenêtre du navigateur et inscrire l'URL http://toto.aide-alternc.org (attention sans les www !)
 

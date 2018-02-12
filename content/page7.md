@@ -11,7 +11,7 @@ _ Il s'acquiert auprès d'un registrar (vendeur de noms de domaine).
 Exemples : alternc.org, octopuce.fr
 _ Pour des domaines dont l'extension est net, org, com, fr ... acheter le domaine chez un registrar comme Gandi (http://gandi.net) ou BookMyName (http://bookmyname.com) par exemple.
 
-{{ATTENTION}} Lorsque vous achetez un domaine deux cas de figure se présentent :
+**ATTENTION** Lorsque vous achetez un domaine deux cas de figure se présentent :
 _ 1.  Vous indiquez immédiatement les DNS (adresses) du serveur qui gère les DNS. Pour les serveurs de L'Autre Net :
 
   -  ns1.lautre.net  (80.67.160.67)
@@ -30,13 +30,13 @@ L'accès au formulaire d'installation se fait par un clic sur le lien « Domain
 _ Dans la partie droite du bureau virtuel, le formulaire s'affiche.
 _ Inscrire le nom de domaine souhaité (sans les www).
 
-{{ {Premier exemple} }}
+**{Premier exemple}**
 <img src="/img/ndd.jpg" title="to complete" alt="ndd.jpg" />
 Le nom de domaine lautre,net n'est pas enregistré comme hébergé par ce serveur.
 Le serveur ne l'installera pas, comme l'indique le message d'erreur ci-dessous.
 <img src="/img/ndd_0.jpg" title="to complete" alt="ndd_0.jpg" />
 
-{{ {second exemple} }}
+**{second exemple}**
 Installation du domaine aide-alternc.org
 <img src="/img/ndd_1.jpg" title="to complete" alt="ndd_1.jpg" />
 Ce domaine s'installe sans problème
@@ -60,13 +60,13 @@ La partie gauche du bureau virtuel affiche deux zones : Sous-domaines et param�
 _ Pour une gestion des domaines st sous-domaines en fonction des répertoires et fichiers se repporter à l'article "Gestion de domaine et sous-domaine".
 <img src="/img/ndd_4.jpg" title="to complete" alt="ndd_4.jpg" />
 
-{{ {Sous-domaines} }}
+**{Sous-domaines}**
 
 <img src="/img/ndd_ssd.jpg" title="to complete" alt="ndd_ssd.jpg" />
 Cette zone propose des liens et des formulaires. Actuellement elle indique que l'URL : aide-alternc.org est dirigée vers  www.aide-alternc.org, elle même gérée en local (sur ce compte) et pointant à la racine du compte « / », cette barre oblique représente la racine.
 _ Nous y reviendrons dans la sous-rubrique « Gestionnaire de fichiers ».
 
-{{ {Paramètres DNS} }}
+**{Paramètres DNS}**
 
 ATTENTION : NE JAMAIS MODIFIER CES PARAMÈTRES SANS L'AVIS DE L'ADMINISTRATEUR DU SERVEUR.
 
@@ -77,7 +77,7 @@ _ Attention, le bouton [Effacer aide-alternc.org] supprime le domaine de ce comp
 
 ## Cas particulier des TLD suivants : .fr, .re, .de et .eu.org
 
-Si vous souhaitez installer un domaine en .fr, .re, .de ou en .eu.org sur L'Autre Net, il faut absolument installer ce domaine sur lautre.net {{AVANT}} de demander la création du TLD auprès de votre registrar.
+Si vous souhaitez installer un domaine en .fr, .re, .de ou en .eu.org sur L'Autre Net, il faut absolument installer ce domaine sur lautre.net **AVANT** de demander la création du TLD auprès de votre registrar.
 
 En effet, ces TLD vérifient que les DNS de L'Autre Net répondent bien pour le domaine demandé avant d'autoriser sa création. Aussi est-il nécessaire de les installer sur L'Autre Net avant d'en demander leur création.
 

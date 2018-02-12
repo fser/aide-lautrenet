@@ -19,7 +19,7 @@ Nous allons en créer
 
 ## Créer des utilisateurs
 
-Pour ajouter un premier utilisateur sélectionner « {{Gérer les utilisateurs autorisés}} ».
+Pour ajouter un premier utilisateur sélectionner « **Gérer les utilisateurs autorisés** ».
 <img src="/img/aw1_cerauser1.png" title="to complete" alt="aw1_cerauser1.png" />
 
 Le champ Nom comporte obligatoirement, soit le nom du compte, soit un nom de domaine installé sur ce compte (ici documentation), utiliser le menu déroulant accéssible depuis la flèche noire à droite du champ nom..  Il est possible d'ajouter à sa suite un autre mot (non accentué). Ceci permet de créer plusieurs utilisateurs.

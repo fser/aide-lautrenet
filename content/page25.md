@@ -4,7 +4,7 @@ Category: 07. Gestion listes de discussion
 Tags: old
 Summary:  . 
 
-Vous {{ne pouvez pas}} effacer des messages dans les archives.
+Vous **ne pouvez pas** effacer des messages dans les archives.
 
 C'est normal, si l'on considère qu'il s'agit de liste de discussion et non de forum. 
 

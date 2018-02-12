@@ -64,11 +64,11 @@ La création d'un compte AlternC requiert un mot de passe et une adresse mail du
 <img src="/img/ndd_3.jpg" title="to complete" alt="ndd_3.jpg" />
 Un clic sur ce menu ouvre trois formulaires :
 
-Pour{{ changer le mot de passe}} utilisez le premier formulaire. Attention, votre mot de passe initial est requis. Si vous l'avez égaré, demandez à l'administrateur des comptes Alternc de vous en recréer un.
+Pour **changer le mot de passe** utilisez le premier formulaire. Attention, votre mot de passe initial est requis. Si vous l'avez égaré, demandez à l'administrateur des comptes Alternc de vous en recréer un.
 <img src="/img/conf1.jpg" title="to complete" alt="conf1.jpg" />
 
-Pour {{changer l'adresse mail du gestionnaire du compte}} utilisez le second formulaire. Une confirmation sera adressé par mail à l'ancienne adresse. Nous vous recommandons d'utiliser une adresse mail qui ne soit pas sur le serveur qui héberge votre compte, ceci afin de pouvoir communiquer avec vous en cas d'éventuel dysfontionnement du serveur.
+Pour **changer l'adresse mail du gestionnaire du compte** utilisez le second formulaire. Une confirmation sera adressé par mail à l'ancienne adresse. Nous vous recommandons d'utiliser une adresse mail qui ne soit pas sur le serveur qui héberge votre compte, ceci afin de pouvoir communiquer avec vous en cas d'éventuel dysfontionnement du serveur.
 <img src="/img/conf2.png" title="to complete" alt="conf2.png" />
 
-Le troisième formulaire vous propose de choisir {{l'affichage de «bouées» d'aide}}. 
+Le troisième formulaire vous propose de choisir **l'affichage de «bouées» d'aide**. 
 <img src="/img/conf3.png" title="to complete" alt="conf3.png" />

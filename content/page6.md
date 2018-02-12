@@ -43,7 +43,7 @@ Il est inscrit en gras et son nom suivi d'une barre oblique (c'est ce qui affich
 
 Contrairement au fichier « index.php » il n'est pas suivi du lien « Voir ». Ce lien, « Voir » permet de visualiser dans le navigateur lla page composée par le code du fichier.
 
-Nous allons {{créer un nouveau fichier}} que nous nommerons « index.html » (bien sélectionner « Fichier » avant de le créer !).
+Nous allons **créer un nouveau fichier** que nous nommerons « index.html » (bien sélectionner « Fichier » avant de le créer !).
 <img src="/img/gest-fich13.jpg" title="to complete" alt="gest-fich13.jpg" />
 Nous allons maintenant éditer ce fichier, pour cela il suffit de cliquer sur son nom. Dans la zone texte inscrivons une phrase (attention, il ne s'agit pas ici de code correct).
 
