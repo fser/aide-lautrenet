@@ -39,4 +39,4 @@ Pour créer un nouvel utilisateur autorisé à consulter les pages du répertoir
 Maintenant le fichier « .htpasswd » du répertoire « site » pèse quelques octets et contient des données. Vérifier en l'éditant :
 
 <img src="/img/rep_protege8.jpg" title="to complete" alt="rep_protege8.jpg" />
-Le nom est affiché en clair, le mot de passe est crypté (MD5). S'il est perdu, il est irrécupérable, la seule solution est de le modifier (modification que seule la personne ayant accès au bureau virtuel du compte ou ayant un accès FTP peut effectuer).
+Le nom est affiché en clair, le mot de passe est hashé (MD5). S'il est perdu, il est irrécupérable, la seule solution est de le modifier (modification que seule la personne ayant accès au bureau virtuel du compte ou ayant un accès FTP peut effectuer).
