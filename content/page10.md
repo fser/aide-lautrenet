@@ -1,5 +1,5 @@
 Title: 05. Protéger un répertoire 
-Date: 2009-03-08 18:49:18
+Date: 2009-03-08 18:49:18 
 Category: 04. Gestion d'un compte
 Tags: old
 Summary: Comment limiter l'accès de répertoires de votre site aux seuls visiteurs autorisés. . Vous souhaitez peut-être interdire la consultation publique de répertoires d'un site en la limitant à des visiteurs privilégiés. Ce peut-être un album photos, des pages réservées aux adhérents d'une association  ...
