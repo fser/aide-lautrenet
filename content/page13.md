@@ -27,7 +27,7 @@ AlternC offre la possibilité de créer un "vrai" compte mail, consultable par v
 
 Nous allons créer l'adresse « contact@aide-alternc.org », dont nous nous servirons pour la configuration du logiciel de mail et du webmail.
 
-<img src="/img/totalpt.png" title="to complete" alt="totalpt.png" />
+<img src="/img/mail2.jpg" title="to complete" alt="mail2.jpg" />
 
 Remplir les champs comme indiqué ci-dessus et valider en cliquant sur le bouton [Ajouter cet email]
 
