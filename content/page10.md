@@ -1,5 +1,5 @@
 Title: 05. Protéger un répertoire 
-Date: 2009-03-08 18:49:18
+Date: 2018-02-12 14:55:00 
 Category: 04. Gestion d'un compte
 Tags: old
 Summary: Comment limiter l'accès de répertoires de votre site aux seuls visiteurs autorisés. . Vous souhaitez peut-être interdire la consultation publique de répertoires d'un site en la limitant à des visiteurs privilégiés. Ce peut-être un album photos, des pages réservées aux adhérents d'une association  ...
@@ -39,4 +39,4 @@ Pour créer un nouvel utilisateur autorisé à consulter les pages du répertoir
 Maintenant le fichier « .htpasswd » du répertoire « site » pèse quelques octets et contient des données. Vérifier en l'éditant :
 
 <img src="/img/rep_protege8.jpg" title="to complete" alt="rep_protege8.jpg" />
-Le nom est affiché en clair, le mot de passe est crypté (MD5). S'il est perdu, il est irrécupérable, la seule solution est de le modifier (modification que seule la personne ayant accès au bureau virtuel du compte ou ayant un accès FTP peut effectuer).
+Le nom est affiché en clair, le mot de passe est hashé (MD5). S'il est perdu, il est irrécupérable, la seule solution est de le modifier (modification que seule la personne ayant accès au bureau virtuel du compte ou ayant un accès FTP peut effectuer).
