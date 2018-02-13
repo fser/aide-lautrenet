@@ -1,6 +1,6 @@
 Title: 01. Mails et alias 
 Date: 2010-09-03 11:41:51
-Category: 05. Gestion messagerie
+Category: 06. Gestion messagerie
 Tags: old
 Summary: Comment créer Mails et alias de manière aisée depuis le bureau virtuel d'AlternC. . Dans cette section, nous allons décrire la gestion du courrier électronique.
 
