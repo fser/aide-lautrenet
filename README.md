@@ -3,7 +3,7 @@ Contenu statique de la documentation utilisateur de lautre.net
 
 ## Correspondances des fichiers .md avec les pages du site
 
-| Catégorie | Titre | Fichier
+| Catégorie | Titre | Fichier |
 | ---------- | ---------- | ---------- |
 | 01. Bienvenue | Bienvenue à l'Autre Net | page71.md |
 | 02. Interface | 01. Connexion | page3.md |
