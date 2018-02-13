@@ -1,9 +1,10 @@
-Title: 02. Répertoires et fichiers 
-Date: 2009-03-08 08:26:23
-Category: 04. Gestion d'un compte
-Tags: old
-Summary: Comment gérer vos fichiers depuis le bureau virtuel. . Le gestionnaire de fichiers est l'élément central pour la gestion d'un site web.
-Il est accessible depuis le lien « Gestionnaire de fichiers » du menu.
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 02. Répertoires et fichiers 
+Date | 2009-03-08 08:26:23
+Category | 04. Gestion d'un compte
+Tags | old
+Summary | Comment gérer vos fichiers depuis le bureau virtuel. . Le gestionnaire de fichiers est l'élément central pour la gestion d'un site web. Il est accessible depuis le lien « Gestionnaire de fichiers » du menu.
 
 ## Le gestionnaire de fichiers
 

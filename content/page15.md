@@ -1,9 +1,10 @@
-Title: 01. Créer une base de données  
-Date: 2009-03-10 17:03:21
-Category: 05. Gestion bases de données
-Tags: old
-Summary: Contrairement à la création automatique d'un compte FTP à la création d'un compte Alternc, aucune base de données n'a été créée automatiquement, en effet, tous les outils web n'utilisent pas des bases de données. . Contrairement à la création automatique d'un compte FTP à la création d'un compte Alternc, aucune base de données n'a été créée automatiquemetn, en effet, tous les outils web n'utilisent pas des bases de données.
-_ Si le gestionnaire du compte AlternC a besoin de ces bases il peut facilement les créer. Leur nombre dépend du quota qui a été attribué à la création du compte AlternC.
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Title | 01. Créer une base de données  
+ Date | 2009-03-10 17:03:21 
+ Category | 05. Gestion bases de données 
+ Tags | old 
+ Summary | Contrairement à la création automatique d'un compte FTP à la création d'un compte Alternc, aucune base de données n'a été créée automatiquement, en effet, tous les outils web n'utilisent pas des bases de données. . Contrairement à la création automatique d'un compte FTP à la création d'un compte Alternc, aucune base de données n'a été créée automatiquemetn, en effet, tous les outils web n'utilisent pas des bases de données. Si le gestionnaire du compte AlternC a besoin de ces bases il peut facilement les créer. Leur nombre dépend du quota qui a été attribué à la création du compte AlternC. 
 
 ## Créer la base de données principale
 

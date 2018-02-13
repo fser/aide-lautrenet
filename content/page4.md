@@ -1,8 +1,10 @@
-Title: 02. Prise en mains 
-Date: 2009-03-03 16:46:43
-Category: 02. Interface
-Tags: old
-Summary: Ce que vous pouvez faire depuis le bureau virtuel d'AlternC. . 
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 02. Prise en mains 
+Date | 2009-03-03 16:46:43
+Category | 02. Interface
+Tags | old
+Summary | Ce que vous pouvez faire depuis le bureau virtuel d'AlternC. . 
 
 ## Actions
 

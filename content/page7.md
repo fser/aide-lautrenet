@@ -1,8 +1,10 @@
-Title: 01. Nom de domaine 
-Date: 2009-03-08 07:51:11
-Category: 04. Gestion d'un compte
-Tags: old
-Summary: Pour être actif, un compte doit être associé à un (ou plusieurs) nom(s) de domaine ou sous-domaines. . Pour être actif, un compte doit être associé à un (ou plusieurs) nom(s) de domaine ou sous-domaines.
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 01. Nom de domaine 
+Date | 2009-03-08 07:51:11
+Category | 04. Gestion d'un compte
+Tags | old
+Summary | Pour être actif, un compte doit être associé à un (ou plusieurs) nom(s) de domaine ou sous-domaines. . Pour être actif, un compte doit être associé à un (ou plusieurs) nom(s) de domaine ou sous-domaines.
 
 
 ## Achat du nom de domaine

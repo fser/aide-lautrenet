@@ -1,8 +1,10 @@
-Title: 04. Configurer la liste 
-Date: 2009-03-09 08:57:25
-Category: 07. Gestion listes de discussion
-Tags: old
-Summary: Comment choisir entre toutes les options proposées par mailman celles qui vous conviennent. . 
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 04. Configurer la liste 
+Date | 2009-03-09 08:57:25
+Category | 07. Gestion listes de discussion
+Tags | old
+Summary | Comment choisir entre toutes les options proposées par mailman celles qui vous conviennent. . 
 
 ## Abonner l'administrateur (ou gestionnaire) de la liste (2 étapes)
 

@@ -1,8 +1,10 @@
-Title: 01. Connexion 
-Date: 2009-03-03 03:06:39
-Category: 02. Interface
-Tags: old
-Summary: Première étape : la connexion au bureau virtuel  . 
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 01. Connexion 
+Date | 2009-03-03 03:06:39
+Category | 02. Interface
+Tags | old
+Summary | Première étape : la connexion au bureau virtuel  . 
 
 ## Connexion
 L'administration de compte hébergés sur le serveur, comme la gestion d'un compte, nécessite une authentification.

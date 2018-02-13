@@ -1,8 +1,10 @@
-Title: 03. phpMyAdmin 
-Date: 2009-03-11 08:45:56
-Category: 05. Gestion bases de données
-Tags: old
-Summary: phpMyAdmin est un logiciel libre qui permet de gérer des bases de données SQL en mode graphique. L'objet de cette aide est de présenter phpMyAdmin, non de balayer ses nombreuses possibilités.
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 03. phpMyAdmin 
+Date | 2009-03-11 08:45:56
+Category | 05. Gestion bases de données
+Tags | old
+Summary | phpMyAdmin est un logiciel libre qui permet de gérer des bases de données SQL en mode graphique. L'objet de cette aide est de présenter phpMyAdmin, non de balayer ses nombreuses possibilités.
 
 phpMyAdmin est un logiciel libre qui permet de gérer des bases de données SQL en mode graphique. L'objet de cette aide est de présenter phpMyAdmin, non de balayer ses nombreuses possibilités.
 

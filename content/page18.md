@@ -1,8 +1,10 @@
-Title: 01. Mailman gestionnaire de liste 
-Date: 2009-03-08 22:44:57
-Category: 07. Gestion listes de discussion
-Tags: old
-Summary: Mailman permet d'envoyer un unique mail à un ensemble d'abonnés pre-défini (une liste).
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 01. Mailman gestionnaire de liste 
+Date | 2009-03-08 22:44:57
+Category | 07. Gestion listes de discussion
+Tags | old
+Summary | Mailman permet d'envoyer un unique mail à un ensemble d'abonnés pre-défini (une liste).
 
 C'est un logiciel très performant qui permet une gestion très fine des abonnés et des particularités des listes.
  . Mailman permet denvoyer un unique mail à un ensemble dabonnés pre-défini (une liste).

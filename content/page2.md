@@ -1,8 +1,10 @@
-Title: 03. Crédits 
-Date: 2009-03-10 17:12:06
-Category: 15. A propos
-Tags: old
-Summary: Qui fait quoi, où :) . 
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 03. Crédits 
+Date | 2009-03-10 17:12:06
+Category | 15. A propos
+Tags | old
+Summary | Qui fait quoi, où :) . 
 
 Cet outil d'aide a été réalisé avec SPIP 2, logiciel libre.
 
