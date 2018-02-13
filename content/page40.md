@@ -15,15 +15,15 @@ Sous Linux, un client SSH est habituellement installé par la plupart des distri
 
 Dans les deux cas, ouvrez un terminal (sous Mac OS utilisez l'application {Terminal} située dans votre répertoire {Applications/Utilitaires}. Tapez ensuite la commande suivante :
 
-<code>
+````
 ssh utilisateur@hote
-</code>
+````
 
 En remplaçant "utilisateur" par votre identifiant de connexion au bureau virtuel, et "hote" par le nom d'hôte donné lors de l'activation de l'accès sécurisé. Ainsi, si vous êtes titulaire du compte "comptedemo" et qu'un accès vous a été ouvert sur l'hôte slave2.vds.lautre.net, vous devez taper :
 
-<code>
+````
 ssh comptedemo@slave2.vds.lautre.net
-</code>
+````
 
 Il se peut que le système vous demande d'accepter la clé publique de la machine : c'est tout à fait normal s'il s'agit de votre première connexion, vous pouvez donc accepter sans souci.
 
@@ -51,17 +51,21 @@ Une fenêtre de terminal devrait s'ouvrir avec la mention {Login as}. Saisissez 
 
 Une fois connecté, vous êtes dans une machine virtuelle, en mode console de Linux, positionné dans le répertoire /home où se trouve votre site. Vous pouvez taper la commande :
 
-<code>
+````
 $ ls
-</code>
+````
 
 pour lister les répertoires et fichiers situés à la racine de votre site. Vous pouvez également faire :
 
+````
 $ cd ..
+````
 
 pour remonter à la racine, puis :
 
+````
 $ ls
+````
 
 pour voir tous les répertoires disponibles. Vous pouvez voir que cette machine ressemble beaucoup à la racine d'un système Linux. Les adeptes du libre (et de la console) ne seront donc pas trop perdus. Vous n'avez {a priori} de droits d'écriture que sur le répertoire /home. Mais attention, vous êtes quand même connecté d'une façon dangereuse qui pourrait en cas de fausse manipulation affecter définitivement votre site. 
 

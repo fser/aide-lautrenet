@@ -165,12 +165,12 @@ Nous allons commencer, juste pour la démonstration, par une manipulation très 
 
 Comme nous le savons, les navigateurs, quand ils arrivent quelque part sans autre indication qu'un répertoire, cherchent dans ce répertoire un fichier qui se nommerait index.html, et s'ils le trouvent ils l'ouvrent. Nous allons donc placer un fichier avec ce nom dans notre répertoire. Dans ce fichier y a cela :
 
-<code>
+````
 <html><body><h1>ça marche!</h1> 
 <p>Ceci est la page web par défaut de ce site.</p> 
 <p>Le site fonctionne mais aucun contenu n'a été ajouté, encore.</p> 
 </body></html>
-</code>
+````
 
 C'est « une page html » on ne peut plus basique. Ce fichier est sur le bureau de notre pc. Si nous regardons l'illustration « Gestionnaire de fichiers, répertoire /www/bienvenue.lautre.net » :
 
