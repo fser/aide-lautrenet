@@ -16,11 +16,10 @@ Il est possible de "déprotéger" un répertoire, pour dotclear le répertoire /
 Dans le répertoire /dotclear/public/ créer un fichier .htaccess et coller le contenu suivant :
 
 
-<code><FilesMatch "\.(png|gif|jpe?g)$">
+````
+<FilesMatch "\.(png|gif|jpe?g)$">
 allow from all
-</FilesMatch></code>
-
-
-
+</FilesMatch>
+````
 
 Cette directive autorisera l'affichage de tous les fichiers dont l'extension est .png, gif, jpeg ou jpg même si leur nom commence par un point.
