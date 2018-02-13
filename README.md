@@ -5,7 +5,7 @@ Contenu statique de la documentation utilisateur de lautre.net
 
 | Catégorie | Titre | Fichier |
 | ---------- | ---------- | ---------- |
-| 01. Bienvenue | Bienvenue à l'Autre Net | page71.md |
+| 01. Bienvenue | Bienvenue à l'Autre Net | [page71.md](content/page71.md) |
 | 02. Interface | 01. Connexion | page3.md |
 | 02. Interface | 02. Prise en mains | page4.md |
 | 02. Interface | 03. FAQ Migration Juillet 2016 | page5.md |
