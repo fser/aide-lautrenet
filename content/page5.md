@@ -1,8 +1,10 @@
-Title: 03. FAQ Migration Juillet 2016 
-Date: 2016-07-05 20:01:24
-Category: 02. Interface
-Tags: old
-Summary:  . Si votre CMS n'est pas à jour, mettez-le à jour
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 03. FAQ Migration Juillet 2016 
+Date | 2016-07-05 20:01:24
+Category | 02. Interface
+Tags | old
+Summary |  . Si votre CMS n'est pas à jour, mettez-le à jour
 
 ## 1. Les caractères accentués s'affichent mal
 

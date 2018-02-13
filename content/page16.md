@@ -1,8 +1,10 @@
-Title: 02. Utilisateurs MySQL 
-Date: 2009-03-11 08:32:40
-Category: 05. Gestion bases de données
-Tags: old
-Summary: Créer plusieurs utilisateurs MySQL permet de donner la main à un créateur de site web (par exemple) sans lui donner accès au bureau AlternC. . Un compte FTP et un compte Utilisateur AlternC, vous voici parés pour confier la réalisation d'un site web, par exemple, sans donner accès à votre comte AlternC (messagerie, statistiques, listes de diffusion... resteront confidentielles). 
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre |: 02. Utilisateurs MySQL 
+Date | 2009-03-11 08:32:40
+Category | 05. Gestion bases de données
+Tags | old
+Summary | Créer plusieurs utilisateurs MySQL permet de donner la main à un créateur de site web (par exemple) sans lui donner accès au bureau AlternC. . Un compte FTP et un compte Utilisateur AlternC, vous voici parés pour confier la réalisation d'un site web, par exemple, sans donner accès à votre comte AlternC (messagerie, statistiques, listes de diffusion... resteront confidentielles). 
 
 ## Créer un utilisateur MySQL
 

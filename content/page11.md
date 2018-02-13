@@ -1,9 +1,10 @@
-Title: 06. Configurer le gestionnaire de fichiers 
-Date: 2009-03-08 19:10:24
-Category: 04. Gestion d'un compte
-Tags: old
-Summary: Comment personnaliser l'affichage du gestionnaire de fichiers. . Le gestionnaire de fichiers est l'élément central pour la gestion d'un site web.
-Il est accessible depuis le lien « Gestionnaire de fichiers » du menu.
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 06. Configurer le gestionnaire de fichiers 
+Date | 2009-03-08 19:10:24
+Category | 04. Gestion d'un compte
+Tags | old
+Summary | Comment personnaliser l'affichage du gestionnaire de fichiers. . Le gestionnaire de fichiers est l'élément central pour la gestion d'un site web. Il est accessible depuis le lien « Gestionnaire de fichiers » du menu.
 
 Vous pouvez modifier sa présentation en fonction de vos préférences.
 

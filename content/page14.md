@@ -1,8 +1,10 @@
-Title: 02. Webmail et outil de messagerie 
-Date: 2009-03-08 19:35:56
-Category: 06. Gestion messagerie
-Tags: old
-Summary: Comment accéder à votre messagerie, soit en ligne par webmail sécurisé, soit depuis votre logiciel de mail, sur votre ordinateur. . AlternC vous offre également la possibilité de consulter vos mails en ligne depuis le webmail sécurisé .
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 02. Webmail et outil de messagerie 
+Date | 2009-03-08 19:35:56
+Category | 06. Gestion messagerie
+Tags | old
+Summary | Comment accéder à votre messagerie, soit en ligne par webmail sécurisé, soit depuis votre logiciel de mail, sur votre ordinateur. . AlternC vous offre également la possibilité de consulter vos mails en ligne depuis le webmail sécurisé .
 
 ## Connexion au webmail
 

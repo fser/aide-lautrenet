@@ -1,8 +1,10 @@
-Title: 04. Import de fichiers et FTP 
-Date: 2009-03-08 17:38:59
-Category: 04. Gestion d'un compte
-Tags: old
-Summary: Comment importer des fichiers, voire les modifier, de manière aisée depuis le bureau virtuel d'AlternC. . AlternC facilite l'import de fichiers directement depuis le bureau virtuel ou, plus classiquement, par FTP.
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 04. Import de fichiers et FTP 
+Date | 2009-03-08 17:38:59
+Category | 04. Gestion d'un compte
+Tags | old
+Summary | Comment importer des fichiers, voire les modifier, de manière aisée depuis le bureau virtuel d'AlternC. . AlternC facilite l'import de fichiers directement depuis le bureau virtuel ou, plus classiquement, par FTP.
 
 ## Importer un fichier depuis le gestionnaire de fichiers
 

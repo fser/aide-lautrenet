@@ -1,8 +1,10 @@
-Title: 03. Gérer domaine et sous-domaine 
-Date: 2009-03-08 11:46:44
-Category: 04. Gestion d'un compte
-Tags: old
-Summary: Comment faire poointer un nom de domaine ou un sous-domaine vers un répertoire spécifique de votre compte AlternC. . Depuis le bureau virtuel AlternC il est très aisé de diriger un domaine ou un sous-domaine vers le répertoire de son choix.
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 03. Gérer domaine et sous-domaine 
+Date | 2009-03-08 11:46:44
+Category | 04. Gestion d'un compte
+Tags | old
+Summary | Comment faire poointer un nom de domaine ou un sous-domaine vers un répertoire spécifique de votre compte AlternC. . Depuis le bureau virtuel AlternC il est très aisé de diriger un domaine ou un sous-domaine vers le répertoire de son choix.
 
 ## Modifier le chemin d'un nom de domaine
 

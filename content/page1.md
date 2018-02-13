@@ -1,8 +1,10 @@
-Title: 02. AlternC 
-Date: 2009-02-25 18:24:46
-Category: 15. A propos
-Tags: old
-Summary: Logiciels, sécurité, communauté... . 
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Title | 02. AlternC 
+ Date | 2009-02-25 18:24:46
+ Category | 15. A propos
+ Tags | old 
+ Summary | Logiciels, sécurité, communauté... . 
 
 ## Logiciels
 

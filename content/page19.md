@@ -1,9 +1,10 @@
-Title: 02. Créer une liste 
-Date: 2009-03-09 08:19:39
-Category: 07. Gestion listes de discussion
-Tags: old
-Summary: Il revient au gestionnaire d'un compte AlternC de créer les listes de diffusion/discussion.
-  . Le nombre de listes pour un compte AlternC est déterminé par l'administrateur.
+ Champ | Valeur
+ ------- | ------------------------------ 
+ Titre | 02. Créer une liste 
+Date | 2009-03-09 08:19:39
+Category | 07. Gestion listes de discussion
+Tags | old
+Summary | Il revient au gestionnaire d'un compte AlternC de créer les listes de diffusion/discussion. Le nombre de listes pour un compte AlternC est déterminé par l'administrateur.
 
 
 ## Mise en place de la liste
