@@ -1,4 +1,5 @@
-# aide-lautrenet
+# Aide-lautrenet
+
 Contenu statique de la documentation utilisateur de lautre.net
 
 ## Correspondances des fichiers .md avec les pages du site
