@@ -1,0 +1,13 @@
+Jinja2==2.9.6
+Markdown==2.6.9
+MarkupSafe==1.0
+Pygments==2.2.0
+Unidecode==0.04.21
+argparse==1.2.1
+blinker==1.4
+docutils==0.14
+feedgenerator==1.9
+pelican==3.7.1
+python-dateutil==2.6.1
+pytz==2017.2
+six==1.10.0
