@@ -17,7 +17,7 @@ Pour faire cette note, nous avons crée un compte ayant pour nom {bienvenue}. C'
 
 <img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
-Le login n'est pas modifiable par la suite. C'est ce login (ou nom_du_compte) qui nous permet de [nous connecter au bureau de gestion de notre hébergement](https://panel.lautre.net/admin/) :
+Le login n'est pas modifiable par la suite. C'est ce login (ou nom_du_compte) qui nous permet de [nous connecter au bureau de gestion de notre hébergement](https://panel.lautre.net/) :
 
 <img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
@@ -37,7 +37,7 @@ Nous avons aussi, mais cela ne se voit pas dès l'arrivée dans le Menu :
 
 **Nous avons déjà un « domaine[[Par commodité de langage on parle de domaine et sous-domaine en prenant comme référence le point de départ dans l'arborescence (domaine). Si nous nous situons dans lautre.net, alors {bienvenue}.lautre.net est un sous-domaine, mais si nous nous situons dans {bienvenue}.lautre.net (domaine) alors www.{bienvenue}.lautre.net est un sous-domaine.]] ».** 
 
-En créant notre compte, et tel qu'il est dit dans la [page d'accueil de notre association](http://www.lautre.net/) « chaque membre de lAutre Net dispose de 1 sous-domaine en lautre.net (nomdevotrecompte.lautre.net) ». C'est le Login souhaité que nous avons indiqué (voir écran Etape 4: informations personnelles). Nous avons maintenant un sous-domaine : {bienvenue}.lautre.net, comme on le voit dans la zone entourée :
+En créant notre compte, et tel qu'il est dit dans la [page d'accueil de notre association](https://lautre.net/) « chaque membre de lAutre Net dispose de 1 sous-domaine en lautre.net (nomdevotrecompte.lautre.net) ». C'est le Login souhaité que nous avons indiqué (voir écran Etape 4: informations personnelles). Nous avons maintenant un sous-domaine : {bienvenue}.lautre.net, comme on le voit dans la zone entourée :
 
 <img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
 
@@ -88,7 +88,7 @@ Il est possible de définir des sous-domaines dans un domaine. **L'un des sous-d
 
 Le Domain Name System (ou DNS, système de noms de domaine) est un service permettant d'établir une correspondance entre une adresse IP et un nom de domaine et, plus généralement, de trouver une information à partir d'un nom de domaine. 
 
-(sources: http://fr.wikipedia.org/wiki/Nom_de_domaine et http://fr.wikipedia.org/wiki/Serveurs_DNS, à peine modifiées) »
+(sources: https://fr.wikipedia.org/wiki/Nom_de_domaine et https://fr.wikipedia.org/wiki/Serveurs_DNS, à peine modifiées) »
 
 Donc nos roots préparent déjà le domaine « normal » du web : www.]]
 
@@ -122,7 +122,7 @@ Il n'y a rien dedans. C'est pour cela que notre navigateur affiche l'index of / 
 
 Pour échanger des fichiers entre notre espace d'hébergement et notre ordinateur nous pouvons :
 - le faire directement, mais uniquement dans le sens notre ordinateur vers notre espace d'hébergement, avec AlternC tel que [c'est expliqué dans la documentation](http://aide.lautre.net/Import-de-fichiers-et-FTP) et plus loin dans ce document ;
-- utiliser le [protocole de transfert de fichiers ftp](http://fr.wikipedia.org/wiki/Ftp) et un logiciel spécialisé telle que [FileZilla](http://www.filezilla.fr/) [[Il y a beaucoup de logiciels pour cela. Nous utilisons FileZilla.]]. Pour cela il faut qu'il y ait un « compte ftp » permettant la connexion à notre espace par ce protocole. **Ce compte ftp est déjà prêt**. Si nous cliquons sur le choix « liste des comptes ftp » dans le Menu :
+- utiliser le [protocole de transfert de fichiers ftp](https://fr.wikipedia.org/wiki/File_Transfer_Protocol) et un logiciel spécialisé telle que [FileZilla](http://www.filezilla.fr/) [[Il y a beaucoup de logiciels pour cela. Nous utilisons FileZilla.]]. Pour cela il faut qu'il y ait un « compte ftp » permettant la connexion à notre espace par ce protocole. **Ce compte ftp est déjà prêt**. Si nous cliquons sur le choix « liste des comptes ftp » dans le Menu :
 
 <img src="/img/LAN_EcranAccueil_ComptesFTP_bulleComptesFTP.png" title="to complete" alt="LAN_EcranAccueil_ComptesFTP_bulleComptesFTP.png" />
 
@@ -211,7 +211,7 @@ Parce que cela n'est pas indispensable : on peut très bien faire un site web s
 
 Maintenant, si nous voulons :
 - utiliser notre domaine par défaut pour faire notre site et
-- installer un [CMS](http://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_contenu) comme [SPIP](http://www.spip.net/),
+- installer un [CMS](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_contenu) comme [SPIP](http://www.spip.net/),
 
 le principe reste le même : il suffit de placer les fichiers qui constituent ces systèmes de publication là où nous avons mis pour l'instant un seul fichier : dans  notre espace /www/bienvenue.lautre.net.
 
