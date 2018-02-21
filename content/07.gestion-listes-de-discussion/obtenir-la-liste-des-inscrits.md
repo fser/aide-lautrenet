@@ -9,7 +9,7 @@ Il existe deux façon de récupérer la liste des abonnés à une liste.
 **Par l'interface de gestion des listes**
 
 Utiliser l'adresse 
-[http://listes.lautre.net/cgi-bin/mailman/roster/[nomdeliste]->http://listes.lautre.net/cgi-bin/mailman/roster/[nomdetaliste]] et choisir "afficher la liste des abonnés".
+[http://listes.lautre.net/cgi-bin/mailman/roster/[nomdeliste]](http://listes.lautre.net/cgi-bin/mailman/roster/[nomdetaliste]) et choisir "afficher la liste des abonnés".
 
 **Par envoi de mail**
 
