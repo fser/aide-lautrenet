@@ -22,5 +22,5 @@ source ~/virtenv/pelican/bin/activate
 `https://github.com/getpelican/pelican-themes.git`
   * Générer le projet
 ```
-pelican content -s utils/test/conf.py
+pelican content -s utils/tests/conf.py
 ```

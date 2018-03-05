@@ -15,11 +15,11 @@ L'objectif est de vous montrer le B.A  BA, en supposant que vous n'y connaissez 
 
 Pour faire cette note, nous avons crée un compte ayant pour nom {bienvenue}. C'est le nom_du_compte ou le login ou le nomdevotrecompte[[Dans les pages de documentation vous verrez ces trois termes utilisés indistinctement. Dans ce texte, {bienvenue} est à remplacer par le nom de votre compte.]], que nous avons choisi lors de notre inscription :
 
-<img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
+<img src="/img/LAN_Inscription_Etape4_InformationsPersonnelles.png" title="infopersonelles" alt="LAN_Inscription_Etape4_InformationsPersonnelles.png" />
 
 Le login n'est pas modifiable par la suite. C'est ce login (ou nom_du_compte) qui nous permet de [nous connecter au bureau de gestion de notre hébergement](https://panel.lautre.net/) :
 
-<img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
+<img src="/img/LAN_ConnectionAlternC.png" title="connexion_bureau" alt="LAN_ConnectionAlternC.png" />
 
 ## Un tour de la maison
 
@@ -39,7 +39,7 @@ Nous avons aussi, mais cela ne se voit pas dès l'arrivée dans le Menu :
 
 En créant notre compte, et tel qu'il est dit dans la [page d'accueil de notre association](https://lautre.net/) « chaque membre de lAutre Net dispose de 1 sous-domaine en lautre.net (nomdevotrecompte.lautre.net) ». C'est le Login souhaité que nous avons indiqué (voir écran Etape 4: informations personnelles). Nous avons maintenant un sous-domaine : {bienvenue}.lautre.net, comme on le voit dans la zone entourée :
 
-<img src="/img/ndd_zonedns.jpg" title="to complete" alt="ndd_zonedns.jpg" />
+<img src="/img/LAN_EcranAccueil_bulleNomDomaine.png" title="default_domain" alt="LAN_EcranAccueil_bulleNomDomaine.png" />
 
 Saisissons ce nom de domaine dans la barre d'adresses de notre navigateur :
 
@@ -136,15 +136,15 @@ Nous voyons qu'il existe un compte ayant pour utilisateur {bienvenue} et qui «�
 
 Lors de la création du compte à l'Autre Net un compte mail par défaut est crée, attaché à notre domaine , c'est à dire de la forme @{bienvenue}.lautre.net:
 
-<img src="/img/bureau_gest_detail_new.png" title="to complete" alt="bureau_gest_detail_new.png" />
+<img src="/img/LAN_EcranAccueil_bulleCompteMail.png" title="default_mail" alt="LAN_EcranAccueil_bulleCompteMail.png" />
 
 En cliquant sur ce compte (c'est à dire sur son nom) :
 
-<img src="/img/bureau_gest_detail_new.png" title="to complete" alt="bureau_gest_detail_new.png" />
+<img src="/img/LAN_ListeDesMail.png" title="list_mail" alt="LAN_ListeDesMail.png" />
 
 nous voyons que ce compte mail par défaut est {bienvenue}@{bienvenue}.lautre.net  (login@login.lautre.net), et si nous regardons ses caractéristiques en cliquant sur le crayon à cote :
 
-<img src="/img/bureau_gest_detail_new.png" title="to complete" alt="bureau_gest_detail_new.png" />
+<img src="/img/LAN_ModificationDunEmail.png" title="to complete" alt="LAN_ModificationDunEmail.png" />
 
 nous constatons qu'il y a déjà une redirection des mails vers l'adresse que nous avons fournit en remplissant le formulaire d'adhésion. Donc, par défaut, les mails qui sont envoyés à  {bienvenue}@{bienvenue}.lautre.net vont arriver à notre adresse de contact, qui est aussi celle que nous utilisons pour participer à notre assemblée générale permanente.
 
@@ -182,11 +182,11 @@ nous voyons qu'il y a une zone qui nous permet d'importer un fichier : en cliqu
 
 une fois le fichier sélectionné (double cliq ou cliq + Ouvrir) nous cliquons sur Envoyer :
 
-<img src="/img/bureau_gest_detail_new.png" title="to complete" alt="bureau_gest_detail_new.png" />
+<img src="/img/LAN_fichierPretPourEnvoyer_bulleEnvoyer.png" title="PretPourEnvoyer" alt="LAN_fichierPretPourEnvoyer_bulleEnvoyer.png" />
 
 et voilà le résultat :
 
-<img src="/img/bureau_gest_detail_new.png" title="to complete" alt="bureau_gest_detail_new.png" />
+<img src="/img/LAN_fichierIndexTelecharge.png" title="envoyer" alt="LAN_fichierIndexTelecharge.png" />
 
 Revenons à la page du navigateur qui nous affichait Index of / , c'est à dire celle de notre site par défaut (http://www.{bienvenue}.lautre.net) et rechargeons-la :
 
@@ -205,7 +205,7 @@ Nous venons d'ouvrir un compte, {bienvenue}[[Nous rappelons que tout au long de 
 
 Pourquoi aucun utilisateur MySQL, ni aucune base de données, est défini au départ (c'est marqué en rouge dans l'écran d'accueil) :
 
-<img src="/img/gest-fich11.jpg" title="to complete" alt="gest-fich11.jpg" />
+<img src="/img/LAN_AccueilAucunUtillisateurMySQL_bulleSurMsg.png" title="No MySQL user" alt="LAN_AccueilAucunUtillisateurMySQL_bulleSurMsg.png" />
 
 Parce que cela n'est pas indispensable : on peut très bien faire un site web sans base de données, et dans ce cas pas la peine de sortir un canon pour tuer une mouche.
 
