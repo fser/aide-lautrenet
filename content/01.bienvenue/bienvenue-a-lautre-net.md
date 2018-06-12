@@ -2,17 +2,14 @@ Title: Bienvenue à l'Autre Net
 Date: 2011-06-03 09:02:11
 Category: 01. Bienvenue 
 Tags: old
-Summary: Vous venez de créer un compte et vous souhaitez publier sur internet. Les pages qui suivent ont pour but 
-I. de vous faire faire un premier « tour de la maison » et
-II. traiter d'un cas très simple : publier une première page sur internet. 
-L'objectif est de vous montrer le B.A  BA, en supposant que vous n'y connaissez pas grand chose. . 
+Summary: Vous venez de créer un compte et vous souhaitez publier sur internet. Les pages qui suivent pourraient vous aider
 
 Vous venez de créer un compte et vous souhaitez publier sur internet. Les pages qui suivent ont pour but
 
 - de vous faire faire un premier « tour de la maison » et
 - traiter d'un cas très simple : publier une première page sur internet.
 
-L'objectif est de vous montrer le B.A  BA, en supposant que vous n'y connaissez pas grand chose[[Donc, les geeks, passez votre chemin, sauf si vous avez des suggestions « constructives » ;-)]].
+L'objectif est de vous montrer le B.A  BA, en supposant que vous n'y connaissez pas grand chose. Donc, les geeks, passez votre chemin, sauf si vous avez des suggestions « constructives » ;-).
 
 Pour faire cette note, nous avons crée un compte ayant pour nom *bienvenue*. C'est le nom_du_compte ou le login ou le nomdevotrecompte[[Dans les pages de documentation vous verrez ces trois termes utilisés indistinctement. Dans ce texte, *bienvenue* est à remplacer par le nom de votre compte.]], que nous avons choisi lors de notre inscription :
 
