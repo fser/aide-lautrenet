@@ -6,19 +6,20 @@ Summary: Vous êtes en train de créer un compte et vous souhaitez publier sur i
 
 Vous venez de créer un compte et vous souhaitez publier sur internet. Les pages qui suivent ont pour but
 
-- de vous faire faire un premier « tour de la maison » et
+- de vous faire faire un premier « tour de la maison » 
 - traiter d'un cas très simple : publier une première page sur internet.
 
 L'objectif est de vous montrer le B.A  BA, en supposant que vous n'y connaissez pas grand chose.  
 *(Donc, les geeks, passez votre chemin, sauf si vous avez des suggestions « constructives » ;-) )*.
 
-Pour les exemples présentés dans cette aide, nous avons créé un compte ayant pour nom **bonvenon**. C'est le "nom\_du\_compte" ou le "login" ou le "nomdevotrecompte" *(Dans les pages de cette documentation vous rencontrerez selon le cas un de ces trois termes utilisés. Dans ce texte,* **bonvenon** *est à remplacer par le "nom de votre compte".)*, que nous avons choisi lors de notre inscription lors de l'étape 4.  
+Pour les exemples présentés dans cette aide, nous avons créé un compte ayant pour nom **bonvenon**. C'est le "nom\_du\_compte" ou le "login" ou le "nomdevotrecompte" que nous avons choisi lors de notre inscription lors de l'étape 4.  
+*(Dans les pages de cette documentation vous rencontrerez selon le cas un de ces trois termes utilisés. Dans ce texte,* **bonvenon** *est à remplacer par le "nom de votre compte".)*  
 
-![Information personnelles](../img/LAN_Inscription_Etape4_InformationsPersonnelles.jpg) 
+![Information personnelles](../img/LAN_Inscription_Etape4_InformationsPersonnelles.jpg)  
 <center>(illustration 1)  </center>      
 Après l'étape 4 vous avez reçu un mail vous invitant à confirmer la création de votre compte sur lautre.net. En cliquant sur le lien contenu dans ce mail votre navigateur ouvre un nouvel onglet confirmant le création du compte.  
   
-![Confirmation](../img/LAN_Inscription_Confirmation_Creation_Compte.jpg)
+![Confirmation](../img/LAN_Inscription_Confirmation_Creation_Compte.jpg)  
 <center>(illustration 2)  </center>   
 
 Votre compte est maintenant validé vous pouvez vous connecter sur l'interface de gestion.   
@@ -74,14 +75,14 @@ Dans la partie droite de l'interface il y a une liste en deux parties : sur la g
 ![Gestion d'un sous-domaine redirection](../img/LAN_EditionSousDomaineBienvenue_bulleRedirectionHttp.jpg)
 <center>(illustration 9)  </center> 
 
-Ce sous-domaine est redirigée vers une autre adresse (un autre sous-domaine) qui est http://www\.*bonvenon*.lautre.net. Voilà pourquoi quand nous avons tapé http://*bonvenon*.lautre.net.nous avons vu apparaître http://www\.*bonvenon*.lautre.net.
+Ce sous-domaine est redirigé vers une autre adresse (un autre sous-domaine) qui est http://www\.*bonvenon*.lautre.net. Voilà pourquoi quand nous avons tapé http://*bonvenon*.lautre.net.nous avons vu apparaître http://www\.*bonvenon*.lautre.net.
 
 Qu'il y a-t-il derrière http://www\.*bonvenon*.lautre.net ? Si nous revenons en arrière, puis cliquons cette fois-ci sur le crayon à coté de www\.*bonvenon*.lautre.net, nous avons :
 
 ![Gestion d'un sous-domaine hébergement en local](../img/LAN_EditionSousDomaine_www_bienvenue-lautre-net_bulleGereEnLocal.jpg)
 <center>(illustration 10)  </center>   
 
-Il est indiqué que ce sous-domaine est « géré en local », autrement dit que les documents sont sur le serveur de l'Autre Net, et nous voyons leur localisation dans le dossier /www/*bonvenon*.lautre.net (nous verrons cela plus tard dans cette aide).  
+Il est indiqué que ce sous-domaine est « géré en local », autrement dit que les documents sont sur le serveur de l'Autre Net, et nous voyons leur localisation dans le dossier /www/*bonvenon*.lautre.net/ (nous verrons cela plus tard dans cette aide).  
     
     
 >[NDLR] : Pourquoi ce sac de nœuds entre *bonvenon*.lautre.net à www\.*bonvenon*.lautre.net ?  
@@ -154,7 +155,7 @@ Nous voyons qu'il existe un compte ayant pour nom d'utilisateur *bonvenon* et qu
 >Pour cela cliquer sur le lien "Créer un compte ftp"
 >![création compte FTP](../img/LAN_CreationComptesFtp.jpg)  
 ><center>(illustration 17)  </center>  
->Il suffit de taper deux fois le mot de passe.  
+>Il suffit de taper deux fois le mot de passe (ovale rouge), puis de cliquer sur le bouton "Enregistrer" (rectangle rouge).  
 ASTUCE : utlilisez le même mot de passe que celui de votre compte lautre.net.  
 >
 >![Mot de passe compte FTP](../img/LAN_CreationComptesFtpdefaut.jpg) 
@@ -178,30 +179,29 @@ nous voyons que ce compte mail par défaut est *bonvenon*@*bonvenon*.lautre.net,
 ![Email détail](../img/LAN_ModificationDunEmail.jpg)
 <center>(illustration 21)  </center> 
 
-nous constatons qu'il y a déjà une redirection des mails vers l'adresse que nous avons fournie en remplissant le formulaire d'adhésion. Donc, par défaut, les mails qui sont envoyés à *bonvenon*@*bonvenon*.lautre.net vont arriver à notre adresse de contact, qui est aussi celle que nous utilisons pour participer à notre assemblée générale permanente.
+nous constatons qu'il y a déjà une redirection des mails vers l'adresse que nous avons fourni en remplissant le formulaire d'adhésion. Donc, par défaut, les mails qui sont envoyés à *bonvenon*@*bonvenon*.lautre.net vont arriver à notre adresse de contact, qui est aussi celle que nous utilisons pour participer à notre assemblée générale permanente.
 
 Mais comment lire directement les messages adressés à *bonvenon*@*bonvenon*.lautre.net ? Comme il est indiqué dans cette page, « vous pouvez consulter votre boîte au lettres par webmail » 
 
 - en tapant l'adresse http://mail\.*bonvenon*.lautre.net/ dans la barre d'adresse de votre navigateur.
-- avec pour identifiant *bonvenon*@*bonvenon*.lautre.net
-- et pour mot de passe celui de votre compte.
-**Mais il faut au préalable avoir coché la casse Compte POP**, comme c'est écrit « Si vous voulez stocker les emails recus et y accéder avec un logiciel de messagerie ou le webmail, cochez la case 'Compte pop'. ». **Sinon ça marchera pas**. Nous pouvons aussi par la même occasion changer le mot de passe, mais c'est optionnel.  
+- avec pour identifiant *bonvenon*@*bonvenon*.lautre.net et pour mot de passe celui de votre compte.
+**Mais il faut au préalable avoir coché "Oui" (illustration 21)**,  cochez le bouton radio 'oui' (ovale rouge) puis cliquer sur le bouton "Modifier cette adresse email" (rectangle rouge). **Sinon ça marchera pas**. Nous pouvons aussi par la même occasion changer le mot de passe, mais c'est optionnel.   
 
 ![Consultation webmail](../img/RoundCube_bienvenue.jpg)
 <center>(illustration 22)  </center> 
 
 >NDLR: SI l'adresse mail n'a été générée automatiquement, vous pouvez la créer.
 >Pour cela cliquer sur le lien "*bonvenon*.lautre.net (0)" (Ovale rouge ci-dessous).  
->
->![Ecran accueil mail](../img/LAN_EcranAccueil_bulleCompteMail 0 compte.jpg)  
+>![Ecran accueil mail](../img/LAN_EcranAccueil_bulleCompteMail_sans_compte.jpg)  
 ><center>(illustration 23)  </center>  
 >Taper votre nom de compte avant @*bonvenon*.lautre.net (ovale orange) puis cliquer sur le bouton "Ajouter cette adresse email" (rectangle rouge)  
 >![Creation email par défaut](../img/LAN_CreationDunEmail.jpg)  
-><center>(illustration 24)  </center> 
+><center>(illustration 24)  </center>   
+>
 >Saisir votre adresse de contact (ovale orange) puis cliquer sur le bouton "Modifier cet adresse email" (rectangle rouge)  
 >
->![](../img/LAN_ValidationCreationDunEmail.jpg)
-><center>(illustration 25)  </center> 
+>![](../img/LAN_ValidationCreationDunEmail.jpg)  
+>><center>(illustration 25)  </center> 
 >
 
 ## Une première page. 
@@ -227,7 +227,7 @@ Cliquer sur l'onglet "Modifier "(ovale rouge)
 ![Modification index.html](../img/LAN_GestionnaireDeFichiersModificationIndex.jpg)  
 <center>(illustration 28)  </center> 
 
-Recopier Le texte ci-dessous dans la zone de texte (ovale rouge)
+Recopier (copier/coller) le texte ci-dessous dans la zone de texte (ovale rouge)
  
     <html><body><h1>&Ccedil;a marche!</h1> 
     <p>Ceci est la page web par d&eacutefaut de ce site.</p> 
@@ -239,7 +239,7 @@ Recopier Le texte ci-dessous dans la zone de texte (ovale rouge)
 
 puis cliquer sur le bouton "Enregistrer" (rectangle rouge)
 
-Revenons à la page du navigateur qui nous affichait ""Index of /" , c'est à dire celle de notre site par défaut (http://www\.*bonvenon*.lautre.net) et rechargeons-la (touche Ctrl + F5, pour la pluspart des navigateurs):  
+Revenons à la page du navigateur qui nous affichait ""Index of /" , c'est à dire celle de notre site par défaut (http://www\.*bonvenon*.lautre.net) et rechargeons-la (touche Ctrl + F5, pour la pluspart des navigateurs) :  
 
 ![Page d'accueil](../img/LAN_http_www_bienvenue_lautre_net_index.jpg)  
 <center>(illustration 30)  </center> 
