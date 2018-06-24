@@ -12,7 +12,7 @@ Vous venez de créer un compte et vous souhaitez publier sur internet. Les pages
 L'objectif est de vous montrer le B.A  BA, en supposant que vous n'y connaissez pas grand chose.  
 *(Donc, les geeks, passez votre chemin, sauf si vous avez des suggestions « constructives » ;-) )*.
 
-Pour les exemples présentés dans cette aide, nous avons créé un compte ayant pour nom **bonvenon**. C'est le "nom\_du\_compte" ou le "login" ou le "nomdevotrecompte" que nous avons choisi lors de notre inscription lors de l'étape 4.  
+Pour les exemples présentés dans cette aide, nous avons créé un compte ayant pour nom **bonvenon**. C'est le "nom\_du\_compte" ou le "login" ou le "nomdevotrecompte" ou "Utilisateur" que nous avons choisi lors de notre inscription lors de l'étape 4 ("login souhaité").  
 *(Dans les pages de cette documentation vous rencontrerez selon le cas un de ces trois termes utilisés. Dans ce texte,* **bonvenon** *est à remplacer par le "nom de votre compte".)*  
 
 ![Information personnelles](../img/LAN_Inscription_Etape4_InformationsPersonnelles.jpg)  
