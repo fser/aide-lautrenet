@@ -27,7 +27,7 @@ Cette liste étant à diffusion très large, elle est réservée aux annonces im
 
 L'inscription aux listes de diffusions privées de l'association se fait en cliquant sur le lien "Inscription aux listes" du bureau virtuel.
 
-Il convient alors de cliquer sur le lien "Cliquez ici pour vous inscrire" pour vous abonner à la liste mentionnée juste au-dessus.
+Il convient alors de cliquer sur le lien "Cliquez ici pour vous inscrire" pour vous abonner aux listes mentionnées juste au-dessus.
 
 Cette page permet donc l'inscription aux listes debats, aide, techos-web, aide-redac. La désinscription s'effectue à partir de la même page. Le lien se transforme en "Cliquez ici pour vous désinscrire" si vous êtes inscrit à une liste.
 
